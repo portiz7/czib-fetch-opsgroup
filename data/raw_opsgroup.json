@@ -1,5 +1,18 @@
 {
   "source": "OpsGroup",
-  "fetched_at": "2026-07-28T23:01:53.254976+00:00",
-  "country_notes": {}
+  "fetched_at": "2026-07-28T23:13:18.741629+00:00",
+  "country_notes": {
+    "Kuwait": "Kuwait has extended its airspace restrictions until at least Aug 4. Overflights through the OKAC/Kuwait FIR are still not permitted – only flights arriving to or departing from OKKK/Kuwait are allowed, with prior approval.",
+    "Iran": "Some overflights above FL285 are possible via specific temporary routes linking Oman/UAE with Central Asia, the Caucasus and Turkey, but western Iran remains heavily restricted. Several radar systems remain degraded, many western airports are still closed or daytime-only, and pretty much everyone continues avoiding the airspace.",
+    "Qatar": "Qatar has now reopened to overflights. The earlier restrictions on waypoints and arrival/departure route segments have been withdrawn, although some temporary restricted areas and military activity remain. Operationally, things had been getting close to normal again, but EASA now advises operators to avoid the FIR at all levels.",
+    "UAE": "The UAE remains open to overflights, with traffic managed through a mixture of normal ATS routes and temporary RNAV corridors. GPS interference continues to be one of the biggest operational issues across the FIR. But EASA advises operators to avoid the FIR at all levels.",
+    "Bahrain": "Bahrain is open to overflights again. Just keep in mind that nearby airspace, especially Kuwait, is still restricted and can affect your routing. EASA also advises operators to avoid the FIR at all levels.",
+    "Iraq": "Iraq is open for overflights again, but it still doesn’t really bring back the old Europe-Asia corridor because western Iran remains restricted and most operators still consider the ORBB/Baghdad FIR too high risk. Some airlines are using Iraq, but the main flows still seem to be north via the Caucasus/Afghanistan or south via Egypt/Saudi/Oman.",
+    "Saudi Arabia": "Saudi remains open and is still the main southern bypass link. Traffic levels through the OEJD/Jeddah FIR remain very high, especially between the Gulf and Egypt, with flow measures and tactical routings now a normal part of ops. Opsgroup members are also reporting heavy ATC congestion and blocked transmissions in some sectors (more on that below!)",
+    "Oman": "Oman remains one of the most useful FIRs in the region, especially for the southern bypass. It is open, but still part of the managed corridor system, with flow measures and ongoing GNSS interference reports.",
+    "Jordan": "Open and operating normally. In practice, it’s still not a major transit route for Europe-Asia traffic. Most operators continue to route via Egypt and Saudi Arabia, as they did before the conflict.",
+    "Israel": "Israel is open again, but ops still aren’t back to normal. Some foreign airlines have resumed services, but most major US and European operators continue to stay away. While the airspace remains available, the risk of short notice disruption remains higher than elsewhere in the region.",
+    "Syria": "Syria seems to have quietly become part of the regional routing picture again after years of almost no international overflight traffic.",
+    "Armenia/Azerbaijan/Afghanistan": "Armenia and Azerbaijan remain important parts of the northern bypass, with steady overflight demand. The main issue is still Afghanistan – the OAKX/Kabul FIR remains Class G with no normal ATS service, so crews still need to use the published contingency routes and operate with TIBA procedures."
+  }
 }
