@@ -1,0 +1,41 @@
+name: Fetch OpsGroup operational picture
+
+on:
+  schedule:
+    # Every 6 hours, UTC. Second of the two source repos in the pipeline —
+    # czib-combine runs on its own, later, staggered cron.
+    - cron: '0 */6 * * *'
+  workflow_dispatch: {}   # lets you click "Run workflow" manually in the Actions tab
+
+permissions:
+  contents: write   # needed so the workflow can commit data/raw_opsgroup.json back to the repo
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch OpsGroup operational picture
+        run: python scripts/fetch_opsgroup.py
+
+      - name: Commit updated data if it changed
+        run: |
+          git config user.name "czib-fetch-opsgroup-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/raw_opsgroup.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Auto-update OpsGroup raw data ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi
