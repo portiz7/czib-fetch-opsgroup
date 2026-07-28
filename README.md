@@ -5,7 +5,7 @@ Source repo 2 of 2 in a small pipeline that feeds the
 
 ```
 czib-fetch-easa                     ─┐
-czib-fetch-opsgroup    (this repo)   ├─▶ czib-combine ─▶ Test_2_CZIB (dashboard)
+czib-fetch-opsgroup    (this repo)   ├─▶ conflict-zones-combine ─▶ Test_2_CZIB (dashboard)
                                      ─┘
 ```
 
@@ -21,11 +21,11 @@ Every 6 hours (and on manual `workflow_dispatch`), `scripts/fetch_opsgroup.py`:
 This is the most fragile parser in the whole pipeline — OpsGroup could restyle their
 blog post at any time without notice. If parsing fails, this repo just writes an empty
 `country_notes` object and logs a warning rather than guessing; downstream,
-[czib-combine](https://github.com/portiz7/czib-combine) falls back to whatever it last
+[conflict-zones-combine](https://github.com/portiz7/conflict-zones-combine) falls back to whatever it last
 had for OpsGroup.
 
 This repo does **no** cleaning, deduplication, cross-referencing with other sources, or
-AI synthesis — that all happens downstream in czib-combine, which reads this repo's
+AI synthesis — that all happens downstream in conflict-zones-combine, which reads this repo's
 `data/raw_opsgroup.json` directly over `https://raw.githubusercontent.com/...` (this
 repo is public specifically so that read needs no auth token).
 

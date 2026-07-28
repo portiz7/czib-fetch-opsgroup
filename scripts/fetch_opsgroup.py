@@ -8,12 +8,12 @@ blog post, which gives a country-by-country operational rundown.
 Structure being parsed: '#### CountryName' heading followed by a paragraph.
 This is the most fragile parser in the whole pipeline — OpsGroup could
 restyle their blog at any time. If it returns nothing, it just logs a
-warning and writes an empty result rather than guessing; czib-combine falls
+warning and writes an empty result rather than guessing; conflict-zones-combine falls
 back to whatever it last had for OpsGroup when this happens.
 
 Output: data/raw_opsgroup.json — raw, unprocessed data for this source only.
 Cleaning, deduplication and cross-referencing against other sources happens
-downstream in the czib-combine repo, not here.
+downstream in the conflict-zones-combine repo, not here.
 """
 
 import json
