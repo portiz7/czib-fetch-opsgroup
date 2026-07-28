@@ -126,31 +126,52 @@ def _parse_risk_level(soup):
     return number, label
 
 
-def _parse_narrative(soup, risk_h3, warnings_h3):
-    """Collects <p> paragraphs between the risk-level heading and the
-    warnings-list heading (whichever of those two exists), pulling out the
-    optional "Read: <link>" reference paragraph separately."""
+def _parse_narrative(wrap, risk_h3, warnings_h3):
+    """
+    Line-based, not tag-based: confirmed against live data that the
+    narrative text is NOT wrapped in <p> tags (a tag-name filter caught
+    nothing at all, on every country). Instead flattens wrap's text into
+    lines (one per block-level element, same technique used for EASA's
+    Information Notes table) and takes everything between the "Risk
+    Level:" line and the "Current warnings list :" line, skipping the
+    "[ about risk levels ]" chrome link and pulling out an optional
+    "Read: ..." reference line.
+    """
     if risk_h3 is None:
         return "", None
 
-    narrative_parts = []
-    related_reading = None
-    for el in risk_h3.find_all_next():
-        if warnings_h3 is not None and el is warnings_h3:
+    lines = [l for l in wrap.get_text("\n", strip=True).split("\n") if l.strip()]
+    warnings_text = _clean(warnings_h3.get_text(" ", strip=True)) if warnings_h3 is not None else None
+
+    start_idx = None
+    end_idx = len(lines)
+    for i, line in enumerate(lines):
+        if start_idx is None and line.lower().startswith("risk level"):
+            start_idx = i + 1
+            continue
+        if start_idx is not None and warnings_text and _clean(line) == warnings_text:
+            end_idx = i
             break
-        if getattr(el, "name", None) != "p":
+    if start_idx is None:
+        return "", None
+
+    narrative_parts = []
+    related_reading_title = None
+    for line in lines[start_idx:end_idx]:
+        low = line.lower()
+        if "about risk levels" in low:
             continue
-        text = _clean(el.get_text(" ", strip=True))
-        if not text:
+        if low.startswith("read:"):
+            related_reading_title = line[len("read:"):].strip()
             continue
-        if text.lower().startswith("read:"):
-            a = el.find("a", href=True)
-            if a:
-                related_reading = {"title": _clean(a.get_text(" ", strip=True)), "url": a["href"]}
-            continue
-        if "about risk levels" in text.lower():
-            continue
-        narrative_parts.append(text)
+        narrative_parts.append(line)
+
+    related_reading = None
+    if related_reading_title:
+        # Best-effort: grab the href of whichever link's visible text matches
+        # the "Read: <title>" line, since the flattened text alone has no URL.
+        a = wrap.find("a", string=lambda s: s and _clean(s) == related_reading_title)
+        related_reading = {"title": related_reading_title, "url": a["href"] if a and a.get("href") else None}
 
     return " ".join(narrative_parts), related_reading
 
@@ -215,7 +236,7 @@ def parse_country_page(slug, url):
     warnings_h3 = soup.find("h3", class_="page-country-warninglist")
 
     risk_level_number, risk_level_label = _parse_risk_level(soup)
-    narrative, related_reading = _parse_narrative(soup, risk_h3, warnings_h3)
+    narrative, related_reading = _parse_narrative(wrap, risk_h3, warnings_h3)
 
     table_rows = _parse_warnings_table(warnings_h3)
     detail_blocks = _parse_warning_detail_blocks(soup)
