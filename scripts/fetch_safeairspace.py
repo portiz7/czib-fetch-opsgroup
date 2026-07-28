@@ -154,6 +154,11 @@ def _parse_narrative(wrap, risk_h3, warnings_h3):
             break
     if start_idx is None:
         return "", None
+    # The risk-level <h3> itself renders as TWO flattened lines ("Risk Level:"
+    # then "One - Do Not Fly" on its own line, confirmed against live data -
+    # without this, every narrative started with a leaked "One - Do Not Fly").
+    if start_idx < end_idx and re.match(r"^(One|Two|Three|Four)\s*-\s*.+$", lines[start_idx]):
+        start_idx += 1
 
     narrative_parts = []
     related_reading_title = None
