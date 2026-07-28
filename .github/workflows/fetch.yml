@@ -25,17 +25,14 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Fetch OpsGroup operational picture
-        run: python scripts/fetch_opsgroup.py
-
-      - name: Fetch safeairspace.net (all countries)
-        run: python scripts/fetch_safeairspace.py
+      - name: Fetch OpsGroup + safeairspace.net (combined)
+        run: python scripts/fetch_all.py
 
       - name: Commit updated data if it changed
         run: |
           git config user.name "czib-fetch-opsgroup-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/raw_opsgroup.json data/raw_safeairspace.json
+          git add data/raw_opsgroup.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
