@@ -1,4 +1,4 @@
-name: Fetch OpsGroup operational picture
+name: Fetch OpsGroup + safeairspace.net
 
 on:
   schedule:
@@ -8,7 +8,7 @@ on:
   workflow_dispatch: {}   # lets you click "Run workflow" manually in the Actions tab
 
 permissions:
-  contents: write   # needed so the workflow can commit data/raw_opsgroup.json back to the repo
+  contents: write   # needed so the workflow can commit data back to the repo
 
 jobs:
   fetch:
@@ -28,14 +28,17 @@ jobs:
       - name: Fetch OpsGroup operational picture
         run: python scripts/fetch_opsgroup.py
 
+      - name: Fetch safeairspace.net (all countries)
+        run: python scripts/fetch_safeairspace.py
+
       - name: Commit updated data if it changed
         run: |
           git config user.name "czib-fetch-opsgroup-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/raw_opsgroup.json
+          git add data/raw_opsgroup.json data/raw_safeairspace.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Auto-update OpsGroup raw data ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git commit -m "Auto-update OpsGroup + safeairspace.net raw data ($(date -u +'%Y-%m-%d %H:%M UTC'))"
             git push
           fi
