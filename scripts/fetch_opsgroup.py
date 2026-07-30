@@ -96,10 +96,14 @@ def fetch_opsgroup_picture():
             # minus what OpsGroup's blog just doesn't have (no risk rating,
             # no separate warnings list) - explicit "None"/[] rather than
             # null, so nothing downstream needs a special case for this
-            # source vs. safeairspace.net.
+            # source vs. safeairspace.net. risk_level_number is -1, not 0 or
+            # null: safeairspace.net's own "Risk Level: No Warnings" tier is
+            # a REAL 0 (confirmed live, e.g. Armenia/Kenya), and OpsGroup
+            # doesn't rate countries at all - reusing 0 here would make "no
+            # rating system" indistinguishable from "rated, and it's clean".
             result[country] = {
                 "country": country,
-                "risk_level_number": None,
+                "risk_level_number": -1,
                 "risk_level_label": "None",
                 "narrative": narrative,
                 "related_reading": [],

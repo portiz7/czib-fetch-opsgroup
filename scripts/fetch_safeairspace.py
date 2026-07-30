@@ -111,9 +111,21 @@ def get_country_list():
 
 
 def _parse_risk_level(soup):
-    """Returns (number, label). label defaults to the string "None" (not
+    """
+    Returns (number, label). label defaults to the string "None" (not
     Python None) when there's no risk-level heading at all, so downstream
-    consumers never need a null-check for this field."""
+    consumers never need a null-check for this field.
+
+    Two real heading formats exist, confirmed live:
+      "Risk Level: One - Do Not Fly"   -> number=1, label="Do Not Fly"
+      "Risk Level: No Warnings"        -> number=0, label="No Warnings"
+    The second has no " - " separator at all - a country whose only
+    coverage is the safeairspace.net baseline gets classed as Level 0/"No
+    Warnings" rather than having no rating. This is real data, not a
+    missing-value case: 0 was initially mistaken for one until the actual
+    heading text was checked (it produced a real 0 alongside a wrongly
+    generic "None" label, since the " - " split silently found nothing).
+    """
     h3 = soup.find("h3", class_=lambda c: c and "page-country-summary-risk-level" in c)
     if not h3:
         return None, "None"
@@ -123,7 +135,10 @@ def _parse_risk_level(soup):
         if m:
             number = int(m.group(1))
     text = _clean(h3.get_text(" ", strip=True))
-    label = text.split(" - ", 1)[1].strip() if " - " in text else "None"
+    if " - " in text:
+        label = text.split(" - ", 1)[1].strip()
+    else:
+        label = re.sub(r"^Risk Level:\s*", "", text, flags=re.IGNORECASE).strip() or "None"
     return number, label
 
 
