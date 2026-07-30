@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-07-30T18:52:29.980642+00:00",
+  "fetched_at": "2026-07-30T20:11:24.963235+00:00",
   "opsgroup": {
     "source": "OpsGroup",
-    "fetched_at": "2026-07-30T18:52:29.980642+00:00",
+    "fetched_at": "2026-07-30T20:11:24.963235+00:00",
     "countries": {
       "Kuwait": {
         "country": "Kuwait",
-        "risk_level_number": null,
+        "risk_level_number": -1,
         "risk_level_label": "None",
         "narrative": "Kuwait has extended its airspace restrictions until at least Aug 4. Overflights through the OKAC/Kuwait FIR are still not permitted – only flights arriving to or departing from OKKK/Kuwait are allowed, with prior approval.",
         "related_reading": [],
@@ -14,7 +14,7 @@
       },
       "Iran": {
         "country": "Iran",
-        "risk_level_number": null,
+        "risk_level_number": -1,
         "risk_level_label": "None",
         "narrative": "Some overflights above FL285 are possible via specific temporary routes linking Oman/UAE with Central Asia, the Caucasus and Turkey, but western Iran remains heavily restricted. Several radar systems remain degraded, many western airports are still closed or daytime-only, and pretty much everyone continues avoiding the airspace.",
         "related_reading": [],
@@ -22,7 +22,7 @@
       },
       "Qatar": {
         "country": "Qatar",
-        "risk_level_number": null,
+        "risk_level_number": -1,
         "risk_level_label": "None",
         "narrative": "Qatar has now reopened to overflights. The earlier restrictions on waypoints and arrival/departure route segments have been withdrawn, although some temporary restricted areas and military activity remain. Operationally, things had been getting close to normal again, but EASA now advises operators to avoid the FIR at all levels.",
         "related_reading": [],
@@ -30,7 +30,7 @@
       },
       "UAE": {
         "country": "UAE",
-        "risk_level_number": null,
+        "risk_level_number": -1,
         "risk_level_label": "None",
         "narrative": "The UAE remains open to overflights, with traffic managed through a mixture of normal ATS routes and temporary RNAV corridors. GPS interference continues to be one of the biggest operational issues across the FIR. But EASA advises operators to avoid the FIR at all levels.",
         "related_reading": [],
@@ -38,7 +38,7 @@
       },
       "Bahrain": {
         "country": "Bahrain",
-        "risk_level_number": null,
+        "risk_level_number": -1,
         "risk_level_label": "None",
         "narrative": "Bahrain is open to overflights again. Just keep in mind that nearby airspace, especially Kuwait, is still restricted and can affect your routing. EASA also advises operators to avoid the FIR at all levels.",
         "related_reading": [],
@@ -46,7 +46,7 @@
       },
       "Iraq": {
         "country": "Iraq",
-        "risk_level_number": null,
+        "risk_level_number": -1,
         "risk_level_label": "None",
         "narrative": "Iraq is open for overflights again, but it still doesn’t really bring back the old Europe-Asia corridor because western Iran remains restricted and most operators still consider the ORBB/Baghdad FIR too high risk. Some airlines are using Iraq, but the main flows still seem to be north via the Caucasus/Afghanistan or south via Egypt/Saudi/Oman.",
         "related_reading": [],
@@ -54,7 +54,7 @@
       },
       "Saudi Arabia": {
         "country": "Saudi Arabia",
-        "risk_level_number": null,
+        "risk_level_number": -1,
         "risk_level_label": "None",
         "narrative": "Saudi remains open and is still the main southern bypass link. Traffic levels through the OEJD/Jeddah FIR remain very high, especially between the Gulf and Egypt, with flow measures and tactical routings now a normal part of ops. Opsgroup members are also reporting heavy ATC congestion and blocked transmissions in some sectors (more on that below!)",
         "related_reading": [],
@@ -62,7 +62,7 @@
       },
       "Oman": {
         "country": "Oman",
-        "risk_level_number": null,
+        "risk_level_number": -1,
         "risk_level_label": "None",
         "narrative": "Oman remains one of the most useful FIRs in the region, especially for the southern bypass. It is open, but still part of the managed corridor system, with flow measures and ongoing GNSS interference reports.",
         "related_reading": [],
@@ -70,7 +70,7 @@
       },
       "Jordan": {
         "country": "Jordan",
-        "risk_level_number": null,
+        "risk_level_number": -1,
         "risk_level_label": "None",
         "narrative": "Open and operating normally. In practice, it’s still not a major transit route for Europe-Asia traffic. Most operators continue to route via Egypt and Saudi Arabia, as they did before the conflict.",
         "related_reading": [],
@@ -78,7 +78,7 @@
       },
       "Israel": {
         "country": "Israel",
-        "risk_level_number": null,
+        "risk_level_number": -1,
         "risk_level_label": "None",
         "narrative": "Israel is open again, but ops still aren’t back to normal. Some foreign airlines have resumed services, but most major US and European operators continue to stay away. While the airspace remains available, the risk of short notice disruption remains higher than elsewhere in the region.",
         "related_reading": [],
@@ -86,7 +86,7 @@
       },
       "Syria": {
         "country": "Syria",
-        "risk_level_number": null,
+        "risk_level_number": -1,
         "risk_level_label": "None",
         "narrative": "Syria seems to have quietly become part of the regional routing picture again after years of almost no international overflight traffic.",
         "related_reading": [],
@@ -94,7 +94,7 @@
       },
       "Armenia": {
         "country": "Armenia",
-        "risk_level_number": null,
+        "risk_level_number": -1,
         "risk_level_label": "None",
         "narrative": "Armenia and Azerbaijan remain important parts of the northern bypass, with steady overflight demand. The main issue is still Afghanistan – the OAKX/Kabul FIR remains Class G with no normal ATS service, so crews still need to use the published contingency routes and operate with TIBA procedures.",
         "related_reading": [],
@@ -102,7 +102,7 @@
       },
       "Azerbaijan": {
         "country": "Azerbaijan",
-        "risk_level_number": null,
+        "risk_level_number": -1,
         "risk_level_label": "None",
         "narrative": "Armenia and Azerbaijan remain important parts of the northern bypass, with steady overflight demand. The main issue is still Afghanistan – the OAKX/Kabul FIR remains Class G with no normal ATS service, so crews still need to use the published contingency routes and operate with TIBA procedures.",
         "related_reading": [],
@@ -110,7 +110,7 @@
       },
       "Afghanistan": {
         "country": "Afghanistan",
-        "risk_level_number": null,
+        "risk_level_number": -1,
         "risk_level_label": "None",
         "narrative": "Armenia and Azerbaijan remain important parts of the northern bypass, with steady overflight demand. The main issue is still Afghanistan – the OAKX/Kabul FIR remains Class G with no normal ATS service, so crews still need to use the published contingency routes and operate with TIBA procedures.",
         "related_reading": [],
@@ -120,7 +120,7 @@
   },
   "safeairspace": {
     "source": "safeairspace.net",
-    "fetched_at": "2026-07-30T18:52:29.980642+00:00",
+    "fetched_at": "2026-07-30T20:11:24.963235+00:00",
     "countries": {
       "afghanistan": {
         "country": "Afghanistan",
@@ -211,7 +211,7 @@
       "armenia": {
         "country": "Armenia",
         "risk_level_number": 0,
-        "risk_level_label": "None",
+        "risk_level_label": "No Warnings",
         "narrative": "No Warnings June 2026: Armenian airspace (UDDD/Yerevan FIR) is seeing increased traffic as operators route around the Middle East conflict zone. The Armenia-Azerbaijan corridor has become one of the main Europe-Asia bypass routes and remains busy with overflight traffic. See OPSGROUP Briefing : Middle East airspace situation - 2026 The primary risk is potential spillover from the Iran conflict into the southern Caucasus region, including missile or drone activity crossing into neighbouring airspace. There also remains a background risk from military tensions between Armenia and Azerbaijan. Although cross-border waypoints reopened following the Sep 2023 ceasefire, previous conflicts between the two countries have resulted in airspace restrictions and the closure of border routes. Major events: March 2026: Iranian drones crossed into Azerbaijan and struck the terminal building at UBBN/Nakhchivan airport, highlighting the risk of spillover from the Iran conflict into the Caucasus region. Sep 2023: Ceasefire agreed between Armenia and Azerbaijan following fighting in the border region, cross-border waypoints reopened. Sep 2022: Clashes between Armenia and Azerbaijan temporarily closed border waypoints. Sep-Oct 2020: War between Armenia and Azerbaijan led to large areas of closed airspace and warnings of missile threats.",
         "related_reading": [],
         "warnings": [],
@@ -221,7 +221,7 @@
       "azerbaijan": {
         "country": "Azerbaijan",
         "risk_level_number": 0,
-        "risk_level_label": "None",
+        "risk_level_label": "No Warnings",
         "narrative": "No Warnings June 2026: Azerbaijan airspace (the UBBA/Baku FIR) is seeing increased traffic as operators route around the Middle East conflict zone. The Armenia-Azerbaijan corridor has become one of the main Europe-Asia bypass routes and remains busy with overflight traffic. See OPSGROUP Briefing : Middle East airspace situation - 2026 The primary risk is potential spillover from the Iran conflict into the southern Caucasus region, including missile or drone activity crossing into neighbouring airspace. On 5 March 2026, Iranian drones crossed into Azerbaijan and one struck the terminal building at UBBN/Nakhchivan airport. A Notam temporarily closed the southern sector of the UBBA/Baku FIR around Nakhchivan, but the main overflight routes through the FIR remained available. There also remains a background risk from military tensions between Armenia and Azerbaijan. Although cross-border waypoints reopened following the Sep 2023 ceasefire, previous conflicts between the two countries have resulted in airspace restrictions and the closure of border routes. Major events: March 2026: Iranian drones crossed into Azerbaijan and struck the terminal building at UBBN/Nakhchivan airport, highlighting the risk of spillover from the Iran conflict into the Caucasus region. Sep 2023: Ceasefire agreed between Armenia and Azerbaijan following fighting in the border region, cross-border waypoints reopened. Sep 2022: Clashes between Armenia and Azerbaijan temporarily closed border waypoints. Sep-Oct 2020: War between Armenia and Azerbaijan led to large areas of closed airspace and warnings of missile threats.",
         "related_reading": [],
         "warnings": [],
@@ -909,7 +909,7 @@
       "kenya": {
         "country": "Kenya",
         "risk_level_number": 0,
-        "risk_level_label": "None",
+        "risk_level_label": "No Warnings",
         "narrative": "No Warnings The main threat in Kenya comes from militant attacks near the Somali border, in response to Kenya’s military intervention in Somalia. However, there are no longer any official airspace warnings for Kenya. The US warning advising caution below FL260 in the border region with Somalia expired in Feb 2023. The long-standing UK warning advising against low-level flights across the HKNA/Nairobi FIR expired in Sep 2024. Major events : Jan 2020: Two US military/govt aircraft (C-146A, DHC-8), and two helicopters, were destroyed in a militant attack on HKLU/Manda Airport, a US/Kenya joint military base in Lamu county, east coast. Security concerns in this part of Kenya have been ongoing for several years. Jan 2019: Al-Shabaab militants launched an attack on a hotel complex in central Nairobi on 15 Jan 2019, killing at least 14 people. There were a number of attacks by Al-Shabab in Kenya in preceding years, but none in Nairobi since the attack on the Westgate shopping mall in 2013.",
         "related_reading": [],
         "warnings": [],
@@ -1096,7 +1096,7 @@
       "madagascar": {
         "country": "Madagascar",
         "risk_level_number": 0,
-        "risk_level_label": "None",
+        "risk_level_label": "No Warnings",
         "narrative": "No Warnings",
         "related_reading": [],
         "warnings": [],
@@ -1743,7 +1743,7 @@
       "taiwan": {
         "country": "Taiwan",
         "risk_level_number": 0,
-        "risk_level_label": "None",
+        "risk_level_label": "No Warnings",
         "narrative": "No Warnings From 4-7 August 2022, China carried out military drills and live firing exercises in six danger areas in the waters surrounding Taiwan (announced via the ZBBB Notams). This seemed to coincide with a high profile diplomatic visit. Flights were impacted by re-routes, and in some cases cancellations. Read more here: Taiwan Airspace Closures, Aug 2022 (OPSGROUP article) Although no new airspace warnings have been issued, risk to overflying aircraft may be escalating - increased military presence and high political tensions on both sides are cause for concern. It is especially important right now that the proper ADIZ procedures are followed, including constant contact with ATC and a discrete squawk code. If hostilities escalate, flights through Taiwan’s RCAA/Taipei FIR as well as surrounding airspace could be impacted.",
         "related_reading": [],
         "warnings": [],
