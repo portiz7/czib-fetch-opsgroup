@@ -20,14 +20,39 @@ and writes **one** `data/raw_opsgroup.json`, committed if it changed:
 ```json
 {
   "fetched_at": "...",
-  "opsgroup": { "source": "OpsGroup", "fetched_at": "...", "country_notes": { "Kuwait": "...", ... } },
+  "opsgroup": { "source": "OpsGroup", "fetched_at": "...", "countries": { "Kuwait": {...}, ... } },
   "safeairspace": { "source": "safeairspace.net", "fetched_at": "...", "countries": { "haiti": {...}, ... } }
 }
 ```
 
+`opsgroup.countries` and `safeairspace.countries` share the same per-country record shape
+(this was NOT true in an earlier version - OpsGroup used to just be a flat `{country: text}`
+map while safeairspace had a full structured object; unified after review to remove the
+inconsistency):
+
+```json
+{
+  "country": "Kuwait",
+  "risk_level_number": null,
+  "risk_level_label": "None",
+  "narrative": "...",
+  "related_reading": [],
+  "warnings": []
+}
+```
+
+`risk_level_label`/`related_reading`/`warnings` are always present with an explicit "empty"
+value (`"None"` / `[]` / `[]`) rather than `null`, specifically so nothing downstream needs a
+null-check for a field a given source just doesn't have (OpsGroup never has a risk rating or
+a structured warnings list - only safeairspace.net does). safeairspace.net's records also
+carry two extra fields beyond the shared shape, `slug` and `url`, which are harmless to keep.
+
 1. **OpsGroup** (`scripts/fetch_opsgroup.py`, `fetch_opsgroup_picture()`) pulls OpsGroup's
    public "Middle East Airspace: Current Operational Picture" blog post — a country-by-country
-   operational rundown, no login required.
+   operational rundown, no login required. A heading covering several countries at once (e.g.
+   "Armenia/Azerbaijan/Afghanistan", confirmed live) is split into one record per country, all
+   sharing that heading's paragraph as `narrative` - so every consumer gets one country per key,
+   never a combined key.
 2. **safeairspace.net** (`scripts/fetch_safeairspace.py`, two-phase: `get_country_list()` /
    `parse_country_page()`) scrapes every country page discovered from its `/countries/` index
    (currently ~44 countries, not just the ones already in this project's curated FIR list),
@@ -41,7 +66,7 @@ restyle their blog post at any time without notice. The page also mixes two unre
 Picture" per-country rundown) - the parser anchors on the "Current Airspace Picture" marker
 text specifically so it doesn't scrape the dated headlines as if they were countries (a real
 bug found and fixed during development). If parsing fails, it just returns an empty
-`country_notes` object and logs a warning rather than guessing - this has genuinely happened
+`countries` object and logs a warning rather than guessing - this has genuinely happened
 in production from a plain network timeout to ops.group, not a parser bug.
 
 **fetch_safeairspace.py** skips a country entirely (with a log warning) rather than guessing

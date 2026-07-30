@@ -80,8 +80,31 @@ def fetch_opsgroup_picture():
         if any(m in heading.lower() for m in STOP_MARKERS):
             break  # reached the page-chrome section that follows the country list
         para = h4.find_next_sibling("p")
-        if para:
-            result[heading] = para.get_text(" ", strip=True)
+        if not para:
+            continue
+        narrative = para.get_text(" ", strip=True)
+        # A heading can cover several countries at once (confirmed live:
+        # "Armenia/Azerbaijan/Afghanistan" sharing one paragraph) - split so
+        # every downstream consumer gets one country per key, matching
+        # safeairspace.net's shape instead of needing special-case handling
+        # for combined headings.
+        for country in heading.split("/"):
+            country = country.strip()
+            if not country:
+                continue
+            # Same record shape as fetch_safeairspace.parse_country_page(),
+            # minus what OpsGroup's blog just doesn't have (no risk rating,
+            # no separate warnings list) - explicit "None"/[] rather than
+            # null, so nothing downstream needs a special case for this
+            # source vs. safeairspace.net.
+            result[country] = {
+                "country": country,
+                "risk_level_number": None,
+                "risk_level_label": "None",
+                "narrative": narrative,
+                "related_reading": [],
+                "warnings": [],
+            }
     log(f"OpsGroup country notes parsed: {len(result)}")
     return result
 
@@ -90,7 +113,7 @@ def main():
     out = {
         "source": "OpsGroup",
         "fetched_at": datetime.now(timezone.utc).isoformat(),
-        "country_notes": fetch_opsgroup_picture(),
+        "countries": fetch_opsgroup_picture(),
     }
     os.makedirs("data", exist_ok=True)
     with open(OUT_PATH, "w", encoding="utf-8") as f:

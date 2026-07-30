@@ -111,18 +111,19 @@ def get_country_list():
 
 
 def _parse_risk_level(soup):
+    """Returns (number, label). label defaults to the string "None" (not
+    Python None) when there's no risk-level heading at all, so downstream
+    consumers never need a null-check for this field."""
     h3 = soup.find("h3", class_=lambda c: c and "page-country-summary-risk-level" in c)
     if not h3:
-        return None, None
+        return None, "None"
     number = None
     for cls in h3.get("class", []):
         m = re.match(r"page-country-summary-risk-level-(\d+)$", cls)
         if m:
             number = int(m.group(1))
     text = _clean(h3.get_text(" ", strip=True))
-    label = None
-    if " - " in text:
-        label = text.split(" - ", 1)[1].strip()
+    label = text.split(" - ", 1)[1].strip() if " - " in text else "None"
     return number, label
 
 
@@ -136,9 +137,14 @@ def _parse_narrative(wrap, risk_h3, warnings_h3):
     Level:" line and the "Current warnings list :" line, skipping the
     "[ about risk levels ]" chrome link and pulling out an optional
     "Read: ..." reference line.
+
+    Returns (narrative, related_reading) where related_reading is always a
+    list (0 or 1 items currently - the page only ever has one "Read:" line)
+    rather than a nullable single object, so downstream never special-cases
+    "no reading link" vs. "has one".
     """
     if risk_h3 is None:
-        return "", None
+        return "", []
 
     lines = [l for l in wrap.get_text("\n", strip=True).split("\n") if l.strip()]
     warnings_text = _clean(warnings_h3.get_text(" ", strip=True)) if warnings_h3 is not None else None
@@ -171,12 +177,12 @@ def _parse_narrative(wrap, risk_h3, warnings_h3):
             continue
         narrative_parts.append(line)
 
-    related_reading = None
+    related_reading = []
     if related_reading_title:
         # Best-effort: grab the href of whichever link's visible text matches
         # the "Read: <title>" line, since the flattened text alone has no URL.
         a = wrap.find("a", string=lambda s: s and _clean(s) == related_reading_title)
-        related_reading = {"title": related_reading_title, "url": a["href"] if a and a.get("href") else None}
+        related_reading = [{"title": related_reading_title, "url": a["href"] if a and a.get("href") else None}]
 
     return " ".join(narrative_parts), related_reading
 
@@ -235,7 +241,7 @@ def parse_country_page(slug, url):
     wrap = soup.find(id="page-country-info-wrap") or soup.find("article") or soup
 
     h2s = wrap.find_all("h2")
-    name = next((_clean(h.get_text(" ", strip=True)) for h in h2s if h.get_text(strip=True).lower() != "current map"), slug)
+    country_name = next((_clean(h.get_text(" ", strip=True)) for h in h2s if h.get_text(strip=True).lower() != "current map"), slug)
 
     risk_h3 = soup.find("h3", class_=lambda c: c and "page-country-summary-risk-level" in c)
     warnings_h3 = soup.find("h3", class_="page-country-warninglist")
@@ -256,14 +262,17 @@ def parse_country_page(slug, url):
         warnings.append(entry)
 
     return {
-        "slug": slug,
-        "name": name,
-        "url": url,
+        # Core fields, same shape/names as fetch_opsgroup's records:
+        "country": country_name,
         "risk_level_number": risk_level_number,
         "risk_level_label": risk_level_label,
         "narrative": narrative,
         "related_reading": related_reading,
         "warnings": warnings,
+        # safeairspace-specific extras, harmless to keep alongside the
+        # unified fields above:
+        "slug": slug,
+        "url": url,
     }
 
 

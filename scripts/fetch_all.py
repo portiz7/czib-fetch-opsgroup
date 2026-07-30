@@ -44,7 +44,11 @@ def main():
         "opsgroup": {
             "source": "OpsGroup",
             "fetched_at": now,
-            "country_notes": opsgroup_notes,
+            # Same field name and per-country record shape as
+            # "safeairspace.countries" below - both are {country_key:
+            # {country, risk_level_number, risk_level_label, narrative,
+            # related_reading, warnings}} now, not two different schemas.
+            "countries": opsgroup_notes,
         },
         "safeairspace": {
             "source": "safeairspace.net",
