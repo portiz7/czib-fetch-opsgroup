@@ -1,4 +1,4 @@
-name: Fetch OpsGroup + safeairspace.net
+name: Fetch safeairspace.net
 
 on:
   schedule:
@@ -25,17 +25,17 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Fetch OpsGroup + safeairspace.net (combined)
+      - name: Fetch safeairspace.net
         run: python scripts/fetch_all.py
 
       - name: Commit updated data if it changed
         run: |
           git config user.name "czib-fetch-opsgroup-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/raw_opsgroup.json
+          git add data/raw_safeairspace.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Auto-update OpsGroup + safeairspace.net raw data ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git commit -m "Auto-update safeairspace.net raw data ($(date -u +'%Y-%m-%d %H:%M UTC'))"
             git push
           fi
