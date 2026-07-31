@@ -1,6 +1,6 @@
 {
   "source": "safeairspace.net",
-  "fetched_at": "2026-07-30T21:49:54.529271+00:00",
+  "fetched_at": "2026-07-31T10:05:52.857993+00:00",
   "countries": {
     "afghanistan": {
       "country": "Afghanistan",
@@ -913,6 +913,14 @@
       "narrative": "A civil war has been ongoing since 2014. Some progress made in Oct 2020 with the formation of a new government, but Libya remains an active conflict zone with armed clashes between various rival militia groups across the country. There is a high risk to civil aircraft. Libyan airspace (HLLL/Tripoli FIR) should be avoided entirely. Total flight ban for US operators, and several other countries have warnings in place. The primary risk is a misident by Libyan air defense systems, or by militia who have threatened to shoot down aircraft operating in western Libya, including HLLM/Tripoli Mitiga airport. Military activity reported over the high-seas which is either operating as OAT or not in control with ATC. Risk remains high across Libya at all flight levels, and avoidance of all airspace and airports is strongly recommended. The secondary risk is that reliable ATC services cannot be guaranteed. The past few years have seen regular ATS and radar outages across the HLLL FIR airspace, and severe limitations in VHF capability, with operators having to communicate with Malta ATC for guidance. Libya Airspace Update, Feb 2024 (OPSGROUP article) Major events: August 2023: Major evacuation of aircraft from Tripoli due to violent clashes and gunfire at Mitiga airport. Tripoli mass evacuation of aircraft (OPSGROUP article) July 2023: Italy cancelled its 10-year ban on flights to/from Libya. Aircraft are no longer banned from Italian airports and airspace if they want to fly from Libya. Aug 2022: Militia air defense forces claimed to have shot down a US drone operating in the vicinity of Benghazi during a period of increased tensions and threats of renewed violence between competing militias vying for control of Tripoli. June 2022: Failed attempt by militia to enter Tripoli to seize control of government offices, resulting in armed clashes and suspension of flights at HLLM/Mitiga airport. Jan 2020: Multiple airstrikes targeting HLLM/Mitiga airport. Videos on social media showing planes landing at the airport as shells are falling in the background. Nov 2019: Militia advancing on the capital, Tripoli, declared a no-fly-zone around the city, threatening to shoot-down civil aircraft attempting to fly to HLLM/Mitiga airport. 2014: HLLT/Tripoli airport closed after clashes between rival militias destroyed most of the airport's facilities. The airport remains closed to this day; most flights operate out of HLLM/Mitiga airport.",
       "related_reading": [],
       "warnings": [
+        {
+          "source": "France",
+          "reference": "Notam LFFF F1625/26",
+          "issued": "30 Jul 2026",
+          "valid_until": "28 Oct 2026",
+          "plain_english": "French operators are advised not to enter the HLLL/Tripoli FIR at any level. The following airway segments are exempt: R778 (DITAR KUFRA TONBA), M999 (Zarzaitine SEBHA) and G655 (SEBHA GARIN) provided you maintain FL320 and above.",
+          "raw_text": "Q) LFXX/QXXCH/I /BO /E /000/999/4412N00040E460 A) LFBB LFEE LFFF LFMM LFRR B) 2607300808 C) 2610282359 E) FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED NOT TO PENETRATE INTO THE AIRSPACE OF LIBYA (FIR TRIPOLI (HLLL)) EXCEPT OF : -THE TWO-WAY ROUTES SEGMENTS M999 (ZARZAITINE SEBHA) AND G655 (SEBHA GARIN), ON WHICH A FLIGHT LEVEL ABOVE OR EQUAL TO FL320 IS REQUESTED TO BE MAINTAINED AT ALL TIMES. -THE ROUTE R778 (DITAR-KUFRA-TONBA), ON WHICH A FLIGHT LEVEL ABOVE OR EQUAL TO FL320 IS REQUESTED TO BE MAINTAINED AT ALL TIMES. THE AIR OPERATOR MUST CARRY OUT A ROBUST RISK ASSESSMENT TO ENSURE THAT THE FLIGHT CAN BE CONDUCTED UNDER SATISFACTORY SAFETY AND SECURITY CONDITIONS BEFORE ENTERING IN LIBYAN AIRSPACE. THIS NOTAM SUPERSEDES THE RESTRICTIONS CONCERNING LIBYA AIRSPACE (FIR TRIPOLI (HLLL)) ISSUED IN PARAGRAPH 3.3 LIBYA OF THE AIC A011/26 CURRENTLY IN EFFECT."
+        },
         {
           "source": "France",
           "reference": "AIC 011/26",
