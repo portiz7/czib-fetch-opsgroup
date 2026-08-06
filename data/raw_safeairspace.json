@@ -1,6 +1,6 @@
 {
   "source": "safeairspace.net",
-  "fetched_at": "2026-08-05T22:18:30.458261+00:00",
+  "fetched_at": "2026-08-06T10:14:39.378907+00:00",
   "countries": {
     "afghanistan": {
       "country": "Afghanistan",
@@ -999,6 +999,14 @@
       "related_reading": [],
       "warnings": [
         {
+          "source": "United Kingdom",
+          "reference": "Notam EGTT V0026/26",
+          "issued": "04 Aug 2026",
+          "valid_until": "02 Nov 2026",
+          "plain_english": "Operators should not enter the portions of the GOOO/Dakar and DRRR/Niamey FIRs over Mali below 25,000 ft AGL due to risks posed by anti -aircraft fire and military activity.",
+          "raw_text": "SECURITY - HAZARDOUS SITUATION IN MALI. UK CIVIL AIR OPERATORS ARE RECOMMENDED NOT TO ENTER FIR NIAMEY (DRRR) AND FIR DAKAR (GOOO) WITHIN THE TERRITORY AND AIRSPACE OF MALI BELOW 25,000 FT ABOVE GROUND LEVEL (AGL). POTENTIAL RISK FROM ANTI-AIRCRAFT WEAPONRY AND HEIGHTENED MILITARY ACTIVITY. THIS SUPERSEDES THE ADVICE IN THE CURRENT UK AIP ENR 1.1. AR-2026-3729/01."
+        },
+        {
           "source": "France",
           "reference": "Notam LFFF F1408/26",
           "issued": "26 Jun 2026",
@@ -1021,14 +1029,6 @@
           "valid_until": "10 Aug 2026",
           "plain_english": "Canadian operators are recommended to remain at or above FL320 while in portions of the GOOO/Dakar and DRRR/Niamey FIRs overhead Mali due to risk of anti-aircraft fire and military activity.",
           "raw_text": "AIRSPACE SECURITY WARNING ISSUED BY THE DEPARTMENT OF TRANSPORT IN RESPONSE TO THE SECURITY SITUATION IN MALI. CANADIAN AIR OPERATORS AND OWNERS OF AIRCRAFT REGISTERED IN CANADA ARE RECOMMENDED TO MAINTAIN A FLIGHT LEVEL EQUAL TO OR ABOVE FL320 IN THE PORTIONS OF FIR DAKAR (GOOO) AND FIR NIAMEY (DRRR) LOCATED IN THE TERRITORY OF MALI DUE TO THE POTENTIAL RISK FROM MILITANT ACTIVITY AND ANTI-AIRCRAFT WEAPONRY."
-        },
-        {
-          "source": "United Kingdom",
-          "reference": "Notam EGTT V0019/26",
-          "issued": "08 May 2026",
-          "valid_until": "06 Aug 2026",
-          "plain_english": "Operators should not enter the portions of the GOOO/Dakar and DRRR/Niamey FIRs over Mali below 25,000 ft AGL due to risks posed by anti -aircraft fire and military activity.",
-          "raw_text": "SECURITY - HAZARDOUS SITUATION IN MALI. UK CIVIL AIR OPERATORS ARE RECOMMENDED NOT TO ENTER FIR NIAMEY (DRRR) AND FIR DAKAR (GOOO) WITHIN THE TERRITORY AND AIRSPACE OF MALI BELOW 25,000 FT ABOVE GROUND LEVEL (AGL). POTENTIAL RISK FROM ANTI-AIRCRAFT WEAPONRY AND HEIGHTENED MILITARY ACTIVITY. THIS SUPERSEDES THE ADVICE IN THE CURRENT UK AIP ENR 1.1. AR-2026-3729/01."
         },
         {
           "source": "USA",
