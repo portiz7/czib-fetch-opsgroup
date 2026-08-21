@@ -1,6 +1,6 @@
 {
   "source": "safeairspace.net",
-  "fetched_at": "2026-08-21T06:43:30.244265+00:00",
+  "fetched_at": "2026-08-21T12:43:27.238120+00:00",
   "countries": {
     "afghanistan": {
       "country": "Afghanistan",
@@ -249,17 +249,17 @@
       "warnings": [
         {
           "source": "Cyprus",
-          "reference": "Notam LCCC A0554/26",
-          "issued": "07 May 2026",
-          "valid_until": "07 Aug 2026",
+          "reference": "Notam LCCC A0818/26",
+          "issued": "04 Aug 2026",
+          "valid_until": "03 Nov 2026",
           "plain_english": "Caution in Cyprus airspace due to military aircraft flying with no transponders.",
           "raw_text": "PILOTS TO EXERCISE CAUTION DUE TO MILITARY AIRCRAFT OPERATING UNDER DUE REGARD AND NO TRANSPONDER WITHIN NICOSIA FIR."
         },
         {
           "source": "Cyprus",
-          "reference": "Notam LCCC A0530/26",
-          "issued": "01 May 2026",
-          "valid_until": "31 Jul 2026",
+          "reference": "Notam LCCC A0799/26",
+          "issued": "28 Jul 2026",
+          "valid_until": "27 Oct 2026",
           "plain_english": "Expect GPS interference in Cyprus airspace.",
           "raw_text": "GPS SPOOFING/JAMMING MAY BE ENCOUNTERED IN NICOSIA FIR. CREWS ARE ADVISED TO REMAIN VIGILANT AND REPORT TO ATC. CONVENTIONAL NAVIGATION PROCEDURES ARE AVAILABLE."
         },
@@ -270,14 +270,6 @@
           "valid_until": "Ongoing",
           "plain_english": "Exercise caution within 200 NM of the Damascus FIR due to military activity. Possibility of GPS interference, communication jamming, and long-range surface to air missiles in the area.",
           "raw_text": "SECURITY..UNITED STATES OF AMERICA ADVISORY FOR AIRSPACE IMMEDIATELY ADJACENT TO DAMASCUS FLIGHT INFORMATION REGION (OSTT FIR). THOSE PERSONS DESCRIBED IN PARAGRAPH A BELOW ARE ADVISED TO EXERCISE CAUTION WHEN OPERATING IN THE AIRSPACE WITHIN 200 NAUTICAL MILES OFTHE DAMASCUS FLIGHT INFORMATION REGION (OSTT FIR) DUE TO HEIGHTENED MILITARY ACTIVITY IN OR AROUND SYRIA. THIS MILITARY ACTIVITY MIGHT INCLUDE GPS INTERFERENCE, COMMUNICATIONS JAMMING, AND POSSIBLE ERRANT LONG-RANGE SURFACE-TO-AIR MISSILES ORIGINATING FROM SYRIAN TERRITORY, WITHIN THE OSTT FIR, AND STRAYING INTO ADJACENT AIRSPACE,THAT COULD POSE AN INADVERTENT RISK TO U.S. CIVIL AVIATION OPERATING IN THIS REGION. TITLE 14, CODE OF FEDERAL REGULATIONS, SECTION 91.1609, SPECIAL FEDERAL AVIATION REGULATION NO. 114 PROHIBITION AGAINST CERTAIN FLIGHTS IN THE DAMASCUS FIR REMAINS IN EFFECT. A. APPLICABILITY. THIS NOTAM APPLIES TO: ALL U.S. AIR CARRIERS AND COMMERCIAL OPERATORS; ALL PERSONS EXERCISING THE PRIVILEGES OF AN AIRMAN CERTIFICATE ISSUED BY THE FAA, EXCEPT SUCH PERSONS OPERATING U.S.-REGISTERED AIRCRAFT FOR A FOREIGN AIR CARRIER; AND ALL OPERATORS OF AIRCRAFT REGISTERED IN THE UNITED STATES, EXCEPT WHERE THE OPERATOR OF SUCH AIRCRAFT IS A FOREIGN AIR CARRIER. B. PLANNING. THOSE PERSONS DESCRIBED IN PARAGRAPH A PLANNING TO OPERATE WITHIN 200 NAUTICAL MILES OF THE OSTT FIR SHOULD EXERCISE CAUTION AND MUST REVIEW CURRENT SECURITY/THREAT INFORMATION AND NOTAMS AND COMPLY WITH ALL APPLICABLE FAA REGULATIONS, OPERATIONS SPECIFICATIONS, MANAGEMENT SPECIFICATIONS, AND LETTERS OF AUTHORIZATION, INCLUDING UPDATING B450. C. OPERATIONS. EXERCISE CAUTION DURING FLIGHT OPERATIONS IN THE ABOVE NAMED AREA DUE TO HEIGHTENED MILITARY ACTIVITY IN OR AROUND SYRIA AND THE POTENTIAL RISK TO U.S. CIVIL AVIATION IN THE REGION.THOSE PERSONS DESCRIBED IN PARAGRAPH A MUST REPORT ANY SAFETY/SECURITY INCIDENTS TO THE FAA AT ASH-AXE-CITE-WATCH@FAA.GOVOR +1 202-267-3333 OR 1-844-412-1794. ADDITIONAL INFORMATION IS PROVIDED AT: https://www.faa.gov/AIR_TRAFFIC/PUBLICATIONS/US_RESTRICTIONS/"
-        },
-        {
-          "source": "Cyprus",
-          "reference": "Notam LCEN N0068/18",
-          "issued": "22 Mar 2018",
-          "valid_until": "Ongoing",
-          "plain_english": "GPS Outages have been reported in the LCEN/Ercan Advisory Airspace.",
-          "raw_text": "RECENTLY, GPS SIGNAL INTERRUPTIONS HAVE BEEN REPORTED BY THE PILOTS OF THE AIRCRAFT OPERATING WITHIN SOME PARTS OF ERCAN ADVISORY AIRSPACE. AIRCRAFT OPERATORS OPERATING WITHIN ERCAN ADVISORY AIRSPACE ARE ADVISED TO BE CAUTIONS ABOUT GPS OUTAGES."
         }
       ],
       "slug": "cyprus",
@@ -831,6 +823,14 @@
       "related_reading": [],
       "warnings": [
         {
+          "source": "UK",
+          "reference": "Notam EGTT V0024/26",
+          "issued": "22 Jul 2026",
+          "valid_until": "19 Oct 2026",
+          "plain_english": "UK operators should avoid the airspace of Lebanon due to military activity.",
+          "raw_text": "SECURITY - HAZARDOUS SITUATION IN LEBANON. UK REGISTERED AIR OPERATORS ARE RECOMMENDED NOT TO ENTER FIR BEIRUT (OLBB). POTENTIAL RISK FROM HEIGHTENED MILITARY ACTIVITY. FOR MORE INFO CONTACT UK DEPARTMENT FOR TRANSPORT 02070 826639 OR 02079 443111 OUT OF HOURS. AR-2026-3194/02."
+        },
+        {
           "source": "EASA",
           "reference": "CZIB 2026-06",
           "issued": "08 Jul 2026",
@@ -869,14 +869,6 @@
           "valid_until": "15 Aug 2026",
           "plain_english": "Warning of GPS jamming and spoofing in the OLBB/Beirut FIR, pilots should stick to conventional ATS routes.",
           "raw_text": "AIRCRAFT FLYING BEIRUT FIR SHALL BE AWARE OF POSSIBLE LOSS OF GPS/GNSS SIGNAL,AND DUE TO CURRENT SECURITY REASONS PREVAILED IN THE MEDITERRANEAN AREA,THERE HAS BEEN AN INCREASE IN JAMMING AND/OR SPOOFING OF GLOBAL NAVIGATION SATTELITE SYSTEMS (GNSS). LEB ANS SET IN PLACE, CONTINGENCY PLAN ,INCLUDING PROCEDURES TO BE FOLLOWED IN CASE OF LARGE-SCALE GNSS JAMMING AND/OR SPOOFING EVENTS BASED ON: -CONVENTIONAL ATS ROUTES,STARS AND APPROACH PROCEDURES (REF TO GROUND NAVAIDS) ARE CURRENTLY HIGHLY RECOMMENDED. -RNAV(GNSS) STARS AND RNP APPROACH PROCEDURES STILL POSSIBLE TO BE FOLLOWED IF PILOT REQUESTED AND UNDER HIS OWN DISCRETION."
-        },
-        {
-          "source": "UK",
-          "reference": "Notam EGTT V0015/26",
-          "issued": "22 Apr 2026",
-          "valid_until": "20 Jul 2026",
-          "plain_english": "UK operators should avoid the airspace of Lebanon due to military activity.",
-          "raw_text": "SECURITY - HAZARDOUS SITUATION IN LEBANON. UK REGISTERED AIR OPERATORS ARE RECOMMENDED NOT TO ENTER FIR BEIRUT (OLBB). POTENTIAL RISK FROM HEIGHTENED MILITARY ACTIVITY. FOR MORE INFO CONTACT UK DEPARTMENT FOR TRANSPORT 02070 826639 OR 02079 443111 OUT OF HOURS. AR-2026-3194/01."
         },
         {
           "source": "Canada",
@@ -928,14 +920,6 @@
           "valid_until": "Ongoing",
           "plain_english": "French operators should avoid Libyan airspace except on routes M999 and G655/M214 above FL320, with a robust risk assessment required before entry.",
           "raw_text": "From 28/05/2026 and until further notice, pilots in command of aircraft performing air services mentioned in paragraph 1.1 are requested not to penetrate into the airspace of Libya (HLLL FIR (TRIPOLI)) except for bi-directional routes segments M999 (between ZARZAITINE and SEBHA) and G655 / M214 (between SEBHA and GARIN) which may be used and on which a flight level above or equal to FL320 is requested to be maintained at all times. The air operator must carry out a robust risk assessment to ensure that the flight can be conducted under satisfactory safety and security conditions before entering in Libyan airspace."
-        },
-        {
-          "source": "UK",
-          "reference": "Notam EGTT V0009/26",
-          "issued": "20 Feb 2026",
-          "valid_until": "Ongoing",
-          "plain_english": "UK operators are no longer prohibited, but are still strongly advised not to enter the HLLL/Tripoli FIR due to risk posed by anti-aircraft weaponry. This advice supersedes what is currently contained in the AIP.",
-          "raw_text": "SECURITY - HAZARDOUS SITUATION IN LIBYA UK REGISTERED AIR OPERATORS ARE RECOMMENDED NOT TO ENTER FIR TRIPOLI (HLLL). POTENTIAL RISK FROM ANTI-AIRCRAFT WEAPONRY. THIS SUPERSEDES THE ADVICE IN THE CURRENT UK AIP. UK AIP ENR 1.1. PARA 1.4.5 REFERS."
         },
         {
           "source": "USA",
@@ -999,12 +983,20 @@
       "related_reading": [],
       "warnings": [
         {
+          "source": "Canada",
+          "reference": "Notam CZUL H5014/26",
+          "issued": "07 Aug 2026",
+          "valid_until": "06 Nov 2026",
+          "plain_english": "Canadian operators are recommended to remain at or above FL320 while in portions of the GOOO/Dakar and DRRR/Niamey FIRs overhead Mali due to risk of anti-aircraft fire and military activity.",
+          "raw_text": "AIRSPACE SECURITY WARNING ISSUED BY THE DEPARTMENT OF TRANSPORT IN RESPONSE TO THE SECURITY SITUATION IN MALI. CANADIAN AIR OPERATORS AND OWNERS OF AIRCRAFT REGISTERED IN CANADA ARE RECOMMENDED TO MAINTAIN A FLIGHT LEVEL EQUAL TO OR ABOVE FL320 IN THE PORTIONS OF FIR DAKAR (GOOO) AND FIR NIAMEY (DRRR) LOCATED IN THE TERRITORY OF MALI DUE TO THE POTENTIAL RISK FROM MILITANT ACTIVITY AND ANTI-AIRCRAFT WEAPONRY."
+        },
+        {
           "source": "United Kingdom",
           "reference": "Notam EGTT V0026/26",
           "issued": "04 Aug 2026",
           "valid_until": "02 Nov 2026",
           "plain_english": "Operators should not enter the portions of the GOOO/Dakar and DRRR/Niamey FIRs over Mali below 25,000 ft AGL due to risks posed by anti -aircraft fire and military activity.",
-          "raw_text": "SECURITY - HAZARDOUS SITUATION IN MALI. UK CIVIL AIR OPERATORS ARE RECOMMENDED NOT TO ENTER FIR NIAMEY (DRRR) AND FIR DAKAR (GOOO) WITHIN THE TERRITORY AND AIRSPACE OF MALI BELOW 25,000 FT ABOVE GROUND LEVEL (AGL). POTENTIAL RISK FROM ANTI-AIRCRAFT WEAPONRY AND HEIGHTENED MILITARY ACTIVITY. THIS SUPERSEDES THE ADVICE IN THE CURRENT UK AIP ENR 1.1. AR-2026-3729/01."
+          "raw_text": "SECURITY - HAZARDOUS SITUATION IN MALI. UK CIVIL AIR OPERATORS ARE RECOMMENDED NOT TO ENTER FIR NIAMEY (DRRR) AND FIR DAKAR (GOOO) WI THE TERRITORY AND AIRSPACE OF MALI BELOW 25000FT ABOVE GROUND LEVEL (AGL). POTENTIAL RISK FROM ANTI-AIRCRAFT WEAPONRY AND HEIGHTENED MILITARY ACTIVITY. THIS SUPERSEDES THE ADVICE IN THE CURRENT UK AIP ENR 1.1. AR-2026-3729/04."
         },
         {
           "source": "France",
@@ -1021,14 +1013,6 @@
           "valid_until": "05 Sep 2026",
           "plain_english": "Italian operators should avoid the airspace of Mali below 25000 ft AGL.",
           "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY ARE RECOMMENDED TO AVOID PORTIONS OF DAKAR FIR (GOOO) AND NIAMEY FIR (DRRR) WITHIN TERRITORY AND AIRSPACE OF MALI BELOW HEIGHT 25000FT AGL AND ACCORDING TO EASA SAFETY DIRECTIVES."
-        },
-        {
-          "source": "Canada",
-          "reference": "Notam CZUL H2442/26",
-          "issued": "12 May 2026",
-          "valid_until": "10 Aug 2026",
-          "plain_english": "Canadian operators are recommended to remain at or above FL320 while in portions of the GOOO/Dakar and DRRR/Niamey FIRs overhead Mali due to risk of anti-aircraft fire and military activity.",
-          "raw_text": "AIRSPACE SECURITY WARNING ISSUED BY THE DEPARTMENT OF TRANSPORT IN RESPONSE TO THE SECURITY SITUATION IN MALI. CANADIAN AIR OPERATORS AND OWNERS OF AIRCRAFT REGISTERED IN CANADA ARE RECOMMENDED TO MAINTAIN A FLIGHT LEVEL EQUAL TO OR ABOVE FL320 IN THE PORTIONS OF FIR DAKAR (GOOO) AND FIR NIAMEY (DRRR) LOCATED IN THE TERRITORY OF MALI DUE TO THE POTENTIAL RISK FROM MILITANT ACTIVITY AND ANTI-AIRCRAFT WEAPONRY."
         },
         {
           "source": "USA",
@@ -1141,20 +1125,20 @@
       "related_reading": [],
       "warnings": [
         {
+          "source": "Canada",
+          "reference": "Notam CZUL H5013/26",
+          "issued": "07 Aug 2026",
+          "valid_until": "06 Nov 2026",
+          "plain_english": "It's recommended that Candian operators remain at or above FL260 in the VYYF/Yangon FIR due to risk of anti-aircraft weaponry.",
+          "raw_text": "AIRSPACE SECURITY WARNING ISSUED BY THE DEPARTMENT OF TRANSPORT IN RESPONSE TO THE SECURITY SITUATION IN MYANMAR. CANADIAN AIR OPERATORS AND OWNERS OF AIRCRAFT REGISTERED IN CANADA ARE RECOMMENDED TO MAINTAIN A FLIGHT LEVEL AT OR ABOVE FL260 IN FIR YANGON (VYYF) DUE TO THE RISK FROM ANTI-AIRCRAFT WEAPONRY."
+        },
+        {
           "source": "Italy",
           "reference": "Notam LIRR E1449/26",
           "issued": "08 Jun 2026",
           "valid_until": "05 Sep 2026",
           "plain_english": "Italian operators should avoid the VYYF/Yangon FIR below 25000 ft AGL.",
           "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY ARE RECOMMENDED TO AVOID HEIGHT BELOW 25000FT ABOVE GROUND LEVEL IN YANGON FIR (VYYF) ENSURING ROBUST RISK ASSESSMENT ACCORDING TO EASA SAFETY DIRECTIVES."
-        },
-        {
-          "source": "Canada",
-          "reference": "Notam CZUL H2440/26",
-          "issued": "12 May 2026",
-          "valid_until": "10 Aug 2026",
-          "plain_english": "It's recommended that Candian operators remain at or above FL260 in the VYYF/Yangon FIR due to risk of anti-aircraft weaponry.",
-          "raw_text": "AIRSPACE SECURITY WARNING ISSUED BY THE DEPARTMENT OF TRANSPORT IN RESPONSE TO THE SECURITY SITUATION IN MYANMAR. CANADIAN AIR OPERATORS AND OWNERS OF AIRCRAFT REGISTERED IN CANADA ARE RECOMMENDED TO MAINTAIN A FLIGHT LEVEL AT OR ABOVE FL260 IN FIR YANGON (VYYF) DUE TO THE RISK FROM ANTI-AIRCRAFT WEAPONRY."
         },
         {
           "source": "EASA",
