@@ -1,6 +1,6 @@
 {
   "source": "safeairspace.net",
-  "fetched_at": "2026-08-21T12:43:27.238120+00:00",
+  "fetched_at": "2026-08-21T18:34:31.141384+00:00",
   "countries": {
     "afghanistan": {
       "country": "Afghanistan",
@@ -823,6 +823,14 @@
       "related_reading": [],
       "warnings": [
         {
+          "source": "Lebanon",
+          "reference": "Notam OLBB A0191/26",
+          "issued": "15 Aug 2026",
+          "valid_until": "15 Nov 2026",
+          "plain_english": "Warning of GPS jamming and spoofing in the OLBB/Beirut FIR, pilots should stick to conventional ATS routes.",
+          "raw_text": "AIRCRAFT FLYING BEIRUT FIR SHALL BE AWARE OF POSSIBLE LOSS OF GPS/GNSS SIGNAL,AND DUE TO CURRENT SECURITY REASONS PREVAILED IN THE MEDITERRANEAN AREA,THERE HAS BEEN AN INCREASE IN JAMMING AND/OR SPOOFING OF GLOBAL NAVIGATION SATTELITE SYSTEMS (GNSS). LEB ANS SET IN PLACE, CONTINGENCY PLAN ,INCLUDING PROCEDURES TO BE FOLLOWED IN CASE OF LARGE-SCALE GNSS JAMMING AND/OR SPOOFING EVENTS BASED ON: -CONVENTIONAL ATS ROUTES,STARS AND APPROACH PROCEDURES (REF TO GROUND NAVAIDS) ARE CURRENTLY HIGHLY RECOMMENDED. -RNAV(GNSS) STARS AND RNP APPROACH PROCEDURES STILL POSSIBLE TO BE FOLLOWED IF PILOT REQUESTED AND UNDER HIS OWN DISCRETION."
+        },
+        {
           "source": "UK",
           "reference": "Notam EGTT V0024/26",
           "issued": "22 Jul 2026",
@@ -861,14 +869,6 @@
           "valid_until": "03 Sep 2026",
           "plain_english": "German operators should not enter the airspace of Lebanon.",
           "raw_text": "SECURITY - HAZARDOUS SITUATION IN LEBANON CIVIL GERMAN AIR OPERATORS ARE RECOMMENDED NOT TO ENTER FIR BEIRUT. POTENTIAL RISK FROM ANTI-AVIATION WEAPONRY, MILITARY OPERATIONS AND ARMED CONFLICTS."
-        },
-        {
-          "source": "Lebanon",
-          "reference": "Notam OLBB A0103/26",
-          "issued": "15 May 2026",
-          "valid_until": "15 Aug 2026",
-          "plain_english": "Warning of GPS jamming and spoofing in the OLBB/Beirut FIR, pilots should stick to conventional ATS routes.",
-          "raw_text": "AIRCRAFT FLYING BEIRUT FIR SHALL BE AWARE OF POSSIBLE LOSS OF GPS/GNSS SIGNAL,AND DUE TO CURRENT SECURITY REASONS PREVAILED IN THE MEDITERRANEAN AREA,THERE HAS BEEN AN INCREASE IN JAMMING AND/OR SPOOFING OF GLOBAL NAVIGATION SATTELITE SYSTEMS (GNSS). LEB ANS SET IN PLACE, CONTINGENCY PLAN ,INCLUDING PROCEDURES TO BE FOLLOWED IN CASE OF LARGE-SCALE GNSS JAMMING AND/OR SPOOFING EVENTS BASED ON: -CONVENTIONAL ATS ROUTES,STARS AND APPROACH PROCEDURES (REF TO GROUND NAVAIDS) ARE CURRENTLY HIGHLY RECOMMENDED. -RNAV(GNSS) STARS AND RNP APPROACH PROCEDURES STILL POSSIBLE TO BE FOLLOWED IF PILOT REQUESTED AND UNDER HIS OWN DISCRETION."
         },
         {
           "source": "Canada",
@@ -911,7 +911,7 @@
           "issued": "30 Jul 2026",
           "valid_until": "28 Oct 2026",
           "plain_english": "French operators are advised not to enter the HLLL/Tripoli FIR at any level. The following airway segments are exempt: R778 (DITAR KUFRA TONBA), M999 (Zarzaitine SEBHA) and G655 (SEBHA GARIN) provided you maintain FL320 and above.",
-          "raw_text": "Q) LFXX/QXXCH/I /BO /E /000/999/4412N00040E460 A) LFBB LFEE LFFF LFMM LFRR B) 2607300808 C) 2610282359 E) FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED NOT TO PENETRATE INTO THE AIRSPACE OF LIBYA (FIR TRIPOLI (HLLL)) EXCEPT OF : -THE TWO-WAY ROUTES SEGMENTS M999 (ZARZAITINE SEBHA) AND G655 (SEBHA GARIN), ON WHICH A FLIGHT LEVEL ABOVE OR EQUAL TO FL320 IS REQUESTED TO BE MAINTAINED AT ALL TIMES. -THE ROUTE R778 (DITAR-KUFRA-TONBA), ON WHICH A FLIGHT LEVEL ABOVE OR EQUAL TO FL320 IS REQUESTED TO BE MAINTAINED AT ALL TIMES. THE AIR OPERATOR MUST CARRY OUT A ROBUST RISK ASSESSMENT TO ENSURE THAT THE FLIGHT CAN BE CONDUCTED UNDER SATISFACTORY SAFETY AND SECURITY CONDITIONS BEFORE ENTERING IN LIBYAN AIRSPACE. THIS NOTAM SUPERSEDES THE RESTRICTIONS CONCERNING LIBYA AIRSPACE (FIR TRIPOLI (HLLL)) ISSUED IN PARAGRAPH 3.3 LIBYA OF THE AIC A011/26 CURRENTLY IN EFFECT."
+          "raw_text": "FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED NOT TO PENETRATE INTO THE AIRSPACE OF LIBYA (FIR TRIPOLI (HLLL)) EXCEPT OF : -THE TWO-WAY ROUTES SEGMENTS M999 (ZARZAITINE SEBHA) AND G655 (SEBHA GARIN), ON WHICH A FLIGHT LEVEL ABOVE OR EQUAL TO FL320 IS REQUESTED TO BE MAINTAINED AT ALL TIMES. -THE ROUTE R778 (DITAR-KUFRA-TONBA), ON WHICH A FLIGHT LEVEL ABOVE OR EQUAL TO FL320 IS REQUESTED TO BE MAINTAINED AT ALL TIMES. THE AIR OPERATOR MUST CARRY OUT A ROBUST RISK ASSESSMENT TO ENSURE THAT THE FLIGHT CAN BE CONDUCTED UNDER SATISFACTORY SAFETY AND SECURITY CONDITIONS BEFORE ENTERING IN LIBYAN AIRSPACE. THIS NOTAM SUPERSEDES THE RESTRICTIONS CONCERNING LIBYA AIRSPACE (FIR TRIPOLI (HLLL)) ISSUED IN PARAGRAPH 3.3 LIBYA OF THE AIC A011/26 CURRENTLY IN EFFECT."
         },
         {
           "source": "France",
@@ -947,11 +947,11 @@
         },
         {
           "source": "EASA",
-          "reference": "CZIB 2017-02R19",
+          "reference": "CZIB 2017-02R20",
           "issued": "31 Mar 2017",
-          "valid_until": "31 Jul 2026",
-          "plain_english": "Operators should avoid the airspace of Libya, except for flights to airports located on the coast (as long as you approach from the sea, talk to ATC, and do a risk assessment).",
-          "raw_text": "This CZIB is issued on the basis of information available to EU Member States and EU institutions. Due to the presence of two competing governments and violent non-state actors, the situation remains volatile, with a risk of unpredictable military and security operations. This results in a high risk to civil aviation at all altitudes. The primary risk is misidentification when conducting flights crossing territories under the authority of competing governments. In such an environment, command and control of air defence systems may be fragmented or unclear, increasing the likelihood of misidentification of civil aircraft. In terms of airspace management, air navigation services may be degraded or unavailable. In addition, limitations in civil-military coordination and information sharing may reduce the effectiveness of risk mitigation measures, while the absence of timely or reliable aeronautical information (e.g. NOTAMs) may further increase operational risks. The presence of violent non-state actors also results in a risk of intentional targeting of aviation or aviation related infrastructure. EASA recommends not to fly within the airspace of Libya at all altitudes and flight levels, except for operations to airports located on the coast under following conditions: - approach from the sea, - full coordination with local authorities and ATC, and - based on a robust risk assessment."
+          "valid_until": "31 Jan 2027",
+          "plain_english": "Operators should avoid the airspace of Libya below FL320, except for flights to airports located on the coast (as long as you approach from the sea, coordinate with local authorities and ATC, and conduct a robust risk assessment). Above FL320, operators should exercise caution and take potential risks into account.",
+          "raw_text": "This CZIB is issued based on information currently available to EASA, the European Commission and Member States in order to share information which is considered necessary to ensure the safety of flights over zones of interest and indicate areas of high risk. The security situation in Libya remains volatile due to the presence of two competing governments and violent non-state actors, creating the potential for unpredictable developments affecting the Libyan airspace. At lower and medium altitudes, main risks arise from the presence of multiple armed actors, localised armed clashes, military UAV activity and the availability of aviation-relevant weapons, including MANPADS and anti-aircraft artillery. These factors increase the risk of misidentification and unintended engagement of civil aircraft, particularly during periods of heightened tension. Consequently, the airspace below FL320 is assessed as presenting a high level of risk, except for operations to airports involving approaches from the sea, provided these are conducted in full coordination with local authorities and local ATC, and supported by a robust risk assessment. In relation to the main risks affecting Libyan airspace at high altitudes, actors in Libya continue to retain all-altitude capable air-defence systems. However, there is currently no active armed conflict involving military air operations or surface-to-air missile activity affecting the upper airspace, nor any indication that Libyan actors intend to target civil aviation. There is also no information indicating an imminent resumption of full-scale armed conflict or widespread hostilities between the competing authorities. Consequently, the airspace above FL320 is assessed as presenting a medium level of risk under the current security conditions. Should the security situation deteriorate, the risk to overflights could increase with little or no warning. In such circumstances, fragmented command and control of air-defence systems, together with heightened military activity, could increase the likelihood of misidentification of civil aircraft, particularly when operating across territories controlled by competing authorities. In terms of airspace management, the fragmented security environment reduces the effectiveness of civil-military coordination, information sharing and deconfliction arrangements. In addition, the absence of timely or reliable advisories, including aeronautical information (e.g. NOTAMs), may limit operators' ability to identify and mitigate conflict-related risks. As a result, there are limited mitigating measures, on which air operators can rely at present. Air operators should: 1. Not operate within the airspace of Libya (FIR Tripoli - HLLL) below FL 320, except for operations to airports located on the coast under following conditions: - approach from the sea, - full coordination with local authorities and ATC, and - based on a robust risk assessment. 2. Exercise caution and take potential risks into account when operating within the airspace of Libya (FIR Tripoli - HLLL), above FL 320. 3. Closely monitor airspace developments in the region and follow all available aeronautical publications, including information shared through the European Information Sharing and Cooperation Platform on Conflict Zones, alongside available guidance or direction from their national authorities."
         },
         {
           "source": "UK",
@@ -1133,20 +1133,20 @@
           "raw_text": "AIRSPACE SECURITY WARNING ISSUED BY THE DEPARTMENT OF TRANSPORT IN RESPONSE TO THE SECURITY SITUATION IN MYANMAR. CANADIAN AIR OPERATORS AND OWNERS OF AIRCRAFT REGISTERED IN CANADA ARE RECOMMENDED TO MAINTAIN A FLIGHT LEVEL AT OR ABOVE FL260 IN FIR YANGON (VYYF) DUE TO THE RISK FROM ANTI-AIRCRAFT WEAPONRY."
         },
         {
+          "source": "EASA",
+          "reference": "Information Note",
+          "issued": "30 Jul 2026",
+          "valid_until": "31 Jan 2027",
+          "plain_english": "Operators should take potential risk into account below FL260 in the airspace of Myanmar.",
+          "raw_text": "Information Note on threat and risk situation in the airspace of Myanmar (FIR Yangon - VYYF) Airspace affected: Airspace above the territory of Myanmar (FIR Yangon – VYYF), below FL 260 Civil air operators are advised to take potential risk into account in their risk assessment and routing decisions."
+        },
+        {
           "source": "Italy",
           "reference": "Notam LIRR E1449/26",
           "issued": "08 Jun 2026",
           "valid_until": "05 Sep 2026",
           "plain_english": "Italian operators should avoid the VYYF/Yangon FIR below 25000 ft AGL.",
           "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY ARE RECOMMENDED TO AVOID HEIGHT BELOW 25000FT ABOVE GROUND LEVEL IN YANGON FIR (VYYF) ENSURING ROBUST RISK ASSESSMENT ACCORDING TO EASA SAFETY DIRECTIVES."
-        },
-        {
-          "source": "EASA",
-          "reference": "Information Note",
-          "issued": "30 Jan 2026",
-          "valid_until": "31 Jul 2026",
-          "plain_english": "Operators should take potential risk into account below FL260 in the airspace of Myanmar.",
-          "raw_text": "Information Note on threat and risk situation in the airspace of Myanmar (FIR Yangon - VYYF). Airspace affected: Airspace above the territory of Myanmar (FIR Yangon – VYYF), below FL 260. Civil air operators are advised to take potential risk into account in their risk assessment and routing decisions."
         },
         {
           "source": "France",
@@ -1329,7 +1329,7 @@
           "source": "EASA",
           "reference": "CZIB 2025-01 R3",
           "issued": "09 Jan 2025",
-          "valid_until": "24 Jan 2027",
+          "valid_until": "31 Jan 2027",
           "plain_english": "EASA recommends operators do not enter the airspace of Western Russia (west of longitude 60 Degrees East) at any level due to a risk of misidentification and anti-aircraft fire. A lack of military coordination and defence against Ukranian drone and missile attacks has significantly increased danger to civil aviation. Extensive GNSS interference is also cited.",
           "raw_text": "This CZIB is issued based on information currently available to EU Member States, EASA and the European Commission to share necessary information for ensuring the safety of flights over zones of interest and indicating areas of high risk. The ongoing conflict following the Russian invasion of Ukraine poses the risk of civil aircraft being unintentionally targeted in the airspace of the Russian Federation, due to possible civil-military coordination deficiencies, and the potential for misidentification. In particular, the activation of Russian air defence systems, capable of operating at all altitudes, in response to Ukrainian missile and drone launches, which have extended deep inside Russian territory, may have a direct impact on flight operations at several locations, including major international airports. Most of the incidents have occurred in airspace not closed by the Russian Federation during drones attacks or activation of air defence systems. This poses a high risk to flight operations, as demonstrated by the incident involving Azerbaijan Airlines flight 8243 on 25 December 2024. In terms of airspace management, the State concerned has not demonstrated full proficiency to address existing airspace risks by implementing an efficient and proactive approach to the airspace deconfliction. As a result, there are limited mitigating factors, on which air operators can rely at present. In addition, Global Navigation Satellite Systems (GNSS) spoofing and jamming are also present, particularly in the areas around the conflict zone and sites targeted by the drone launches. EASA will continue to closely monitor the situation, with a view to assess whether there is an increase or decrease of the risk due to the evolution of the threat and risk situation. EASA recommends not to operate within the affected airspace of the Russian Federation located west of longitude 60° East at all altitudes and flight levels. Air operators should closely monitor airspace developments and follow all available aeronautical publications issued by the Russian Federation, including information shared through the European Information Sharing and Cooperation Platform on Conflict Zones, alongside available guidance or direction from their national authorities."
         },
