@@ -1,6 +1,6 @@
 {
   "source": "safeairspace.net",
-  "fetched_at": "2026-08-25T06:43:36.769939+00:00",
+  "fetched_at": "2026-08-25T12:43:53.220451+00:00",
   "countries": {
     "afghanistan": {
       "country": "Afghanistan",
@@ -10,20 +10,20 @@
       "related_reading": [],
       "warnings": [
         {
+          "source": "UK",
+          "reference": "Notam EGTT V0028/26",
+          "issued": "25 Aug 2026",
+          "valid_until": "29 Oct 2026",
+          "plain_english": "UK Notam extended, no change to warning: caution to UK operators in OAKX/Kabul FIR due to potential risk from heightened military activity.",
+          "raw_text": "V0028/26 NOTAMR V0020/26 Q) EGXX/QROXX/IV/NBO/W /000/999/5218N01451W999 A) EGTT EGPX EGGX B) 2608250905 C) 2610290000 E) SECURITY - HAZARDOUS SITUATION IN AFGHANISTAN. UK REGISTERED AIR OPERATORS ARE ADVISED TO TAKE POTENTIAL RISK INTO ACCOUNT WITHIN FIR KABUL (OAKX). POTENTIAL RISK FROM HEIGHTENED MILITARY ACTIVITY. ON EXPIRY OF THIS NOTAM DETAILS WILL BE INCLUDED IN THE UK AIP ENR 1.1. AR-2026-1616/03. F) SFC G) UNL"
+        },
+        {
           "source": "Italy",
           "reference": "Notam LIRR E1454/26",
           "issued": "08 Jun 2026",
           "valid_until": "05 Sep 2026",
           "plain_english": "Italian operators should not enter the OAKX/Kabul FIR below 25000 ft AGL. Airways P500/G500 not affected.",
           "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY WHEN PLANNING FLIGHT OPERATIONS SHALL AVOID OPERATIONS IN AFGHANISTAN FIR (OAKX) BELOW HEIGHT 25000 FEET AGL AND ACCORDING TO EASA SAFETY DIRECTIVES. RMK: AIRWAY P500 G500 NOT AFFECTED."
-        },
-        {
-          "source": "UK",
-          "reference": "Notam EGTT V0020/26",
-          "issued": "27 May 2026",
-          "valid_until": "25 Aug 2026",
-          "plain_english": "UK operators are advised to take the potential risk from heightened military activity in Kabul FIR (OAKX) into account during flight planning and operations.",
-          "raw_text": "SECURITY - HAZARDOUS SITUATION IN AFGHANISTAN. UK REGISTERED AIR OPERATORS ARE ADVISED TO TAKE POTENTIAL RISK INTO ACCOUNT WITHIN FIR KABUL (OAKX). POTENTIAL RISK FROM HEIGHTENED MILITARY ACTIVITY. AR-2026-1616/02."
         },
         {
           "source": "USA",
