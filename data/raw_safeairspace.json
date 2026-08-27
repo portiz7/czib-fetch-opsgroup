@@ -1,6 +1,6 @@
 {
   "source": "safeairspace.net",
-  "fetched_at": "2026-08-26T19:46:30.082459+00:00",
+  "fetched_at": "2026-08-27T07:41:13.110961+00:00",
   "countries": {
     "afghanistan": {
       "country": "Afghanistan",
@@ -117,9 +117,9 @@
       "warnings": [
         {
           "source": "France",
-          "reference": "Notam LFFF F1679/26",
-          "issued": "12 Aug 2026",
-          "valid_until": "26 Aug 2026",
+          "reference": "Notam LFFF F1763/26",
+          "issued": "26 Aug 2026",
+          "valid_until": "02 Sep 2026",
           "plain_english": "French operators should not enter the airspace of Bahrain.",
           "raw_text": "FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED NOT TO PENETRATE INTO THE ENTIRE AIRSPACE OF BAHRAIN (FIR BAHRAIN (OBBB))"
         },
@@ -467,20 +467,20 @@
       "related_reading": [],
       "warnings": [
         {
+          "source": "France",
+          "reference": "Notam LFFF F1765/26",
+          "issued": "26 Jul 2026",
+          "valid_until": "30 Sep 2026",
+          "plain_english": "French operators should not enter the airspace of Iran.",
+          "raw_text": "FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED NOT TO PENETRATE INTO THE ENTIRE AIRSPACE OF IRAN (FIR TEHRAN (OIIX)). THIS NOTAM SUPERSEDES THE RESTRICTIONS CONCERNING IRAN AIRSPACE (FIR TEHRAN (OIIX)) ISSUED IN PARAGRAPH 3.14 IRAN OF THE AIC NR 02/26 CURRENTLY IN EFFECT."
+        },
+        {
           "source": "EASA",
           "reference": "CZIB 2026-04",
           "issued": "08 Jul 2026",
           "valid_until": "31 Aug 2026",
           "plain_english": "Operators should avoid Iran airspace.",
           "raw_text": "This CZIB is issued based on information currently available to EASA, the European Commission and Member States in order to share information which is considered necessary to ensure the safety of flights over zones of interest and indicate areas of high risk. On 28 February 2026, the United States and Israel conducted military strikes targeting sites within Iranian territory. In response, Iran carried out retaliatory attacks. The resulting military conflict created high risks not only to the airspace of Iran but also to that of neighbouring States hosting U.S. military bases or otherwise affected by the hostilities and associated military activities, including interceptions. A temporary ceasefire between the United States and Iran was initially announced on 8 April 2026 and remained in effect until 17 June 2026, when both parties signed a Memorandum of Understanding extending it for a further 60 days. However, its implementation remains fragile, as tensions continue to remain at a high level. Therefore, further close monitoring to assess whether it leads to a sustained reduction of risk to civil aviation is required. Should the existing truce break down, Iranian airspace is likely to be exposed to imminent threats. Recurrent Iranian attacks against commercial vessels and efforts to control the Strait of Hormuz create risks not only to the surrounding airspace, but also increase the likelihood of retaliatory actions that could affect Iranian airspace directly. Given the ongoing high level of tensions and the potential for further military action, Iran maintains a high level of alert for its air force and air defence units nationwide, which creates an increased likelihood of misidentification within the FIR Tehran (OIIX). In terms of airspace management, Iranian authorities have taken measures at certain stages of the conflict to address airspace risks by implementing temporary airspace closures and restrictions. However, a sudden resumption of hostilities, due to their unpredictable nature, could pose challenges to the timely and effective implementation of such measures. Unpredictable military developments, combined with the presence and possible use of a wide range of weapons and air defence systems, create a high risk to civil flights at all altitudes and flight levels. EASA, together with the Commission and Member States, will continue to closely monitor the situation, with a view to assess whether there is an increase or decrease of the risk for EU aircraft operators due to the evolution of the threat and risk situation. Air operators should: 1. Not operate within the airspace of Iran, FIR Tehran (OIIX), at all altitudes and flight levels; 2. Closely monitor airspace developments in the region and follow all available aeronautical publications, in particular airspace closures or restrictions issued by State authorities, alongside available guidance or direction from their national authorities including information shared through the European Information Sharing and Cooperation Platform on Conflict Zones."
-        },
-        {
-          "source": "France",
-          "reference": "Notam LFFF F1446/26",
-          "issued": "01 Jul 2026",
-          "valid_until": "26 Aug 2026",
-          "plain_english": "French operators should not enter the airspace of Iran.",
-          "raw_text": "FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED NOT TO PENETRATE INTO THE ENTIRE AIRSPACE OF IRAN (FIR TEHRAN (OIIX)). THIS NOTAM SUPERSEDES THE RESTRICTIONS CONCERNING IRAN AIRSPACE (FIR TEHRAN (OIIX)) ISSUED IN PARAGRAPH 3.14 IRAN OF THE AIC NR 02/26 CURRENTLY IN EFFECT."
         },
         {
           "source": "Italy",
@@ -558,6 +558,14 @@
       "related_reading": [],
       "warnings": [
         {
+          "source": "France",
+          "reference": "Notam LFFF 1766/26",
+          "issued": "26 Aug 2026",
+          "valid_until": "30 Sep 2026",
+          "plain_english": "French operators should not enter the airspace of Iraq.",
+          "raw_text": "FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED NOT TO PENETRATE INTO THE ENTIRE AIRSPACE OF IRAQ (FIR BAGHDAD (ORBB)). THIS NOTAM SUPERSEDES THE RESTRICTIONS CONCERNING IRAQ AIRSPACE (FIR BAGHDAD (ORBB)) ISSUED IN PARAGRAPH 3.2 IRAQ OF THE AIC NR 02/26 CURRENTLY IN EFFECT."
+        },
+        {
           "source": "EASA",
           "reference": "CZIB 2026-05",
           "issued": "08 Jul 2026",
@@ -572,14 +580,6 @@
           "valid_until": "04 Oct 2026",
           "plain_english": "Iraq is warning operators to expect GPS jamming and spoofing in the northern part of the country.",
           "raw_text": "GPS JAMMING OR SPOOFING INTERFERENCE WITHIN THE NORTHERN PART OF IRAQ. OPERATORS SHOULD INFORM ATC IMMEDIATELY AND EXPECT RADAR VECTORING."
-        },
-        {
-          "source": "France",
-          "reference": "Notam LFFF F1447/26",
-          "issued": "01 Jul 2026",
-          "valid_until": "26 Aug 2026",
-          "plain_english": "French operators should not enter the airspace of Iraq.",
-          "raw_text": "FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED NOT TO PENETRATE INTO THE ENTIRE AIRSPACE OF IRAQ (FIR BAGHDAD (ORBB)). THIS NOTAM SUPERSEDES THE RESTRICTIONS CONCERNING IRAQ AIRSPACE (FIR BAGHDAD (ORBB)) ISSUED IN PARAGRAPH 3.2 IRAQ OF THE AIC NR 02/26 CURRENTLY IN EFFECT."
         },
         {
           "source": "Italy",
@@ -752,9 +752,9 @@
       "warnings": [
         {
           "source": "France",
-          "reference": "Notam LFFF F1677/26",
-          "issued": "12 Aug 2026",
-          "valid_until": "26 Aug 2026",
+          "reference": "Notam LFFF F1764/26",
+          "issued": "26 Aug 2026",
+          "valid_until": "02 Sep 2026",
           "plain_english": "French operators should not enter the airspace of Jordan.",
           "raw_text": "FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED NOT TO PENETRATE INTO THE ENTIRE AIRSPACE OF QATAR (FIR DOHA (OTDF))."
         },
@@ -797,9 +797,9 @@
       "warnings": [
         {
           "source": "France",
-          "reference": "Notam LFFF F1680/26",
-          "issued": "12 Aug 2026",
-          "valid_until": "26 Aug 2026",
+          "reference": "Notam LFFF F1762/26",
+          "issued": "26 Aug 2026",
+          "valid_until": "02 Sep 2026",
           "plain_english": "French operators should not enter the airspace of Kuwait.",
           "raw_text": "FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED NOT TO PENETRATE INTO THE ENTIRE AIRSPACE OF JORDAN (FIR AMMAN (OJAC))."
         },
@@ -1194,6 +1194,14 @@
       "related_reading": [],
       "warnings": [
         {
+          "source": "France",
+          "reference": "Notam LFFF F1768/26",
+          "issued": "26 Aug 2026",
+          "valid_until": "30 Sep 2026",
+          "plain_english": "French operators are advised to exercise great caution and carry out a robust risk assessment before operating in Muscat FIR (OOMM).",
+          "raw_text": "FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED TO EXERCISE GREAT CAUTION WHEN OPERATING INTO THE AIRSPACE OF OMAN (FIR MUSCAT (OOMM)). THE AIR OPERATOR MUST CARRY OUT A ROBUST RISK ASSESSMENT TO ENSURE THAT THE FLIGHT CAN BE CONDUCTED UNDER SATISFACTORY SAFETY AND SECURITY CONDITIONS BEFORE ENTERING THIS AIRSPACE OF OMAN."
+        },
+        {
           "source": "EASA",
           "reference": "Information Note",
           "issued": "14 Jul 2026",
@@ -1208,14 +1216,6 @@
           "valid_until": "31 Aug 2026",
           "plain_english": "Exercise caution in Bahrain, Israel, Jordan, Kuwait, Oman, Qatar, UAE and Saudi Arabia.",
           "raw_text": "This CZIB is issued based on information currently available to EASA, the European Commission and Member States in order to share information which is considered necessary to ensure the safety of flights over zones of interest and indicate areas of high risk. Following the military conflict between the United States and Iran, a temporary ceasefire was initially announced on 8 April 2026 and remained in effect until 17 June 2026, when both parties signed a Memorandum of Understanding extending it for a further 60 days. However, its implementation has been subject to recurrent and significant violations, creating again, a high level of risk across the Gulf region. Iranian efforts to maintain control over the Strait of Hormuz, recurrent attacks against commercial vessels, and related US military actions create high risks for the airspace of Bahrain, Kuwait, Qatar and the United Arab Emirates, as well as for the airspace over the waters in the Gulf of Oman west of longitude 58°E. The presence of major US military facilities in the region increases the likelihood that the States covered by this CZIB may be directly exposed to Iranian missile and drone attacks. The surrounding maritime airspace may also be affected by missile or drone overflights, interception activity, falling debris and the wider consequences of regional military escalation. The heightened readiness and activation of national and US air-defence systems increase the risk of misidentification, unintended engagement and collateral effects affecting civil aircraft. Military activity may occur with little or no warning in confined airspace, significantly reducing the time available to aircraft operators and air navigation service providers to mitigate exposure through tactical rerouting or timely airspace management measures. Regional authorities have implemented temporary airspace closures and restrictions at different stages of the conflict. However, the unpredictable nature and rapid evolution of military activity may challenge the timely and effective implementation of such measures. Unpredictable military developments, combined with the possible use of missiles, drones, combat aircraft and air-defence systems, create a high risk to civil flights at all altitudes and flight levels within the concerned airspace. EASA, together with the Commission and Member States, will continue to closely monitor the situation, with a view to assess whether there is an increase or decrease of the risk for EU aircraft operators due to the evolution of the threat and risk situation. Recommendation(s) Air operators should: 1. Not operate within the airspace of Bahrain (Bahrain FIR – OBBB), Kuwait (Kuwait FIR – OKAC), Qatar (Doha FIR – OTDF), the United Arab Emirates (Emirates FIR – OMAE), and the airspace over the waters of the Gulf of Oman within the FIR Muscat (OOMM) west of longitude 58°E, at all altitudes and flight levels; 2. Closely monitor airspace developments in the region and follow all available aeronautical publications concerning the region, including information shared through the European Information Sharing and Cooperation Platform on Conflict Zones, alongside available guidance or direction from their national authorities."
-        },
-        {
-          "source": "France",
-          "reference": "Notam LFFF F1455/26",
-          "issued": "01 Jul 2026",
-          "valid_until": "26 Aug 2026",
-          "plain_english": "French operators are advised to exercise great caution and carry out a robust risk assessment before operating in Muscat FIR (OOMM).",
-          "raw_text": "FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED TO EXERCISE GREAT CAUTION WHEN OPERATING INTO THE AIRSPACE OF OMAN (FIR MUSCAT (OOMM)). THE AIR OPERATOR MUST CARRY OUT A ROBUST RISK ASSESSMENT TO ENSURE THAT THE FLIGHT CAN BE CONDUCTED UNDER SATISFACTORY SAFETY AND SECURITY CONDITIONS BEFORE ENTERING THIS AIRSPACE OF OMAN."
         }
       ],
       "slug": "oman",
@@ -1292,9 +1292,9 @@
       "warnings": [
         {
           "source": "France",
-          "reference": "Notam LFFF F1677/26",
-          "issued": "12 Aug 2026",
-          "valid_until": "26 Aug 2026",
+          "reference": "Notam LFFF F1761/26",
+          "issued": "26 Aug 2026",
+          "valid_until": "02 Sep 2026",
           "plain_english": "French operators should not enter the airspace of Qatar.",
           "raw_text": "FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED NOT TO PENETRATE INTO THE ENTIRE AIRSPACE OF QATAR (FIR DOHA (OTDF))."
         },
