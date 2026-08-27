@@ -1,6 +1,6 @@
 {
   "source": "safeairspace.net",
-  "fetched_at": "2026-08-27T07:41:13.110961+00:00",
+  "fetched_at": "2026-08-27T21:49:13.520767+00:00",
   "countries": {
     "afghanistan": {
       "country": "Afghanistan",
@@ -469,7 +469,7 @@
         {
           "source": "France",
           "reference": "Notam LFFF F1765/26",
-          "issued": "26 Jul 2026",
+          "issued": "26 Aug 2026",
           "valid_until": "30 Sep 2026",
           "plain_english": "French operators should not enter the airspace of Iran.",
           "raw_text": "FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED NOT TO PENETRATE INTO THE ENTIRE AIRSPACE OF IRAN (FIR TEHRAN (OIIX)). THIS NOTAM SUPERSEDES THE RESTRICTIONS CONCERNING IRAN AIRSPACE (FIR TEHRAN (OIIX)) ISSUED IN PARAGRAPH 3.14 IRAN OF THE AIC NR 02/26 CURRENTLY IN EFFECT."
@@ -823,6 +823,14 @@
       "related_reading": [],
       "warnings": [
         {
+          "source": "France",
+          "reference": "Notam LFFF F1771/26",
+          "issued": "26 Aug 2026",
+          "valid_until": "25 Nov 2026",
+          "plain_english": "French operators should not to enter Lebanese airspace, except for ops into OLBA/Beirut provided arrivals and departures are conducted over the sea in full contact with ATC, and with a thorough risk assessment",
+          "raw_text": "F1771/26 NOTAMR F1449/26 Q) LFXX/QXXCH/I /BO /E /000/999/4412N00040E460 A) LFBB LFFF LFRR LFMM LFEE B) 2608260850 C) 2611252359 E) FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED NOT TO PENETRATE INTO THE AIRSPACE OF LEBANON (FIR BEIRUT (OLBB)), EXCEPT FOR THE USE OF BEIRUT AERODROME (OLBA) AND SUBJECT TO THE FOLLOWING CONDITIONS: - APPROACH STARTING FROM THE SEA AND DEPARTURE ENDING OVER THE SEA, - FULL COORDINATION WITH LOCAL AUTHORITIES AND AIR TRAFFIC CONTROL, - PRIOR CONDUCT OF A ROBUST RISK ASSESSMENT."
+        },
+        {
           "source": "Lebanon",
           "reference": "Notam OLBB A0191/26",
           "issued": "15 Aug 2026",
@@ -845,14 +853,6 @@
           "valid_until": "31 Aug 2026",
           "plain_english": "Operators should avoid Lebanon airspace.",
           "raw_text": "This CZIB is issued based on information currently available to EASA, the European Commission and Member States in order to share information which is considered necessary to ensure the safety of flights over zones of interest and indicate areas of high risk. In the context of the military conflict in the Middle East, which began on 28 February 2026 with U.S. and Israeli strikes against Iran, tensions have expanded across the region, including Israeli attacks on targets within Lebanese territory and Hezbollah operations against Israel. Although a ceasefire between Israel and Lebanon, initially agreed on 16 April 2026 and subsequently extended on 23 April and 19 June 2026, has contributed to an overall reduction in the intensity of military operations, recurrent violations have been observed, primarily in southern Lebanon where military operations have continued until recently. These have also included Israeli airstrikes targeting locations deeper within Lebanese territory, also impacting the Beirut metropolitan area. On 26 June 2026, Israel, Lebanon and the United States signed a Trilateral Framework Agreement, marking a further step towards consolidating the ceasefire, although its long-term implementation remains uncertain. In terms of airspace management, the State concerned has not demonstrated capability to address existing airspace risks by implementing an efficient and proactive approach to the airspace deconfliction. As a result, there are limited mitigating factors, on which air operators can rely at present. Given the overall volatility of the situation, the recurrence of military activity affecting the airspace of Lebanon and the limited actions in terms of risk management of the State concerned, there is high risk to civil aircraft at all altitudes and flight levels. EASA, together with the Commission and Member States, will continue to closely monitor the situation, with a view to assess whether there is an increase or decrease of the risk for EU aircraft operators due to the evolution of the threat and risk situation. Air operators should: Not operate within the airspace of Lebanon, FIR Beirut (OLBB), at all altitudes and flight levels; Closely monitor airspace developments in the region and follow all available aeronautical publications, in particular airspace closures or restrictions issued by State authorities, alongside available guidance or direction from their national authorities including information shared through the European Information Sharing and Cooperation Platform on Conflict Zones."
-        },
-        {
-          "source": "France",
-          "reference": "Notam LFFF F1449/26",
-          "issued": "01 Jul 2026",
-          "valid_until": "26 Aug 2026",
-          "plain_english": "French operators should not enter the airspace of Lebanon.",
-          "raw_text": "FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED NOT TO PENETRATE INTO THE ENTIRE AIRSPACE OF LEBANON (FIR BEIRUT (OLBB))."
         },
         {
           "source": "Italy",
@@ -1198,7 +1198,7 @@
           "reference": "Notam LFFF F1768/26",
           "issued": "26 Aug 2026",
           "valid_until": "30 Sep 2026",
-          "plain_english": "French operators are advised to exercise great caution and carry out a robust risk assessment before operating in Muscat FIR (OOMM).",
+          "plain_english": "French operators are advised to exercise caution in the OOMM/Muscat FIR.",
           "raw_text": "FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED TO EXERCISE GREAT CAUTION WHEN OPERATING INTO THE AIRSPACE OF OMAN (FIR MUSCAT (OOMM)). THE AIR OPERATOR MUST CARRY OUT A ROBUST RISK ASSESSMENT TO ENSURE THAT THE FLIGHT CAN BE CONDUCTED UNDER SATISFACTORY SAFETY AND SECURITY CONDITIONS BEFORE ENTERING THIS AIRSPACE OF OMAN."
         },
         {
