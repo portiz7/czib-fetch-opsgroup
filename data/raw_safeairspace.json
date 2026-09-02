@@ -1,6 +1,6 @@
 {
   "source": "safeairspace.net",
-  "fetched_at": "2026-09-02T03:02:53.652966+00:00",
+  "fetched_at": "2026-09-02T10:42:04.308505+00:00",
   "countries": {
     "afghanistan": {
       "country": "Afghanistan",
@@ -1276,9 +1276,9 @@
       "warnings": [
         {
           "source": "France",
-          "reference": "Notam LFFF F1761/26",
-          "issued": "26 Aug 2026",
-          "valid_until": "02 Sep 2026",
+          "reference": "Notam LFFF F1810/26",
+          "issued": "02 Sep 2026",
+          "valid_until": "16 Sep 2026",
           "plain_english": "French operators should not enter the airspace of Qatar.",
           "raw_text": "FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED NOT TO PENETRATE INTO THE ENTIRE AIRSPACE OF QATAR (FIR DOHA (OTDF))."
         },
