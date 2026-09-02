@@ -1,6 +1,6 @@
 {
   "source": "safeairspace.net",
-  "fetched_at": "2026-09-01T20:36:10.804774+00:00",
+  "fetched_at": "2026-09-02T03:02:53.652966+00:00",
   "countries": {
     "afghanistan": {
       "country": "Afghanistan",
@@ -330,9 +330,9 @@
       "warnings": [
         {
           "source": "Italy",
-          "reference": "Notam LIRR E1441/26",
-          "issued": "08 Jun 2026",
-          "valid_until": "05 Sep 2026",
+          "reference": "Notam LIRR E2228/26",
+          "issued": "01 Sep 2026",
+          "valid_until": "29 Nov 2026",
           "plain_english": "Caution to Italian operators in the HAAA/Addis Ababa FIR due to risks from anti-aircraft weaponry.",
           "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY WHEN PLANNING FLIGHT OPERATIONS SHALL TAKE INTO SERIOUS CONSIDERATION THE HAZARDOUS SITUATION POSED WITHIN ADDIS ABEBA FIR (HAAA) FROM DEDICATED ANTI AVIATION WEAPONRY IN THEIR RISK ASSESSMENTS AND ROUTING DECISIONS ACCORDING TO EASA SAFETY DIRECTIVES."
         },
@@ -1455,9 +1455,9 @@
       "warnings": [
         {
           "source": "Italy",
-          "reference": "Notam LIRR E1445/26",
-          "issued": "08 Jun 2026",
-          "valid_until": "05 Sep 2026",
+          "reference": "Notam LIRR E2227/26",
+          "issued": "01 Sep 2026",
+          "valid_until": "29 Nov 2026",
           "plain_english": "Italian operators should avoid the HSSS/Khartoum FIR.",
           "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY ARE RECOMMENDED TO AVOID KARTHOUM FIR (HSSS) AT ALL ALTITUDES ACCORDING TO EASA SAFETY DIRECTIVES."
         },
