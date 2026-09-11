@@ -1,6 +1,6 @@
 {
   "source": "safeairspace.net",
-  "fetched_at": "2026-09-11T15:54:53.608708+00:00",
+  "fetched_at": "2026-09-11T20:30:23.790887+00:00",
   "countries": {
     "afghanistan": {
       "country": "Afghanistan",
@@ -10,20 +10,20 @@
       "related_reading": [],
       "warnings": [
         {
+          "source": "Italy",
+          "reference": "Notam LIRR E2215/26",
+          "issued": "01 Sep 2026",
+          "valid_until": "29 Nov 2026",
+          "plain_english": "Italian operators should not enter the OAKX/Kabul FIR below 25000 ft AGL. Airways P500/G500 not affected.",
+          "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY WHEN PLANNING FLIGHT OPERATIONS SHALL AVOID OPERATIONS IN AFGHANISTAN FIR (OAKX) BELOW HEIGHT 25000 FEET AGL AND ACCORDING TO EASA SAFETY DIRECTIVES. RMK: AIRWAY P500 G500 NOT AFFECTED."
+        },
+        {
           "source": "UK",
           "reference": "Notam EGTT V0028/26",
           "issued": "25 Aug 2026",
           "valid_until": "29 Oct 2026",
           "plain_english": "UK Notam extended, no change to warning: caution to UK operators in OAKX/Kabul FIR due to potential risk from heightened military activity.",
           "raw_text": "V0028/26 NOTAMR V0020/26 Q) EGXX/QROXX/IV/NBO/W /000/999/5218N01451W999 A) EGTT EGPX EGGX B) 2608250905 C) 2610290000 E) SECURITY - HAZARDOUS SITUATION IN AFGHANISTAN. UK REGISTERED AIR OPERATORS ARE ADVISED TO TAKE POTENTIAL RISK INTO ACCOUNT WITHIN FIR KABUL (OAKX). POTENTIAL RISK FROM HEIGHTENED MILITARY ACTIVITY. ON EXPIRY OF THIS NOTAM DETAILS WILL BE INCLUDED IN THE UK AIP ENR 1.1. AR-2026-1616/03. F) SFC G) UNL"
-        },
-        {
-          "source": "Italy",
-          "reference": "Notam LIRR E1454/26",
-          "issued": "08 Jun 2026",
-          "valid_until": "05 Sep 2026",
-          "plain_english": "Italian operators should not enter the OAKX/Kabul FIR below 25000 ft AGL. Airways P500/G500 not affected.",
-          "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY WHEN PLANNING FLIGHT OPERATIONS SHALL AVOID OPERATIONS IN AFGHANISTAN FIR (OAKX) BELOW HEIGHT 25000 FEET AGL AND ACCORDING TO EASA SAFETY DIRECTIVES. RMK: AIRWAY P500 G500 NOT AFFECTED."
         },
         {
           "source": "USA",
@@ -144,9 +144,9 @@
       "warnings": [
         {
           "source": "Italy",
-          "reference": "Notam LIRR E1455/26",
-          "issued": "08 Jun 2026",
-          "valid_until": "05 Sep 2026",
+          "reference": "Notam LIRR E2216/26",
+          "issued": "01 Sep 2026",
+          "valid_until": "29 Nov 2026",
           "plain_english": "Italian operators should avoid the UMMV/Minsk FIR.",
           "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY ARE REQUESTED TO AVOID MINSK FIR UMMV. FOREIGN AIR CARRIERS INBOUND EU ARE RECOMMENDED TO AVOID MINSK FIR (UMMV) ACCORDING TO EASA SAFETY DIRECTIVES."
         },
@@ -396,20 +396,20 @@
       "related_reading": [],
       "warnings": [
         {
+          "source": "USA",
+          "reference": "Notam KICZ A0046/26",
+          "issued": "01 Sep 2026",
+          "valid_until": "02 Mar 2027",
+          "plain_english": "US operators are prohibited from operating below 10,000ft MSL in parts of Haiti airspace around MTPP/Port-au-Prince, including an additional 17 NM area to the north. Overflights above 10,000 ft MSL do not require FAA authorization.",
+          "raw_text": "SECURITY UNITED STATES OF AMERICA PROHIBITION AGAINST CERTAIN FLIGHTS IN THE TERRITORY AND AIRSPACE OF HAITI. THOSE PERSONS DESCRIBED IN PARAGRAPH A (APPLICABILITY) ARE PROHIBITED FM OPERATING AT ALTITUDES FM THE SFC-9999FT MSL IN THE TERRITORY AND AIRSPACE OF HAITI SOUTH OF 191000N AND NORTH OF 182000N BTN THE HAITI/DOMINICAN REPUBLIC BORDER AND 0730000W AND WI 17NM OF 191000N0723100W DUE TO SAFETY-OF-FLIGHT RISKS ASSOCIATED WITH ONGOING INSTABILITY. A. APPLICABILITY. THIS NOTAM APPLIES TO: ALL U.S. AIR CARRIERS AND COMMERCIAL OPERATORS; ALL PERSONS EXERCISING THE PRIVILEGES OF AN AIRMAN CERTIFICATE ISSUED BY THE FAA, EXCEPT SUCH PERSONS OPERATING U.S.-REGISTERED AIRCRAFT FOR A FOREIGN AIR CARRIER; AND ALL OPERATORS OF CIVIL AIRCRAFT REGISTERED IN THE UNITED STATES, EXCEPT WHEN THE OPERATOR OF SUCH AIRCRAFT IS A FOREIGN AIR CARRIER. B. PERMITTED OPERATIONS. OVERFLIGHTS ABOVE 10000FT MSL AND OPERATIONS IN THE TERRITORY AND AIRSPACE OF HAITI OUTSIDE OF THE ABOVE-NAMED AREAS DO NOT REQUIRE FAA AUTHORIZATION. THIS NOTAM DOES NOT PROHIBIT PERSONS DESCRIBED IN PARAGRAPH A (APPLICABILITY) ABOVE FROM CONDUCTING FLIGHT OPERATIONS IN THE ABOVE-NAMED AREAS WHEN SUCH OPERATIONS ARE AUTHORIZED EITHER BY ANOTHER AGENCY OF THE UNITED STATES GOVERNMENT WITH THE APPROVAL OF THE FAA OR BY A DEVIATION, EXEMPTION, OR OTHER AUTHORIZATION ISSUED BY THE FAA ADMINISTRATOR. OPERATORS MUST CALL THE FAA WASHINGTON OPERATIONS CENTER AT 202-267-3333 TO INITIATE COORDINATION FOR FAA AUTHORIZATION TO CONDUCT OPERATIONS. C. EMERGENCY SITUATIONS. IN AN EMERGENCY REQUIRING IMMEDIATE DECISION AND ACTION FOR THE SAFETY OF THE FLIGHT, THE PILOT IN COMMAND OF AN AIRCRAFT MAY DEVIATE FROM THIS NOTAM TO THE EXTENT REQUIRED BY THAT EMERGENCY. THIS NOTAM IS AN EMERGENCY ORDER ISSUED UNDER 49 USC 40113(A), 44701(A)(5), AND 46105(C). D. IF AVAILABLE, ADDITIONAL INFORMATION CAN BE FOUND AT: HTTPS://WWW.FAA.GOV/ AIR_TRAFFIC/PUBLICATIONS/US_RESTRICTIONS/"
+        },
+        {
           "source": "Canada",
           "reference": "AIC 17/26",
           "issued": "11 Jun 2026",
           "valid_until": "Ongoing",
           "plain_english": "Canadian operators are recommended not to fly below FL100 within the specified area of MTEG/Port-au-Prince FIR due to risks to aviation from gang activity.",
           "raw_text": "Level 2 (Recommendation) SECURITY – HAZARDOUS SITUATION IN HAITI. Canadian Air Operators and owners of aircraft registered in Canada are recommended to maintain a flight level equal to or above FL100 within FIR Port-au-Prince (MTEG) within the area bounded by 193300N 717600W – 193300N 730000W – 180000N 730000W - 180000N 717600W. Potential risk to aviation from gang activity."
-        },
-        {
-          "source": "USA",
-          "reference": "Notam KICZ A0024/26",
-          "issued": "02 Mar 2026",
-          "valid_until": "03 Sep 2026",
-          "plain_english": "US operators are prohibited from operating below 10,000ft MSL in parts of Haiti airspace around MTPP/Port-au-Prince, including an additional 15 NM area to the north.",
-          "raw_text": "SECURITY UNITED STATES OF AMERICA PROHIBITION AGAINST CERTAIN FLIGHTS IN THE TERRITORY AND AIRSPACE OF HAITI. THOSE PERSONS DESCRIBED IN PARAGRAPH A (APPLICABILITY) ARE PROHIBITED FROM OPERATING AT ALTITUDES FROM THE SFC-9999FT MSL IN THE TERRITORY AND AIRSPACE OF HAITI SOUTH OF 191000N AND NORTH OF 182000N BETWEEN THE HAITI/DOMINICAN REPUBLIC BORDER AND 0730000W AND WITHIN 15NM OF 191000N0723100W DUE TO SAFETY-OF-FLIGHT RISKS ASSOCIATED WITH ONGOING INSTABILITY. A. APPLICABILITY. THIS NOTAM APPLIES TO: ALL U.S. AIR CARRIERS AND COMMERCIAL OPERATORS; ALL PERSONS EXERCISING THE PRIVILEGES OF AN AIRMAN CERTIFICATE ISSUED BY THE FAA, EXCEPT SUCH PERSONS OPERATING U.S.-REGISTERED AIRCRAFT FOR A FOREIGN AIR CARRIER; AND ALL OPERATORS OF CIVIL AIRCRAFT REGISTERED IN THE UNITED STATES, EXCEPT WHEN THE OPERATOR OF SUCH AIRCRAFT IS A FOREIGN AIR CARRIER. B. PERMITTED OPERATIONS. THIS NOTAM DOES NOT PROHIBIT PERSONS DESCRIBED IN PARAGRAPH A (APPLICABILITY) ABOVE FROM CONDUCTING FLIGHT OPERATIONS IN THE ABOVE-NAMED AREAS WHEN SUCH OPERATIONS ARE AUTHORIZED EITHER BY ANOTHER AGENCY OF THE UNITED STATES GOVERNMENT WITH THE APPROVAL OF THE FAA OR BY A DEVIATION, EXEMPTION, OR OTHER AUTHORIZATION ISSUED BY THE FAA ADMINISTRATOR. OPERATORS MUST CALL THE FAA WASHINGTON OPERATIONS CENTER AT 202-267-3333 TO INITIATE COORDINATION FOR FAA AUTHORIZATION TO CONDUCT OPERATIONS. OPERATIONS IN THE TERRITORY AND AIRSPACE OF HAITI OUTSIDE OF THE ABOVE-NAMED AREAS DO NOT REQUIRE FAA AUTHORIZATION. C. EMERGENCY SITUATIONS. IN AN EMERGENCY REQUIRING IMMEDIATE DECISION AND ACTION FOR THE SAFETY OF THE FLIGHT, THE PILOT IN COMMAND OF AN AIRCRAFT MAY DEVIATE FROM THIS NOTAM TO THE EXTENT REQUIRED BY THAT EMERGENCY. THIS NOTAM IS AN EMERGENCY ORDER ISSUED D. IF AVAILABLE, ADDITIONAL INFORMATION CAN BE FOUND AT: HTTPS://WWW.FAA.GOV/ AIR_TRAFFIC/PUBLICATIONS/US_RESTRICTIONS/"
         },
         {
           "source": "France",
@@ -467,6 +467,14 @@
           "raw_text": "SECURITY - HAZARDOUS SITUATION IN IRAN CIVIL GERMAN AIR OPERATORS ARE RECOMMENDED NOT TO ENTER FIR TEHRAN (OIIX). POTENTIAL RISK TO AVIATION FROM ESCALATING CONFLICT AND ANTI-AVIATION WEAPONRY. THIS NOTAM OVERRULES THE RECOMMENDATION PROVIDED IN THE CURRENTLY APPLICABLE AIC."
         },
         {
+          "source": "Italy",
+          "reference": "Notam LIRR E2212/26",
+          "issued": "01 Sep 2026",
+          "valid_until": "29 Nov 2026",
+          "plain_english": "Italian operators should avoid the OIIX/Tehran FIR.",
+          "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY ARE RECOMMENDED TO AVOID OIIX FIR AND ENSURE THAT A ROBUST RISK ASSESSMENT IS IN PLACE TOGETHER WITH A HIGH LEVEL OF CONTINGENCY PLANNING IN WHOLE MIDDLE EAST ACCORDING TO EASA SAFETY DIRECTIVES."
+        },
+        {
           "source": "France",
           "reference": "Notam LFFF F1765/26",
           "issued": "26 Aug 2026",
@@ -481,14 +489,6 @@
           "valid_until": "30 Sep 2026",
           "plain_english": "Operators should avoid Iran airspace.",
           "raw_text": "This CZIB is issued based on information currently available to EASA, the European Commission and Member States in order to share information which is considered necessary to ensure the safety of flights over zones of interest and indicate areas of high risk. On 28 February 2026, the United States and Israel conducted military strikes targeting sites within Iranian territory. In response, Iran carried out retaliatory attacks. The resulting military conflict created high risks not only to the airspace of Iran but also to that of neighbouring States hosting U.S. military bases or otherwise affected by the hostilities and associated military activities, including interceptions. A temporary ceasefire between the United States and Iran was initially announced on 8 April 2026 and remained in effect until 17 June 2026, when both parties signed a Memorandum of Understanding extending it for a further 60 days. However, its implementation remains fragile, as tensions continue to remain at a high level. Therefore, further close monitoring to assess whether it leads to a sustained reduction of risk to civil aviation is required. Should the existing truce break down, Iranian airspace is likely to be exposed to imminent threats. Recurrent Iranian attacks against commercial vessels and efforts to control the Strait of Hormuz create risks not only to the surrounding airspace, but also increase the likelihood of retaliatory actions that could affect Iranian airspace directly. Given the ongoing high level of tensions and the potential for further military action, Iran maintains a high level of alert for its air force and air defence units nationwide, which creates an increased likelihood of misidentification within the FIR Tehran (OIIX). In terms of airspace management, Iranian authorities have taken measures at certain stages of the conflict to address airspace risks by implementing temporary airspace closures and restrictions. However, a sudden resumption of hostilities, due to their unpredictable nature, could pose challenges to the timely and effective implementation of such measures. Unpredictable military developments, combined with the presence and possible use of a wide range of weapons and air defence systems, create a high risk to civil flights at all altitudes and flight levels. EASA, together with the Commission and Member States, will continue to closely monitor the situation, with a view to assess whether there is an increase or decrease of the risk for EU aircraft operators due to the evolution of the threat and risk situation. Air operators should: 1. Not operate within the airspace of Iran, FIR Tehran (OIIX), at all altitudes and flight levels; 2. Closely monitor airspace developments in the region and follow all available aeronautical publications, in particular airspace closures or restrictions issued by State authorities, alongside available guidance or direction from their national authorities including information shared through the European Information Sharing and Cooperation Platform on Conflict Zones."
-        },
-        {
-          "source": "Italy",
-          "reference": "Notam LIRR E1456/26",
-          "issued": "08 Jun 2026",
-          "valid_until": "05 Sep 2026",
-          "plain_english": "Italian operators should avoid the OIIX/Tehran FIR.",
-          "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY ARE RECOMMENDED TO AVOID OIIX FIR AND ENSURE THAT A ROBUST RISK ASSESSMENT IS IN PLACE TOGETHER WITH A HIGH LEVEL OF CONTINGENCY PLANNING IN WHOLE MIDDLE EAST ACCORDING TO EASA SAFETY DIRECTIVES."
         },
         {
           "source": "Germany",
@@ -550,6 +550,14 @@
       "related_reading": [],
       "warnings": [
         {
+          "source": "Italy",
+          "reference": "Notam LIRR E2221/26",
+          "issued": "01 Sep 2026",
+          "valid_until": "29 Nov 2026",
+          "plain_english": "Italian operators should avoid the ORBB/Baghdad FIR.",
+          "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY ARE RECOMMENDED TO AVOID BAGHDAD FIR (ORBB) ACCORDING TO EASA SAFETY DIRECTIVES."
+        },
+        {
           "source": "France",
           "reference": "Notam LFFF 1766/26",
           "issued": "26 Aug 2026",
@@ -572,14 +580,6 @@
           "valid_until": "04 Oct 2026",
           "plain_english": "Iraq is warning operators to expect GPS jamming and spoofing in the northern part of the country.",
           "raw_text": "GPS JAMMING OR SPOOFING INTERFERENCE WITHIN THE NORTHERN PART OF IRAQ. OPERATORS SHOULD INFORM ATC IMMEDIATELY AND EXPECT RADAR VECTORING."
-        },
-        {
-          "source": "Italy",
-          "reference": "Notam LIRR E1451/26",
-          "issued": "08 Jun 2026",
-          "valid_until": "05 Sep 2026",
-          "plain_english": "Italian operators should avoid the ORBB/Baghdad FIR.",
-          "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY ARE RECOMMENDED TO AVOID BAGHDAD FIR (ORBB) ACCORDING TO EASA SAFETY DIRECTIVES."
         },
         {
           "source": "France",
@@ -673,6 +673,14 @@
       "related_reading": [],
       "warnings": [
         {
+          "source": "Italy",
+          "reference": "Notam LIRR E2223/26",
+          "issued": "01 Sep 2026",
+          "valid_until": "29 Nov 2026",
+          "plain_english": "Italian operators should exercise caution in the airspace of Israel.",
+          "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY ARE RECOMMENDED TO EXERCISE ENHANCED CAUTION WHEN OVERFLYING OR OPERATING FLIGHTS TO TEL AVIV FIR (LLLL) IN PARTICULAR TO FOLLOW INSTRUCTIONS FROM ISRAELI AUTHORITIES AND TO PAY PARTICULAR ATTENTION TO RESTRICTIONS OR INTERDICTIONS PUBLISHED BY NOTAM WITH VERY SHORT NOTICE DUE TO POTENTIALLY FAST EVOLVING SITUATION AND EASA SAFETY DIRECTIVES."
+        },
+        {
           "source": "EASA",
           "reference": "Information Note",
           "issued": "31 Aug 2026",
@@ -687,14 +695,6 @@
           "valid_until": "16 Jul 2026",
           "plain_english": "Russian operators are not permitted to depart for Israel between 2200-0400 UTC. Daytime flights are still allowed, but only if the airline has completed its own risk assessment.",
           "raw_text": "U0761/26 NOTAMR U0650/26 Q)UUWV/QOAXX/IV/BO/A/000/999/5535N03716E005 A)UUUU B)2606160528 C)2607162359 E)ATTENTION AIR OPERATORS OF RUSSIAN FEDERATION: DUE TO REMAINING THREAT TO CIVIL AVIATION FLT SAFETY RESTRICTIONS ON NIGHT-TIME DEPARTURES FROM AIRPORTS OF RUSSIAN FEDERATION TO AIRPORTS OF STATE OF ISRAEL EFFECTIVE 2200-0400 UTC ARE IMPOSED BY FEDERAL AIR TRANSPORT AGENCY OF RUSSIAN FEDERATION. AIRLINES SHALL MAKE DECISIONS ON PERFORMING FLIGHTS TO STATE OF ISRAEL IN DAY-TIME BASED ON RISK ASSESSMENT, INCLUDING RECOMMENDATIONS PUBLISHED IN RISK ASSESSMENT MANUAL FOR CIVIL ACFT OPERATIONS OVER OR NEAR CONFLICT ZONES (ICAO DOC 10084 SECOND EDITION, 2018)."
-        },
-        {
-          "source": "Italy",
-          "reference": "Notam LIRR E1448/26",
-          "issued": "08 Jun 2026",
-          "valid_until": "05 Sep 2026",
-          "plain_english": "Italian operators should exercise caution in the airspace of Israel.",
-          "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY ARE RECOMMENDED TO EXERCISE ENHANCED CAUTION WHEN OVERFLYING OR OPERATING FLIGHTS TO TEL AVIV FIR (LLLL) IN PARTICULAR TO FOLLOW INSTRUCTIONS FROM ISRAELI AUTHORITIES AND TO PAY PARTICULAR ATTENTION TO RESTRICTIONS OR INTERDICTIONS PUBLISHED BY NOTAM WITH VERY SHORT NOTICE DUE TO POTENTIALLY FAST EVOLVING SITUATION AND EASA SAFETY DIRECTIVES."
         },
         {
           "source": "Canada",
@@ -823,6 +823,14 @@
           "raw_text": "SECURITY - HAZARDOUS SITUATION IN LEBANON CIVIL GERMAN AIR OPERATORS ARE ADVISED TO TAKE POTENTIAL RISK INTO ACCOUNT IN THEIR RISK ASSESSMENT AND ROUTING DECISIONS WITHIN FIR BEIRUT. POTENTIAL RISK FROM ANTI-AVIATION WEAPONRY, MILITARY OPERATIONS AND ARMED CONFLICTS."
         },
         {
+          "source": "Italy",
+          "reference": "Notam LIRR E2219/26",
+          "issued": "01 Sep 2026",
+          "valid_until": "29 Nov 2026",
+          "plain_english": "Italian operators should not enter the OLBB/Beirut FIR.",
+          "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY ARE RECOMMENDED TO OPERATE WITHIN AIRSPACE OF LEBANON FIR BEIRUT (OLBB) ACCORDING TO EASA SAFETY DIRECTIVES ENSURING A ROBUST RISK ASSESSMENT."
+        },
+        {
           "source": "France",
           "reference": "Notam LFFF F1805/26",
           "issued": "01 Sep 2026",
@@ -853,14 +861,6 @@
           "valid_until": "30 Sep 2026",
           "plain_english": "Operators should avoid Lebanon airspace, except for operations to/from OLBA/Beirut that approach from the sea or depart over the sea.",
           "raw_text": "This CZIB is issued based on information currently available to EASA, the European Commission and Member States in order to share information which is considered necessary to ensure the safety of flights over zones of interest and indicate areas of high risk. In the context of the military conflict in the Middle East, which began on 28 February 2026 with the U.S. and Israeli strikes against Iran, tensions have expanded across the region, including Israeli attacks on targets within Lebanese territory and Hezbollah operations against Israel. A ceasefire between Israel and Lebanon, initially agreed on 16 April 2026 was subsequently extended twice. Furthermore, on 26 June 2026, Israel, Lebanon and the United States signed a Trilateral Framework Agreement, marking a further step towards consolidating the ceasefire, however its long-term implementation remains uncertain. Although, these have contributed to an overall reduction in the intensity of military operations, recurrent violations have been observed in August 2026, primarily in southern Lebanon where military operations have continued. While residual risks remain high, and should be reflected in operators’ risk assessments, it is considered that approaches starting from the sea and departures ending over the sea, based on an up-to-date risk assessment and continuous risk monitoring, provide sufficient mitigation of the risk of misidentification. In terms of airspace management, the State concerned has not demonstrated capability to address existing airspace risks by implementing an efficient and proactive approach to the airspace deconfliction. As a result, there are limited mitigating factors, on which air operators can rely at present. Overall, there is a high-risk in the airspace over the territory of Lebanon, except for operations starting from the sea to Beirut International Airport and departures ending over the sea. EASA, together with the Commission and Member States, will continue to closely monitor the situation, with a view to assess whether there is an increase or decrease of the risk for EU aircraft operators due to the evolution of the threat and risk situation. Air operators should: Not operate within the airspace of Lebanon at all altitudes and flight levels, except for operations to / from Beirut International Airport (BEY / OLBA) under the following conditions: - approach starting from the sea / departure ending over the sea, - based on an up-to-date risk assessment and continuous risk monitoring. Closely monitor airspace developments in the region and follow all available aeronautical publications, in particular airspace closures or restrictions issued by State authorities, alongside available guidance or direction from their national authorities including information shared through the European Information Sharing and Cooperation Platform on Conflict Zones."
-        },
-        {
-          "source": "Italy",
-          "reference": "Notam LIRR E1452/26",
-          "issued": "08 Jun 2026",
-          "valid_until": "05 Sep 2026",
-          "plain_english": "Italian operators should not enter the OLBB/Beirut FIR.",
-          "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY ARE RECOMMENDED TO OPERATE WITHIN AIRSPACE OF LEBANON FIR BEIRUT (OLBB) ACCORDING TO EASA SAFETY DIRECTIVES ENSURING A ROBUST RISK ASSESSMENT."
         },
         {
           "source": "Canada",
@@ -975,6 +975,14 @@
       "related_reading": [],
       "warnings": [
         {
+          "source": "Italy",
+          "reference": "Notam LIRR E2214/26",
+          "issued": "01 Sep 2026",
+          "valid_until": "29 Nov 2026",
+          "plain_english": "Italian operators should avoid the airspace of Mali below 25000 ft AGL.",
+          "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY ARE RECOMMENDED TO AVOID PORTIONS OF DAKAR FIR (GOOO) AND NIAMEY FIR (DRRR) WITHIN TERRITORY AND AIRSPACE OF MALI BELOW HEIGHT 25000FT AGL AND ACCORDING TO EASA SAFETY DIRECTIVES."
+        },
+        {
           "source": "Canada",
           "reference": "Notam CZUL H5014/26",
           "issued": "07 Aug 2026",
@@ -997,14 +1005,6 @@
           "valid_until": "21 Sep 2026",
           "plain_english": "French operators are advised to remain at or above FL320 in the portions of the GOOO/Dakar and DRRR/Niamey FIRs overhead Mali. GABS/Bamako should not be used at this time (including as an alternate) due to a deteriorating security situation.",
           "raw_text": "DUE TO SECURITY SITUATION IN MALI, FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED TO MAINTAIN AT ALL TIMES A FLIGHT LEVEL ABOVE OR EQUAL TO FL320 IN THE PART OF FIR DAKAR (GOOO) AND IN THE PART OF FIR NIAMEY (DRRR) LOCATED ABOVE THE MALIAN TERRITORY AND NOT TO SERVE OR IDENTIFY AS ALTERNATE BAMAKO MODIBO - KEITA AERODROME (GABS). THIS NOTAM SUPERSEDES THE RESTRICTIONS CONCERNING MALI ISSUED IN PARAGRAPH 3.11 MALI OF THE AIC NR A11/26 CURRENTLY IN EFFECT."
-        },
-        {
-          "source": "Italy",
-          "reference": "Notam LIRR E1458/26",
-          "issued": "08 Jun 2026",
-          "valid_until": "05 Sep 2026",
-          "plain_english": "Italian operators should avoid the airspace of Mali below 25000 ft AGL.",
-          "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY ARE RECOMMENDED TO AVOID PORTIONS OF DAKAR FIR (GOOO) AND NIAMEY FIR (DRRR) WITHIN TERRITORY AND AIRSPACE OF MALI BELOW HEIGHT 25000FT AGL AND ACCORDING TO EASA SAFETY DIRECTIVES."
         },
         {
           "source": "USA",
@@ -1117,6 +1117,14 @@
       "related_reading": [],
       "warnings": [
         {
+          "source": "Italy",
+          "reference": "Notam LIRR E2222/26",
+          "issued": "01 Sep 2026",
+          "valid_until": "29 Nov 2026",
+          "plain_english": "Italian operators should avoid the VYYF/Yangon FIR below 25000 ft AGL.",
+          "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY ARE RECOMMENDED TO AVOID HEIGHT BELOW 25000FT ABOVE GROUND LEVEL IN YANGON FIR (VYYF) ENSURING ROBUST RISK ASSESSMENT ACCORDING TO EASA SAFETY DIRECTIVES."
+        },
+        {
           "source": "Canada",
           "reference": "Notam CZUL H5013/26",
           "issued": "07 Aug 2026",
@@ -1131,14 +1139,6 @@
           "valid_until": "31 Jan 2027",
           "plain_english": "Operators should take potential risk into account below FL260 in the airspace of Myanmar.",
           "raw_text": "Information Note on threat and risk situation in the airspace of Myanmar (FIR Yangon - VYYF) Airspace affected: Airspace above the territory of Myanmar (FIR Yangon – VYYF), below FL 260 Civil air operators are advised to take potential risk into account in their risk assessment and routing decisions."
-        },
-        {
-          "source": "Italy",
-          "reference": "Notam LIRR E1449/26",
-          "issued": "08 Jun 2026",
-          "valid_until": "05 Sep 2026",
-          "plain_english": "Italian operators should avoid the VYYF/Yangon FIR below 25000 ft AGL.",
-          "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY ARE RECOMMENDED TO AVOID HEIGHT BELOW 25000FT ABOVE GROUND LEVEL IN YANGON FIR (VYYF) ENSURING ROBUST RISK ASSESSMENT ACCORDING TO EASA SAFETY DIRECTIVES."
         },
         {
           "source": "France",
@@ -1214,9 +1214,9 @@
       "warnings": [
         {
           "source": "Italy",
-          "reference": "Notam LIRR E1446/26",
-          "issued": "08 Jun 2026",
-          "valid_until": "05 Sep 2026",
+          "reference": "Notam LIRR E2224/26",
+          "issued": "01 Sep 2026",
+          "valid_until": "29 Nov 2026",
           "plain_english": "Italian operators should avoid the airspace of Pakistan below 25000 ft AGL.",
           "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY WHEN PLANNING FLIGHT OPERATIONS ARE RECOMMENDED TO AVOID LAHORE FIR (OPLR) AND KARACHI FIR (OPKR) BELOW HEIGHT 25000FT AGL MONITORING EASA SAFETY DIRECTIVES."
         },
@@ -1303,11 +1303,11 @@
       "warnings": [
         {
           "source": "Italy",
-          "reference": "Notam LIRR E1457/26",
-          "issued": "08 Jun 2026",
-          "valid_until": "05 Sep 2026",
+          "reference": "Notam LIRR E2213/26",
+          "issued": "01 Sep 2026",
+          "valid_until": "29 Nov 2026",
           "plain_english": "Italian operators are prohibited from the URRV/Rostov FIR, as well as any Russian airspace within 200 NM of the Russia/Ukraine border. They must do a risk assessment if planning to operate in the UUWV/Moscow, ULLL/St Petersburg, or UWWW/Samara FIRs.",
-          "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY SHALL NOT ENTER UIR KYIV UKBU, FIR LVIV UKLV, FIR KYIV UKBV, FIR DNIPROPETROVSK UKDV, FIR SIMFEROPOL UKFV, FIR ODESA UKOV, FIR ROSTOV NA DONU URRV. SAID OPERATORS AND AIRCRAFT OWNERS SHALL ALSO AVOID FLIGHT OPS WITHIN BUFFER ZONE EXTENDED OUT 200NM ALONG UKRAINE RUSSIA BORDER. FLIGHT OPS WITHIN CHISHINAU FIR LUUU SHALL ONLY BE UNDERTAKEN IN COMPLIANCE WITH AERONAUTICAL PUBLICATIONS ISSUED BY REPUBLIC OF MOLDOVA. OPERATORS ARE ALSO REMINDED THAT FLIGHT OPS WITHIN MINSK FIR UMMV ARE PROHIBITED AND THAT ADDITIONAL RISK ASSESSMENT AND FLIGHT PLANNING DECISIONS SHALL BE TAKEN BEFORE OPERATING IN FIR UUWV, FIR ULLL, FIR USSV, FIR UWWW IN ACCORDANCE WITH EASA SAFETY DIRECTIVES."
+          "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY SHALL NOT ENTER UIR KYIV UKBU, FIR LVIV UKLV, FIR KYIV UKBV, FIR DNIPROPETROVSK UKDV, FIR SIMFEROPOL UKFV, FIR ODESA UKOV, FIR ROSTOV NA DONU URRV. SAID OPERATORS AND AIRCRAFT OWNERS SHALL ALSO AVOID FLIGHT OPS WITHIN BUFFER ZONE EXTENDED OUT 200NM ALONG UKRAINE RUSSIA BORDER. FLIGHT OPS WITHIN CHISHINAU FIR LUUU SHALL ONLY BE UNDERTAKEN IN COMPLIANCE WITH AERONAUTICAL PUBLICATIONS ISSUED BY REPUBLIC OF MOLDOVA. OPERATORS ARE ALSO REMINDED THAT FLIGHT OPS WITHIN MINSK FIR UMMV ARE PROHIBITED AND THAT ADDITIONAL RISK ASSESSMENT AND FLIGHT PLANNING DECISIONS SHALL BE TAKEN BEFORE OPERATING IN FIR UUWV, FIR ULLL, FIR USSV, FIR UWWW IN ACCORDANCE WITH EASA SAFETY DIRECTIVES"
         },
         {
           "source": "EASA",
@@ -1380,9 +1380,9 @@
       "warnings": [
         {
           "source": "Italy",
-          "reference": "Notam LIRR E1447/26",
-          "issued": "08 Jun 2026",
-          "valid_until": "05 Sep 2026",
+          "reference": "Notam LIRR E2225/26",
+          "issued": "01 Sep 2026",
+          "valid_until": "29 Nov 2026",
           "plain_english": "Italian operators should avoid the HCSM/Mogadishu FIR below 25000 ft AGL.",
           "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY ARE RECOMMENDED TO AVOID HEIGHT BELOW 25000FT AGL IN MOGADISHU FIR (HCSM) ACCORDING TO EASA SAFETY DIRECTIVES."
         },
@@ -1514,9 +1514,9 @@
       "warnings": [
         {
           "source": "Italy",
-          "reference": "Notam LIRR E1459/26",
-          "issued": "08 Jun 2026",
-          "valid_until": "05 Sep 2026",
+          "reference": "Notam LIRR E2211/26",
+          "issued": "01 Sep 2026",
+          "valid_until": "29 Nov 2026",
           "plain_english": "Italian operators should avoid the OSTT/Damascus FIR.",
           "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY WHEN PLANNING FLIGHT OPERATIONS ARE RECOMMENDED TO AVOID DAMASCUS FIR (OSTT) AT ALL ALTITUDES ACCORDING TO EASA SAFETY DIRECTIVES."
         },
@@ -1633,20 +1633,20 @@
       "related_reading": [],
       "warnings": [
         {
+          "source": "Italy",
+          "reference": "Notam LIRR E2213/26",
+          "issued": "01 Sep 2026",
+          "valid_until": "29 Nov 2026",
+          "plain_english": "Italian operators are prohibited from the airspace of Ukraine, including the contested UKFV/Simferopol FIR over Crimea (claimed by Russia as the URFV FIR).",
+          "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY SHALL NOT ENTER UIR KYIV UKBU, FIR LVIV UKLV, FIR KYIV UKBV, FIR DNIPROPETROVSK UKDV, FIR SIMFEROPOL UKFV, FIR ODESA UKOV, FIR ROSTOV NA DONU URRV. SAID OPERATORS AND AIRCRAFT OWNERS SHALL ALSO AVOID FLIGHT OPS WITHIN BUFFER ZONE EXTENDED OUT 200NM ALONG UKRAINE RUSSIA BORDER. FLIGHT OPS WITHIN CHISHINAU FIR LUUU SHALL ONLY BE UNDERTAKEN IN COMPLIANCE WITH AERONAUTICAL PUBLICATIONS ISSUED BY REPUBLIC OF MOLDOVA. OPERATORS ARE ALSO REMINDED THAT FLIGHT OPS WITHIN MINSK FIR UMMV ARE PROHIBITED AND THAT ADDITIONAL RISK ASSESSMENT AND FLIGHT PLANNING DECISIONS SHALL BE TAKEN BEFORE OPERATING IN FIR UUWV, FIR ULLL, FIR USSV, FIR UWWW IN ACCORDANCE WITH EASA SAFETY DIRECTIVES."
+        },
+        {
           "source": "Ukraine",
           "reference": "Notam UKBV A0050/26",
           "issued": "23 Jun 2026",
           "valid_until": "22 Sep 2026",
           "plain_english": "Ukraine airspace remains closed to all civil flights (since Feb 2022) due to Russian invasion and ongoing conflict.",
           "raw_text": "MILITARY INVASION OF UKRAINE BY THE RUSSIAN FEDERATION, THE USE OF AIRSPACE OF UKRAINE WITHIN UIR KYIV, FIR LVIV, FIR KYIV, FIR DNIPRO, FIR ODESA, FIR SIMFEROPOL' IS PROHIBITED FOR ALL AIRCRAFT EXCEPT STATE AIRCRAFT OF UKRAINE OR WITH THE PERMISSION OF THE GENERAL STAFF OF THE ARMED FORCES OF UKRAINE. ATS IS NOT PROVIDED."
-        },
-        {
-          "source": "Italy",
-          "reference": "Notam LIRR E1457/26",
-          "issued": "08 Jun 2026",
-          "valid_until": "05 Sep 2026",
-          "plain_english": "Italian operators are prohibited from the airspace of Ukraine, including the contested UKFV/Simferopol FIR over Crimea (claimed by Russia as the URFV FIR).",
-          "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY SHALL NOT ENTER UIR KYIV UKBU, FIR LVIV UKLV, FIR KYIV UKBV, FIR DNIPROPETROVSK UKDV, FIR SIMFEROPOL UKFV, FIR ODESA UKOV, FIR ROSTOV NA DONU URRV. SAID OPERATORS AND AIRCRAFT OWNERS SHALL ALSO AVOID FLIGHT OPS WITHIN BUFFER ZONE EXTENDED OUT 200NM ALONG UKRAINE RUSSIA BORDER. FLIGHT OPS WITHIN CHISHINAU FIR LUUU SHALL ONLY BE UNDERTAKEN IN COMPLIANCE WITH AERONAUTICAL PUBLICATIONS ISSUED BY REPUBLIC OF MOLDOVA. OPERATORS ARE ALSO REMINDED THAT FLIGHT OPS WITHIN MINSK FIR UMMV ARE PROHIBITED AND THAT ADDITIONAL RISK ASSESSMENT AND FLIGHT PLANNING DECISIONS SHALL BE TAKEN BEFORE OPERATING IN FIR UUWV, FIR ULLL, FIR USSV, FIR UWWW IN ACCORDANCE WITH EASA SAFETY DIRECTIVES."
         },
         {
           "source": "France",
@@ -1744,9 +1744,9 @@
       "warnings": [
         {
           "source": "Italy",
-          "reference": "Notam LIRR E1450/26",
-          "issued": "08 Jun 2026",
-          "valid_until": "05 Sep 2026",
+          "reference": "Notam LIRR E2220/26",
+          "issued": "01 Sep 2026",
+          "valid_until": "29 Nov 2026",
           "plain_english": "Italian operators should avoid OYSC/Sanaa FIR and the southern Red Sea.",
           "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY ARE RECOMMENDED TO AVOID PLANNING FLIGHT OPERATIONS IN SANAA FIR (OYSC) AND SOUTHERN RED SEA AT ALL ALTITUDES ENSURING ROBUST RISK ASSESSMENT ACCORDING TO EASA SAFETY DIRECTIVES."
         },
