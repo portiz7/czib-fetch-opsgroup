@@ -1,6 +1,6 @@
 {
   "source": "safeairspace.net",
-  "fetched_at": "2026-09-11T10:40:03.151343+00:00",
+  "fetched_at": "2026-09-11T15:54:53.608708+00:00",
   "countries": {
     "afghanistan": {
       "country": "Afghanistan",
@@ -35,11 +35,11 @@
         },
         {
           "source": "Germany",
-          "reference": "AIC 08/25",
+          "reference": "AIC 03/26",
           "issued": "31 Oct 2024",
           "valid_until": "Ongoing",
           "plain_english": "German operators should not enter the OAKX/Kabul FIR below FL330.",
-          "raw_text": "Level 2 warning (medium). SECURITY - HAZARDOUS SITUATION IN AFGHANISTAN Civil German air operators are recommended not to enter FIR KABUL (OAKX) below FL320. Potential risk from terrorist attacks, anti-aviation weaponry and missing civil-military air traffic coordination."
+          "raw_text": "Level 2 warning (Medium). SECURITY - HAZARDOUS SITUATION IN AFGHANISTAN Civil German air operators are recommended not to enter FIR KABUL (OAKX) below FL320. Potential risk from terrorist attacks, anti-aviation weaponry and missing civil-military air traffic coordination."
         },
         {
           "source": "Canada",
@@ -152,11 +152,11 @@
         },
         {
           "source": "Germany",
-          "reference": "AIC 08/25",
+          "reference": "AIC 03/26",
           "issued": "03 Jan 2025",
           "valid_until": "Ongoing",
           "plain_english": "German operators should not enter the airspace of Belarus west of 60E.",
-          "raw_text": "Level 2 warning (medium). SECURITY - HAZARDOUS SITUATION IN RUSSIA AND BELARUS. Civil German air operators are recommended not to enter FIR MOSCOW (UUWV), FIR ROSTOV-NA DONU (URRV), SANKT-PETERSBURG (ULLL), YEKATARINBURG (USSV), SAMARA (UWWW) and FIR MINSK (UMMV) west of longitude 60° EAST. Potential risk from military activity."
+          "raw_text": "Level 2 warning (Medium). SECURITY - HAZARDOUS SITUATION IN RUSSIA AND BELARUS. Civil German air operators are recommended not to enter FIR MOSCOW (UUWV), FIR ROSTOV-NA DONU (URRV), SANKT-PETERSBURG (ULLL), YEKATARINBURG (USSV), SAMARA (UWWW) and FIR MINSK (UMMV) west of longitude 60° EAST. Potential risk from military activity."
         },
         {
           "source": "France",
@@ -346,11 +346,11 @@
         },
         {
           "source": "Germany",
-          "reference": "Notam EDWW B0192/26",
+          "reference": "AIC 03/26",
           "issued": "02 Apr 2026",
-          "valid_until": "14 May 2026",
+          "valid_until": "Ongoing",
           "plain_english": "Caution to German operators in the HAAA/Addis Ababa FIR due to risk posed by anti-aircraft weaponry.",
-          "raw_text": "SECURITY - HAZARDOUS SITUATION IN ETHIOPIA CIVIL GERMAN AIR OPERATORS ARE ADVISED TO TAKE POTENTIAL RISK INTO ACCOUNT IN THEIR RISK ASSESSMENT AND ROUTING DECISIONS WITHIN FIR ADDIS ABABA (HAAA). POTENTIAL RISK FROM MILITARY CONFLICTS WITH DRONES, FIGHTER JETS, ARTILLERY AND ANTI-AVIATION WEAPONRY. THIS NOTAM OVERRULES THE RECOMMENDATION PROVIDED IN THE CURRENTLY APPLICABLE AIC."
+          "raw_text": "Level 1 (Lowest risk). SECURITY - HAZARDOUS SITUATION IN ETHIOPIA. Civil German air operators are advised to take potential risk into account in their risk assessment and routing decisions within FIR ADDIS ABABA (HAAA). Potential risk from military conflicts with drones, fighter jets, artillery and anti-aviation weaponry."
         },
         {
           "source": "France",
@@ -359,14 +359,6 @@
           "valid_until": "Ongoing",
           "plain_english": "French operators should not fly in the northern section of the HAAA/Addis Ababa FIR below FL320 (previous advice advised against all flights in this area).",
           "raw_text": "From 14/12/2023 and until further notice, pilots in command of aircraft performing air services mentioned in paragraph 1.1 are requested: - to maintain at all times a flight level above or equal to FL320 in the airspace of Ethiopia (FIR ADDIS ABABA (HAAA)) corresponding to the TMA (terminal manoeuvring area) of MEKELE aerodrome as well as in the portion of airspace defined by the points: 135914.7N - 0362048.9E, 130042.8N - 0365122.9E, ETOBU (132132N - 0373433E), TILUD (134116N 0375950E), EVITO (142911N 0382424E), the boundary between the ADDIS ABABA (HAAA) and ASMARA (HHAA) flight information regions and the boundary between the ADDIS ABABA (HAAA) and KHARTOUM (HSSX) flight information regions ; - to exercise great caution when overflying within the rest of ADDIS ABABA FIR (HAAA) below FL320."
-        },
-        {
-          "source": "Germany",
-          "reference": "AIC 08/25",
-          "issued": "04 Jul 2023",
-          "valid_until": "Ongoing",
-          "plain_english": "Caution to German operators in the HAAA/Addis Ababa FIR due to risk posed by anti-aircraft weaponry.",
-          "raw_text": "Level 1 (Lowest risk). SECURITY - HAZARDOUS SITUATION IN ETHIOPIA. Civil German air operators are advised to take potential risk into account in their risk assessment and routing decisions within FIR ADDIS ABABA (HAAA). Potential risk from anti-aviation weaponry."
         },
         {
           "source": "OPSGROUP",
@@ -467,6 +459,14 @@
       "related_reading": [],
       "warnings": [
         {
+          "source": "Germany",
+          "reference": "Notam EDWW B0746/26",
+          "issued": "11 Sep 2026",
+          "valid_until": "12 Nov 2026",
+          "plain_english": "German operators should not enter the airspace of Iran. Overrides the caution in the previous AIC.",
+          "raw_text": "SECURITY - HAZARDOUS SITUATION IN IRAN CIVIL GERMAN AIR OPERATORS ARE RECOMMENDED NOT TO ENTER FIR TEHRAN (OIIX). POTENTIAL RISK TO AVIATION FROM ESCALATING CONFLICT AND ANTI-AVIATION WEAPONRY. THIS NOTAM OVERRULES THE RECOMMENDATION PROVIDED IN THE CURRENTLY APPLICABLE AIC."
+        },
+        {
           "source": "France",
           "reference": "Notam LFFF F1765/26",
           "issued": "26 Aug 2026",
@@ -492,15 +492,7 @@
         },
         {
           "source": "Germany",
-          "reference": "Notam EDWW B0437/26",
-          "issued": "03 Jun 2026",
-          "valid_until": "03 Sep 2026",
-          "plain_english": "German operators should not enter the airspace of Iran. Overrides the caution in the previous AIC.",
-          "raw_text": "SECURITY - HAZARDOUS SITUATION IN IRAN CIVIL GERMAN AIR OPERATORS ARE RECOMMENDED NOT TO ENTER FIR TEHRAN (OIIX). POTENTIAL RISK TO AVIATION FROM ESCALATING CONFLICT AND ANTI-AVIATION WEAPONRY. THIS NOTAM OVERRULES THE RECOMMENDATION PROVIDED IN THE CURRENTLY APPLICABLE AIC."
-        },
-        {
-          "source": "Germany",
-          "reference": "AIC 08/25",
+          "reference": "AIC 03/26",
           "issued": "15 Feb 2025",
           "valid_until": "Ongoing",
           "plain_english": "Caution to German operators in the airspace of Iran due to the potential risk from anti-aviation weaponry.",
@@ -623,11 +615,11 @@
         },
         {
           "source": "Germany",
-          "reference": "AIC 08/25",
+          "reference": "AIC 03/26",
           "issued": "02 Sep 2022",
           "valid_until": "Ongoing",
           "plain_english": "German operators should not overfly the ORBB/Baghdad FIR below FL280.",
-          "raw_text": "Level 2 warning (medium). SECURITY - HAZARDOUS SITUATION IN IRAQ Civil German air operators are recommended not to enter FIR BAGHDAD (ORBB) below FL280. Potential risk from military operations, anti-aviation weaponry and terrorist attacks. Civil German air operators are advised to take potential risk into account in their risk assessment and routing decisions within FIR BAGHDAD (ORBB) at and above FL280. Potential risk from anti- aviation weaponry."
+          "raw_text": "Level 2 warning (Medium). SECURITY - HAZARDOUS SITUATION IN IRAQ Civil German air operators are recommended not to enter FIR BAGHDAD (ORBB) below FL280. Potential risk from military operations, anti-aviation weaponry and terrorist attacks. Civil German air operators are advised to take potential risk into account in their risk assessment and routing decisions within FIR BAGHDAD (ORBB) at and above FL280. Potential risk from anti- aviation weaponry."
         },
         {
           "source": "Canada",
@@ -759,6 +751,14 @@
           "raw_text": "FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED NOT TO PENETRATE INTO THE ENTIRE AIRSPACE OF JORDAN (FIR AMMAN (OJAC))."
         },
         {
+          "source": "Germany",
+          "reference": "Notam EDWW B0678/26",
+          "issued": "17 Aug 2026",
+          "valid_until": "22 Oct 2026",
+          "plain_english": "German operators should not enter the airspace of Jordan.",
+          "raw_text": "SECURITY - HAZARDOUS SITUATION IN JORDAN CIVIL GERMAN AIR OPERATORS ARE RECOMMENDED NOT TO ENTER FIR AMMAN (OJAC). POTENTIAL RISK FROM ANTI-AVIATION WEAPONRY, MILITARY OPERATIONS AND ARMED. CONFLICTS."
+        },
+        {
           "source": "EASA",
           "reference": "CZIB 2026-08-R1",
           "issued": "22 Jul 2026",
@@ -815,6 +815,14 @@
       "related_reading": [],
       "warnings": [
         {
+          "source": "Germany",
+          "reference": "Notam EDWW B0747/26",
+          "issued": "11 Sep 2026",
+          "valid_until": "12 Nov 2026",
+          "plain_english": "German operators should not enter the airspace of Lebanon.",
+          "raw_text": "SECURITY - HAZARDOUS SITUATION IN LEBANON CIVIL GERMAN AIR OPERATORS ARE ADVISED TO TAKE POTENTIAL RISK INTO ACCOUNT IN THEIR RISK ASSESSMENT AND ROUTING DECISIONS WITHIN FIR BEIRUT. POTENTIAL RISK FROM ANTI-AVIATION WEAPONRY, MILITARY OPERATIONS AND ARMED CONFLICTS."
+        },
+        {
           "source": "France",
           "reference": "Notam LFFF F1805/26",
           "issued": "01 Sep 2026",
@@ -853,14 +861,6 @@
           "valid_until": "05 Sep 2026",
           "plain_english": "Italian operators should not enter the OLBB/Beirut FIR.",
           "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY ARE RECOMMENDED TO OPERATE WITHIN AIRSPACE OF LEBANON FIR BEIRUT (OLBB) ACCORDING TO EASA SAFETY DIRECTIVES ENSURING A ROBUST RISK ASSESSMENT."
-        },
-        {
-          "source": "Germany",
-          "reference": "Notam EDWW B0436/26",
-          "issued": "03 Jun 2026",
-          "valid_until": "03 Sep 2026",
-          "plain_english": "German operators should not enter the airspace of Lebanon.",
-          "raw_text": "SECURITY - HAZARDOUS SITUATION IN LEBANON CIVIL GERMAN AIR OPERATORS ARE RECOMMENDED NOT TO ENTER FIR BEIRUT. POTENTIAL RISK FROM ANTI-AVIATION WEAPONRY, MILITARY OPERATIONS AND ARMED CONFLICTS."
         },
         {
           "source": "Canada",
@@ -923,11 +923,11 @@
         },
         {
           "source": "Germany",
-          "reference": "AIC 08/25",
+          "reference": "AIC 03/26",
           "issued": "19 Apr 2021",
           "valid_until": "Ongoing",
           "plain_english": "German operators should avoid Libyan airspace.",
-          "raw_text": "Level 2 warning (medium). SECURITY - HAZARDOUS SITUATION IN LIBYA Civil German air operators are recommended not to enter FIR TRIPOLI (HLLL) within the territory and airspace of Libya. Potential risk from anti-aviation weaponry and military operations."
+          "raw_text": "Level 2 warning (Medium). SECURITY - HAZARDOUS SITUATION IN LIBYA Civil German air operators are recommended not to enter FIR TRIPOLI (HLLL) within the territory and airspace of Libya. Potential risk from anti-aviation weaponry and military operations."
         },
         {
           "source": "Canada",
@@ -1032,11 +1032,11 @@
         },
         {
           "source": "Germany",
-          "reference": "AIC 08/25",
+          "reference": "AIC 03/26",
           "issued": "19 Nov 2024",
           "valid_until": "Ongoing",
           "plain_english": "German operators should not enter the airspace of Mali below FL260.",
-          "raw_text": "Level 2 warning (medium). SECURITY - HAZARDOUS SITUATION IN MALI Civil German air operators are recommended not to enter the parts of FIR NIAMEY (DRRR) and FIR DAKAR (GOOO) within the territory and airspace of Mali below FL260. Potential risk from anti-aviation weaponry and terrorist attacks at all airports."
+          "raw_text": "Level 2 warning (Medium). SECURITY - HAZARDOUS SITUATION IN MALI Civil German air operators are recommended not to enter the parts of FIR NIAMEY (DRRR) and FIR DAKAR (GOOO) within the territory and airspace of Mali below FL260. Potential risk from anti-aviation weaponry and terrorist attacks at all airports."
         },
         {
           "source": "UK",
@@ -1158,11 +1158,11 @@
         },
         {
           "source": "Germany",
-          "reference": "AIC 08/25",
+          "reference": "AIC 03/26",
           "issued": "23 Nov 2022",
           "valid_until": "Ongoing",
           "plain_english": "Caution to German operators for flights below FL160 due to a potential risk from military ops, surface-to-air fire and anti-aviation weaponry.",
-          "raw_text": "Level 1 (lowest risk). SECURITY - HAZARDOUS SITUATION IN MYANMAR Civil German air operators are advised to take potential risk into account in their risk assessment and routing decisions within FIR Yangon (VYYF) below FL160. Potential risk from military operations, surface-to-air fire and anti-aviation weaponry."
+          "raw_text": "Level 1 (Lowest risk). SECURITY - HAZARDOUS SITUATION IN MYANMAR Civil German air operators are advised to take potential risk into account in their risk assessment and routing decisions within FIR Yangon (VYYF) below FL160. Potential risk from military operations, surface-to-air fire and anti-aviation weaponry."
         }
       ],
       "slug": "myanmar",
@@ -1222,7 +1222,7 @@
         },
         {
           "source": "Germany",
-          "reference": "AIC 08/25",
+          "reference": "AIC 03/26",
           "issued": "29 Oct 2020",
           "valid_until": "Ongoing",
           "plain_english": "Caution to German operators below FL260 in the airspace of Pakistan due to potential risks from anti-aviation weaponry.",
@@ -1319,11 +1319,11 @@
         },
         {
           "source": "Germany",
-          "reference": "AIC 08/25",
+          "reference": "AIC 03/26",
           "issued": "03 Jan 2025",
           "valid_until": "Ongoing",
           "plain_english": "German operators should not enter the UUWV, URRV, ULLL, USSV and UWWW FIRs due to potential risk from military activity.",
-          "raw_text": "Level 2 warning (medium). SECURITY - HAZARDOUS SITUATION IN RUSSIA AND BELARUS Civil German air operators are recommended not to enter FIR MOSCOW (UUWV), FIR ROSTOV-NA DONU (URRV), SANKT-PETERSBURG (ULLL), YEKATARINBURG (USSV), SAMARA (UWWW) and FIR MINSK (UMMV) west of longitude 60° EAST. Potential risk from military activity."
+          "raw_text": "Level 2 warning (Medium). SECURITY - HAZARDOUS SITUATION IN RUSSIA AND BELARUS Civil German air operators are recommended not to enter FIR MOSCOW (UUWV), FIR ROSTOV-NA DONU (URRV), SANKT-PETERSBURG (ULLL), YEKATARINBURG (USSV), SAMARA (UWWW) and FIR MINSK (UMMV) west of longitude 60° EAST. Potential risk from military activity."
         },
         {
           "source": "France",
@@ -1428,11 +1428,11 @@
         },
         {
           "source": "Germany",
-          "reference": "AIC 08/25",
+          "reference": "AIC 03/26",
           "issued": "04 Feb 2016",
           "valid_until": "Ongoing",
           "plain_english": "German operators should not overfly the HCSM/Mogadishu FIR below FL260, except for east of 54E (oceanic airspace).",
-          "raw_text": "Level 2 warning (medium). SECURITY - HAZARDOUS SITUATION IN SOMALIA Civil German air operators are recommended not to enter FIR MOGADISHU (HCSM) below FL260. Potential risk from anti-aviation weaponry, military operations and armed conflicts. Excluded from this recommendation is the area east of longitude E054°00'00\"."
+          "raw_text": "Level 2 warning (Medium). SECURITY - HAZARDOUS SITUATION IN SOMALIA Civil German air operators are recommended not to enter FIR MOGADISHU (HCSM) below FL260. Potential risk from anti-aviation weaponry, military operations and armed conflicts. Excluded from this recommendation is the area east of longitude E054°00'00\"."
         },
         {
           "source": "UK",
@@ -1487,7 +1487,7 @@
         },
         {
           "source": "Germany",
-          "reference": "AIC 08/25",
+          "reference": "AIC 03/26",
           "issued": "21 Apr 2023",
           "valid_until": "Ongoing",
           "plain_english": "German operators are prohibited from entering the HSSS/Khartoum FIR.",
@@ -1519,14 +1519,6 @@
           "valid_until": "05 Sep 2026",
           "plain_english": "Italian operators should avoid the OSTT/Damascus FIR.",
           "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY WHEN PLANNING FLIGHT OPERATIONS ARE RECOMMENDED TO AVOID DAMASCUS FIR (OSTT) AT ALL ALTITUDES ACCORDING TO EASA SAFETY DIRECTIVES."
-        },
-        {
-          "source": "Germany",
-          "reference": "Notam EDWW B0294/26",
-          "issued": "30 Apr 2026",
-          "valid_until": "14 May 2026",
-          "plain_english": "German operators now prohibited from entering Syria below FL260 across the entire airspace. This replaces the older AIC that allowed limited overflights via a narrow corridor in northeast Syria at FL320 and above between Turkey and Iraq.",
-          "raw_text": "SECURITY - HAZARDOUS SITUATION IN SYRIA CIVIL GERMAN AIR OPERATORS ARE PROHIBITED TO ENTER FIR DAMASCUS (OSTT) BELOW FL260. POTENTIAL RISK FROM ANTI-AVIATION WEAPONRY, MILITARY OPERATIONS AND ARMED CONFLICTS. FURTHER INFORMATION: WEBSITE OF THE FEDERAL MINISTRY FOR DIGITAL AND TRANSPORT OF GERMANY (WWW.BMV.DE/KRISENMANAGEMENT). CIVIL GERMAN AIR OPERATORS ARE ADVISED TO TAKE POTENTIAL RISK INTO ACCOUNT IN THEIR RISK ASSESSMENT AND ROUTING DECISIONS WITHIN FIR DAMASCUS (OSTT) AT AND ABOVE FL260. POTENTIAL RISK TO AVIATION FROM MILITARY OPERATIONS. THIS NOTAM OVERRULES THE RECOMMENDATION PROVIDED IN THE CURRENTLY APPLICABLE AIC."
         },
         {
           "source": "Canada",
@@ -1698,7 +1690,7 @@
         },
         {
           "source": "Germany",
-          "reference": "AIC 08/25",
+          "reference": "AIC 03/26",
           "issued": "24 Feb 2022",
           "valid_until": "Ongoing",
           "plain_english": "German operators are prohibited from the airspace of Ukraine, including the contested UKFV/Simferopol FIR over Crimea (claimed by Russia as the URFV FIR).",
@@ -1768,7 +1760,7 @@
         },
         {
           "source": "Germany",
-          "reference": "AIC 08/25",
+          "reference": "AIC 03/26",
           "issued": "13 Feb 2024",
           "valid_until": "Ongoing",
           "plain_english": "German operators are banned from the airspace over the Yemen landmass within the OYSC/Sanaa FIR up to (but not including) airway B400 over the ocean. For the rest of Yemen’s oceanic airspace, operators should exercise caution. (Check map here. )",
