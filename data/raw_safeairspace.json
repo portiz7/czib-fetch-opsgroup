@@ -1,6 +1,6 @@
 {
   "source": "safeairspace.net",
-  "fetched_at": "2026-09-24T03:19:03.373618+00:00",
+  "fetched_at": "2026-09-24T11:10:07.660363+00:00",
   "countries": {
     "afghanistan": {
       "country": "Afghanistan",
@@ -325,9 +325,17 @@
       "country": "Ethiopia",
       "risk_level_number": 2,
       "risk_level_label": "Danger exists",
-      "narrative": "Improving airspace risk picture in Ethiopia’s northern Tigray region (the Ethiopia/Eritrea border) since a peace deal was agreed to end the conflict in early Nov 2022. Airspace warnings remain in place though - several states say to avoid the area. The primary risk to aviation is from any large-scale ceasefire violations involving missiles or anti-aircraft weaponry, which may present a risk to overflights in the region - civil aircraft being mistaken for something of military interest, or simply caught in the crossfire. Ethiopia Airspace Update, July 2022 (OPSGROUP article) Major Events: Feb 2024: New flare-up in fighting in the Amhara region (south of Tigray region), including air strikes. Nov 2022: Peace deal agreed in the Tigray region. Ethiopian Airlines is planning to resume flights to HAMK/Mekele airport. Nov 2021: Several western countries issued airspace warnings, as well as “do not travel” travel warnings for the Tigray region following increased fighting there. July 2021: HAAA/Addis FIR published a Notam closing a section of airspace below FL290 over the Tigray. This followed reports that militia shot down a military transport plane in the region the previous week, near the capital Mekele. Nov 2020: Major escalation of the conflict in the Tigray region. Some airways were closed by the Ethiopian and Sudanese CAAs. Other airways that were still open were very close to the conflict zone. These are frequently used by international operators on the Europe-East Africa route. In particular: UN321, UG300 and UL432. Multiple airports were targeted by rockets. Missiles were fired across the border into Eritrea, targeting HHAS/Asmara. Within Ethiopia, HABD/Bahir Dar and HAGN/Gondar were also targeted. Sep 2018: Risk due to hidden ATC strike. Ethiopian ATC controllers went on strike, and the ECAA and Ethiopian Airlines recruited both retired and foreign controllers to pick up the slack. Ethiopia denied several times that there was in fact a strike happening at all. The strike ended Sep 7. Many were not qualified to operate in Ethiopian airspace, due to inexperience.",
+      "narrative": "Update 24 Sep 2026: Tigrayan forces have taken control of HAMK/Mekelle airport in the north of Ethiopia, as fighting between them and Ethiopian government forces increases. Ethiopian Airlines has reportedly suspended flights to all three airports in the Tigray region (HAMK/Mekelle, HATF/Axum and HASI/Shire) from Sep 23 until further notice. The primary risk to aviation is from the fighting itself. Drone strikes, missiles and other military weapons are being used in the region, creating a risk to aircraft operating close to the conflict. Major Events: Sep 2026: Fighting escalated in Tigray. Tigrayan forces took HAMK/Mekelle, and Ethiopian Airlines suspended flights to all three Tigray airports. Feb 2024: Fighting flared up again in Amhara, including air strikes. Nov 2022: Peace deal agreed in Tigray. Ethiopian Airlines planned to resume flights to HAMK/Mekelle. July 2021: HAAA/Addis FIR closed airspace below FL290 over Tigray after a military aircraft was reportedly shot down near Mekele. Nov 2020: Major escalation in Tigray. Several airways were closed, airports were hit by rockets, and missiles were fired into Eritrea. HABD/Bahir Dar and HAGN/Gondar were also targeted. Sep 2018: Ethiopian ATC controllers went on strike, with retired and foreign controllers brought in to cover operations.",
       "related_reading": [],
       "warnings": [
+        {
+          "source": "UK",
+          "reference": "Notam EGTT V0030/26",
+          "issued": "23 Sep 2026",
+          "valid_until": "21 Dec 2026",
+          "plain_english": "Caution to Uk operators overflying the Tigray region.",
+          "raw_text": "V0030/26 NOTAMN Q) EGXX/QROXX/IV/NBO/W /000/999/5218N01451W999 A) EGPX EGTT EGGX B) 2609231550 C) 2612211200 E) SECURITY - HAZARDOUS SITUATION IN ETHIOPIA. UK REGISTERED AIR OPERATORS ARE ADVISED TO TAKE POTENTIAL RISK INTO ACCOUNT OVERFLYING THE TIGRAY REGION WITHIN THE AREA BOUNDED BY STRAIGHT LINES JOINING: 141710N 0363322E - 142446N 0370739E - 142632N 0371832E - 141657N 0373431E - 145321N 0375439E - 144043N 0381533E - 142507N 0382808E - 144003N 0390443E - 142647N 0395852E - 121928N 0394651E - 121745N 0391715E - 131547N 0384344E - 133817N 0374637E - 132131N 0365946E - 134652N 0362746E - 141710N 0363322E WITHIN FIR ADDIS ABABA (HAAA) DUE TO HEIGHTENED MILITARY ACTIVITY. AR-2026-8985/01. F) SFC G) UNL"
+        },
         {
           "source": "Italy",
           "reference": "Notam LIRR E2228/26",
