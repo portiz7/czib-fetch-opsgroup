@@ -1,6 +1,6 @@
 {
   "source": "safeairspace.net",
-  "fetched_at": "2026-09-24T11:10:07.660363+00:00",
+  "fetched_at": "2026-09-24T16:33:41.531396+00:00",
   "countries": {
     "afghanistan": {
       "country": "Afghanistan",
@@ -1641,20 +1641,20 @@
       "related_reading": [],
       "warnings": [
         {
+          "source": "Ukraine",
+          "reference": "Notam UKBV A0081/26",
+          "issued": "22 Sep 2026",
+          "valid_until": "21 Dec 2026",
+          "plain_english": "Ukraine airspace remains closed to all civil flights (since Feb 2022) due to Russian invasion and ongoing conflict.",
+          "raw_text": "MILITARY INVASION OF UKRAINE BY THE RUSSIAN FEDERATION, THE USE OF AIRSPACE OF UKRAINE WITHIN UIR KYIV, FIR LVIV, FIR KYIV, FIR DNIPRO, FIR ODESA, FIR SIMFEROPOL' IS PROHIBITED FOR ALL AIRCRAFT EXCEPT STATE AIRCRAFT OF UKRAINE OR WITH THE PERMISSION OF THE GENERAL STAFF OF THE ARMED FORCES OF UKRAINE. ATS IS NOT PROVIDED."
+        },
+        {
           "source": "Italy",
           "reference": "Notam LIRR E2213/26",
           "issued": "01 Sep 2026",
           "valid_until": "29 Nov 2026",
           "plain_english": "Italian operators are prohibited from the airspace of Ukraine, including the contested UKFV/Simferopol FIR over Crimea (claimed by Russia as the URFV FIR).",
           "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY SHALL NOT ENTER UIR KYIV UKBU, FIR LVIV UKLV, FIR KYIV UKBV, FIR DNIPROPETROVSK UKDV, FIR SIMFEROPOL UKFV, FIR ODESA UKOV, FIR ROSTOV NA DONU URRV. SAID OPERATORS AND AIRCRAFT OWNERS SHALL ALSO AVOID FLIGHT OPS WITHIN BUFFER ZONE EXTENDED OUT 200NM ALONG UKRAINE RUSSIA BORDER. FLIGHT OPS WITHIN CHISHINAU FIR LUUU SHALL ONLY BE UNDERTAKEN IN COMPLIANCE WITH AERONAUTICAL PUBLICATIONS ISSUED BY REPUBLIC OF MOLDOVA. OPERATORS ARE ALSO REMINDED THAT FLIGHT OPS WITHIN MINSK FIR UMMV ARE PROHIBITED AND THAT ADDITIONAL RISK ASSESSMENT AND FLIGHT PLANNING DECISIONS SHALL BE TAKEN BEFORE OPERATING IN FIR UUWV, FIR ULLL, FIR USSV, FIR UWWW IN ACCORDANCE WITH EASA SAFETY DIRECTIVES."
-        },
-        {
-          "source": "Ukraine",
-          "reference": "Notam UKBV A0050/26",
-          "issued": "23 Jun 2026",
-          "valid_until": "22 Sep 2026",
-          "plain_english": "Ukraine airspace remains closed to all civil flights (since Feb 2022) due to Russian invasion and ongoing conflict.",
-          "raw_text": "MILITARY INVASION OF UKRAINE BY THE RUSSIAN FEDERATION, THE USE OF AIRSPACE OF UKRAINE WITHIN UIR KYIV, FIR LVIV, FIR KYIV, FIR DNIPRO, FIR ODESA, FIR SIMFEROPOL' IS PROHIBITED FOR ALL AIRCRAFT EXCEPT STATE AIRCRAFT OF UKRAINE OR WITH THE PERMISSION OF THE GENERAL STAFF OF THE ARMED FORCES OF UKRAINE. ATS IS NOT PROVIDED."
         },
         {
           "source": "France",
