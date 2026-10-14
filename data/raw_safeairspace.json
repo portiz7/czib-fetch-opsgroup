@@ -1,6 +1,6 @@
 {
   "source": "safeairspace.net",
-  "fetched_at": "2026-10-14T11:15:54.079384+00:00",
+  "fetched_at": "2026-10-14T16:36:38.691178+00:00",
   "countries": {
     "afghanistan": {
       "country": "Afghanistan",
@@ -117,9 +117,9 @@
       "warnings": [
         {
           "source": "France",
-          "reference": "Notam LFFF F2001/26",
-          "issued": "30 Sep 2026",
-          "valid_until": "14 Oct 2026",
+          "reference": "Notam LFFF F2116/26",
+          "issued": "14 Oct 2026",
+          "valid_until": "28 Oct 2026",
           "plain_english": "French operators should exercise great caution in the airspace of Bahrain.",
           "raw_text": "FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED TO EXERCISE GREAT CAUTION WHEN OPERATING INTO THE AIRSPACE OF BAHRAIN (FIR BAHRAIN (OBBB)). THE AIR OPERATOR MUST CARRY OUT A ROBUST RISK ASSESSMENT TO ENSURE THAT THE FLIGHT CAN BE CONDUCTED UNDER SATISFACTORY SAFETY AND SECURITY CONDITIONS BEFORE ENTERING THIS AIRSPACE OF BAHRAIN (FIR BAHRAIN (OBBB))."
         },
@@ -214,7 +214,7 @@
       "country": "Cambodia",
       "risk_level_number": 3,
       "risk_level_label": "Caution",
-      "narrative": "Fighting between Thailand and Cambodia resumed in Dec 2025 after a recent ceasefire collapsed, with artillery and air operations reported in several parts of the border region. Thailand has issued Notams for the entire land border advising that ATC may apply radar vectors or level changes around military activity. Cambodia has also issued a Notam telling eastbound flights to avoid airway G474 and refile further south via B204, which routes overhead VDSA/Siem Reap. Airspace remains open, but expect tactical ATC handling near the border. No other airspace warnings are active for this region at this time, but keep checking the latest VTBB/Bangkok FIR and VDPF/Phnom Penh FIR Notams for any updates before filing.",
+      "narrative": "Oct 2026: The ceasefire with Thailand is holding, but tensions remain along the border. The VDPF/Phnom Penh FIR is open, though Cambodia has set up a danger area near the border and rerouted some eastbound flights from L880/G474 via B204. In the VTBB/Bangkok FIR, Thai Notams report unmanned-aircraft activity near the border, so ATC may give aircraft radar vectors. See OPSGROUP Briefing : Emerging Airspace Risk: Cambodia & Thailand - 2025 The primary risk is that fighting could flare up again and disrupt nearby routes. Check the latest Notams for the VDPF/Phnom Penh FIR and VTBB/Bangkok FIR before departure. Major events: Sep 2026: Cambodia protested what it said was a Thai military helicopter incursion. Thailand denied that the helicopter crossed the border. Dec 2025: Fighting resumed after the July ceasefire broke down. A new ceasefire took effect on 27 December after weeks of clashes. Jul 2025: 5 days of border clashes, including airstrikes and artillery fire, ended in a ceasefire.",
       "related_reading": [],
       "warnings": [],
       "slug": "cambodia",
@@ -234,7 +234,7 @@
       "country": "Curacao",
       "risk_level_number": 3,
       "risk_level_label": "Caution",
-      "narrative": "On 3 Jan 2026, the FAA briefly restricted US civil operations in the TNCF/Curacao FIR following US military action in Venezuela, citing safety of flight concerns linked to elevated military activity in the region. That restriction was lifted within 24 hours, and subsequent FAA Notams advising caution were also short lived and have now been fully rescinded. There are currently no FAA flight bans or cautionary advisories in effect for the Curacao FIR. Earlier airspace warnings and late 2025 events had highlighted increased state and military aircraft activity, including reported losses of separation near TNCC/Curacao requiring ATC intervention. Major Events: 3 Jan 2026: US airstrikes in Venezuela. FAA issues prohibition Notams affecting the TNCF/Curacao FIR. Dec 2025: Two losses of separation were reported in the TNCF/Curacao FIR involving civilian aircraft and military tankers, including a JetBlue A320 and a civilian bizjet. Nov 2025: TNCF FIR issues a Notam advising extreme caution when operating to or from TNCA, TNCC and TNCB due to unidentified aircraft activity.",
+      "narrative": "Oct 2026: The temporary FAA restrictions following US strikes in Venezuela have ended. The FAA removed the related Caribbean Notams, and no FAA flight bans or caution advisories are currently in force for the TNCF/Curacao FIR. The primary risk is military aircraft mixing with civil traffic in a busy corridor, especially when they are difficult for ATC to track. Two close encounters were reported near Curacao in December 2025. The FAA has since removed its warnings for the TNCF/Curacao FIR. Major events: Jan 2026: After US strikes in Venezuela, the FAA briefly restricted flights in the TNCF/Curacao FIR and nearby Caribbean airspace. It lifted the restrictions within a day and removed the remaining Notams later that month. Dec 2025: A JetBlue flight from TNCC/Curacao narrowly avoided a US Air Force tanker. A private jet also reported unidentified traffic nearby. Nov 2025: Curacao’s aviation authority warned flights to and from TNCA/Aruba, TNCC/Curacao, and TNCB/Bonaire after unidentified aircraft were detected in the area.",
       "related_reading": [],
       "warnings": [],
       "slug": "curacao",
@@ -468,9 +468,9 @@
       "warnings": [
         {
           "source": "France",
-          "reference": "Notam LFFF F1994/26",
-          "issued": "30 Sep 2026",
-          "valid_until": "14 Oct 2026",
+          "reference": "Notam LFFF F2110/26",
+          "issued": "14 Sep 2026",
+          "valid_until": "28 Oct 2026",
           "plain_english": "French operators should not enter the airspace of Iran.",
           "raw_text": "FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED NOT TO PENETRATE INTO THE ENTIRE AIRSPACE OF IRAN (FIR TEHRAN (OIIX)). THIS NOTAM SUPERSEDES THE RESTRICTIONS CONCERNING IRAN AIRSPACE (FIR TEHRAN (OIIX)) ISSUED IN PARAGRAPH 3.14 IRAN OF THE AIC NR A011/26 CURRENTLY IN EFFECT."
         },
@@ -558,20 +558,20 @@
       "related_reading": [],
       "warnings": [
         {
+          "source": "France",
+          "reference": "Notam LFFF F2111/26",
+          "issued": "14 Oct 2026",
+          "valid_until": "28 Oct 2026",
+          "plain_english": "French operators should not enter the airspace of Iraq.",
+          "raw_text": "FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED NOT TO PENETRATE INTO THE ENTIRE AIRSPACE OF IRAQ (FIR BAGHDAD (ORBB)). THIS NOTAM SUPERSEDES THE RESTRICTIONS CONCERNING IRAQ AIRSPACE (FIR BAGHDAD (ORBB)) ISSUED IN PARAGRAPH 3.2 IRAQ OF THE AIC NR A011/26 CURRENTLY IN EFFECT."
+        },
+        {
           "source": "Iraq",
           "reference": "Notam ORBB A0403/26",
           "issued": "05 Oct 2026",
           "valid_until": "04 Jan 2027",
           "plain_english": "Iraq is warning operators to expect GPS jamming and spoofing in the northern part of the country.",
           "raw_text": "GPS JAMMING OR SPOOFING INTERFERENCE WITHIN THE NORTHERN PART OF IRAQ. OPERATORS SHOULD INFORM ATC IMMEDIATELY AND EXPECT RADAR VECTORING."
-        },
-        {
-          "source": "France",
-          "reference": "Notam LFFF F1995/26",
-          "issued": "30 Sep 2026",
-          "valid_until": "14 Oct 2026",
-          "plain_english": "French operators should not enter the airspace of Iraq.",
-          "raw_text": "FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED NOT TO PENETRATE INTO THE ENTIRE AIRSPACE OF IRAQ (FIR BAGHDAD (ORBB)). THIS NOTAM SUPERSEDES THE RESTRICTIONS CONCERNING IRAQ AIRSPACE (FIR BAGHDAD (ORBB)) ISSUED IN PARAGRAPH 3.2 IRAQ OF THE AIC NR A011/26 CURRENTLY IN EFFECT."
         },
         {
           "source": "Italy",
@@ -752,11 +752,11 @@
       "warnings": [
         {
           "source": "France",
-          "reference": "Notam LFFF F2002/26",
-          "issued": "30 Sep 2026",
-          "valid_until": "14 Oct 2026",
-          "plain_english": "French operators should not enter the airspace of Jordan.",
-          "raw_text": "FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED NOT TO PENETRATE INTO THE ENTIRE AIRSPACE OF JORDAN (FIR AMMAN (OJAC))."
+          "reference": "Notam LFFF F2117/26",
+          "issued": "14 Oct 2026",
+          "valid_until": "28 Oct 2026",
+          "plain_english": "French operators should exercise great caution in the airspace of Jordan.",
+          "raw_text": "FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED TO EXERCISE GREAT CAUTION WHEN OPERATING INTO THE AIRSPACE OF JORDAN (FIR AMMAN (OJAC)). THE AIR OPERATOR MUST CARRY OUT A ROBUST RISK ASSESSMENT TO ENSURE THAT THE FLIGHT CAN BE CONDUCTED UNDER SATISFACTORY SAFETY AND SECURITY CONDITIONS BEFORE ENTERING THIS AIRSPACE OF JORDAN (FIR AMMAN (OJAC))."
         },
         {
           "source": "Germany",
@@ -797,9 +797,9 @@
       "warnings": [
         {
           "source": "France",
-          "reference": "Notam LFFF F2000/26",
-          "issued": "30 Sep 2026",
-          "valid_until": "14 Oct 2026",
+          "reference": "Notam LFFF F2115/26",
+          "issued": "14 Oct 2026",
+          "valid_until": "28 Oct 2026",
           "plain_english": "French operators should exercise great caution in the airspace of Kuwait.",
           "raw_text": "FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED TO EXERCISE GREAT CAUTION WHEN OPERATING INTO THE AIRSPACE OF KUWAIT (FIR KUWAIT (OKAC)). THE AIR OPERATOR MUST CARRY OUT A ROBUST RISK ASSESSMENT TO ENSURE THAT THE FLIGHT CAN BE CONDUCTED UNDER SATISFACTORY SAFETY AND SECURITY CONDITIONS BEFORE ENTERING THIS AIRSPACE OF KUWAIT (FIR KUWAIT (OKAC))."
         },
@@ -1185,9 +1185,9 @@
       "warnings": [
         {
           "source": "France",
-          "reference": "Notam LFFF F1997/26",
-          "issued": "30 Sep 2026",
-          "valid_until": "14 Oct 2026",
+          "reference": "Notam LFFF F2112/26",
+          "issued": "14 Oct 2026",
+          "valid_until": "28 Oct 2026",
           "plain_english": "French operators are advised to exercise caution in the OOMM/Muscat FIR.",
           "raw_text": "FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED TO EXERCISE GREAT CAUTION WHEN OPERATING INTO THE AIRSPACE OF OMAN (FIR MUSCAT (OOMM)). THE AIR OPERATOR MUST CARRY OUT A ROBUST RISK ASSESSMENT TO ENSURE THAT THE FLIGHT CAN BE CONDUCTED UNDER SATISFACTORY SAFETY AND SECURITY CONDITIONS BEFORE ENTERING THIS AIRSPACE OF OMAN."
         },
@@ -1274,9 +1274,9 @@
       "warnings": [
         {
           "source": "France",
-          "reference": "Notam LFFF F1999/26",
-          "issued": "30 Sep 2026",
-          "valid_until": "14 Oct 2026",
+          "reference": "Notam LFFF F2114/26",
+          "issued": "14 Oct 2026",
+          "valid_until": "28 Oct 2026",
           "plain_english": "French operators should exercise great caution in the airspace of Qatar.",
           "raw_text": "FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED TO EXERCISE GREAT CAUTION WHEN OPERATING INTO THE AIRSPACE OF QATAR (FIR DOHA (ODTF)). THE AIR OPERATOR MUST CARRY OUT A ROBUST RISK ASSESSMENT TO ENSURE THAT THE FLIGHT CAN BE CONDUCTED UNDER SATISFACTORY SAFETY AND SECURITY CONDITIONS BEFORE ENTERING THIS AIRSPACE OF QATAR (FIR DOHA (OTDF))."
         },
@@ -1363,7 +1363,7 @@
       "country": "Rwanda",
       "risk_level_number": 3,
       "risk_level_label": "Caution",
-      "narrative": "There is ongoing conflict in eastern DRC, centred on North Kivu province around Goma along the border with Rwanda. Fighting between AFC/M23 rebels and Congolese forces continues to shift and remains unpredictable. The area should be considered an active conflict zone, with a credible risk from anti-aircraft weaponry, particularly at low level and on the ground near affected airports such as FZNA/Goma. The UK and Canada currently have airspace warnings in place covering the eastern portion of the Kinshasa FIR. Major events: Jan 2026: Fighting remains active in eastern DRC despite diplomatic efforts, with rebel forces operating around key towns near the Rwanda and Burundi borders. The security situation continues to shift quickly. Jan 2025: Rebel forces entered Goma. Heavy fighting was reported in the city and FZNA/Goma was declared closed during the clashes. Feb 2024: A parked civilian aircraft at FZNA/Goma was damaged by at least one bomb dropped from a drone. Looks like military aircraft were being targeted. Jan 2023: The Rwandan military shot at a fighter jet from the Congo DRC which they claimed had busted Rwandan airspace near FZNA/Goma. Reports suggest the aircraft was hit by a MANPAD at low level - the jet landed safely but sustained heavy damage. Africa Airspace Risk, Jet Shot in Rwanda, Jan 2023 (OPSGROUP article)",
+      "narrative": "Oct 2026: Fighting between Congolese forces and AFC/M23 rebels continues in eastern DRC near Rwanda’s western border, and front lines remain fluid. The conflict raises the risk of military activity near the border. See OPSGROUP Briefing : Africa Airspace Risk: Jet Shot in Rwanda - 2023 The primary risk is spillover from the conflict in eastern DRC. UK and Canadian warnings cite anti-aircraft weapons, but apply to specified areas within the FZZA/Kinshasa FIR in DRC, not the HRYR/Kigali FIR in Rwanda. Major events: Jan 2026: Fighting continued in eastern DRC despite diplomatic efforts, with rebels active near the Rwandan and Burundian borders. Feb 2025: DRC closed its airspace to Rwandan-registered and Rwanda-based aircraft. RwandAir rerouted affected flights. Jan 2025: M23 rebel forces took control of Goma and its airport, FZNA/Goma, during heavy fighting. Jan 2023: Rwandan forces fired on a DRC fighter near Goma, saying it had entered Rwandan airspace. The damaged aircraft landed at FZNA/Goma.",
       "related_reading": [],
       "warnings": [],
       "slug": "rwanda",
@@ -1716,9 +1716,9 @@
     },
     "venezuela": {
       "country": "Venezuela",
-      "risk_level_number": 2,
-      "risk_level_label": "Danger exists",
-      "narrative": "On 3 Jan 2026, the FAA briefly restricted US civil operations in the SVZM/Maiquetia FIR and parts of adjacent Caribbean FIRs following US military action in Venezuela, citing safety of flight concerns. That restriction was lifted within around 24 hours, and subsequent FAA Notams advising caution have now been fully rescinded. There are currently no FAA flight bans or cautionary advisories in effect for Venezuelan airspace. Following the Jan 3 strikes, several other states and EASA issued airspace warnings advising caution or avoidance of Venezuelan airspace and parts of the surrounding Caribbean. Those warnings reference risks including increased military activity, GPS interference, unpredictable traffic, and reduced ATC and traffic visibility. Major Events: Jan 2026: US conducts airstrikes in Venezuela. Intense military activity reported in Caracas. FAA issues multiple prohibition Notams affecting SVZM and adjacent Caribbean FIRs. Late 2025: Expanded US naval and air operations in the southern Caribbean raise regional risk levels and prompt objections from Venezuela. Nov 2025: FAA issues airspace warning for SVZM, citing GPS interference and increased military activity. Multiple international airlines suspend services or reroute.",
+      "risk_level_number": 3,
+      "risk_level_label": "Caution",
+      "narrative": "Oct 2026: The immediate disruption after the US strikes in January has passed. The FAA lifted its temporary restrictions and removed the related Notams. EASA’s warning expired in March, and no FAA flight bans or caution Notams are currently in force. See OPSGROUP Briefing : Venezuela & Caribbean Airspace Update - Jan 2026 The primary risk is lingering GPS interference and military activity. The FAA warns that GPS problems can continue after aircraft leave the SVZM/Maiquetia FIR, and that Venezuelan air-defence systems could reach civil flight levels, raising the risk of misidentification. Major events: Jan 2026: US strikes in Venezuela led the FAA to briefly restrict flights in the SVZM/Maiquetia FIR and nearby Caribbean FIRs. The restrictions were lifted within hours, and the disruption soon eased. Nov 2025: The FAA warned of GPS interference and increased military activity. Several airlines suspended or rerouted flights, and Venezuela revoked six airlines’ operating permits.",
       "related_reading": [],
       "warnings": [
         {
