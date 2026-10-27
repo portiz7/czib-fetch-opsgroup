@@ -1,6 +1,6 @@
 {
   "source": "safeairspace.net",
-  "fetched_at": "2026-10-27T03:50:42.528020+00:00",
+  "fetched_at": "2026-10-27T11:39:02.646293+00:00",
   "countries": {
     "afghanistan": {
       "country": "Afghanistan",
@@ -824,11 +824,11 @@
       "warnings": [
         {
           "source": "UK",
-          "reference": "Notam EGTT V0024/26",
-          "issued": "09 Oct 2026",
-          "valid_until": "07 Jan 2027",
+          "reference": "Notam EGTT V0034/26",
+          "issued": "23 Oct 2026",
+          "valid_until": "23 Oct 2027",
           "plain_english": "UK operators should avoid Lebanon airspace, except for flights to/from OLBA/Beirut airport over the sea.",
-          "raw_text": "V0033/26 NOTAMR V0024/26 Q) EGXX/QROXX/IV/NBO/W /000/999/5218N01451W999 A) EGTT EGGX EGPX B) 2610091023 C) 2701071200 E) SECURITY - HAZARDOUS SITUATION IN LEBANON. UK REGISTERED AIR OPERATORS ARE RECOMMENDED NOT TO ENTER FIR BEIRUT (OLBB), EXCEPT FOR OPERATIONS TO/FROM OLBA WHICH COMMENCE ARRIVAL AND COMPLETE DEPARTURE OVER THE MEDITERRANEAN SEA. POTENTIAL RISK FROM HEIGHTENED MILITARY ACTIVITY. THIS SUPERCEDES THE INFORMATION CONTAINED IN THE UK CIVIL AIP ENR 1.1. AR-2026-3194/03. F) SFC G) UNL"
+          "raw_text": "V0034/26 NOTAMR V0033/26 Q) EGXX/QROXX/IV/NBO/W /000/999/5218N01451W999 A) EGTT EGGX EGPX B) 2610231431 C) PERM E) SECURITY - HAZARDOUS SITUATION IN LEBANON. UK REGISTERED AIR OPERATORS ARE RECOMMENDED NOT TO ENTER FIR BEIRUT (OLBB), EXCEPT FOR OPERATIONS TO/FROM OLBA WHICH COMMENCE ARRIVAL AND COMPLETE DEPARTURE OVER THE MEDITERRANEAN SEA. POTENTIAL RISK FROM HEIGHTENED MILITARY ACTIVITY. THIS SUPERCEDES THE INFORMATION CONTAINED IN THE UK CIVIL AIP ENR 1.1. AR-2026-3194/03. F) SFC G) UNL"
         },
         {
           "source": "Germany",
@@ -973,6 +973,14 @@
       "related_reading": [],
       "warnings": [
         {
+          "source": "United Kingdom",
+          "reference": "Notam EGTT V0035/26",
+          "issued": "26 Oct 2026",
+          "valid_until": "24 Jan 2027",
+          "plain_english": "Operators should not enter the portions of the GOOO/Dakar and DRRR/Niamey FIRs over Mali below 25,000 ft AGL due to risks posed by anti -aircraft fire and military activity.",
+          "raw_text": "SECURITY - HAZARDOUS SITUATION IN MALI. UK CIVIL AIR OPERATORS ARE RECOMMENDED NOT TO ENTER FIR NIAMEY (DRRR) AND FIR DAKAR (GOOO) WI THE TERRITORY AND AIRSPACE OF MALI BELOW 25000FT ABOVE GROUND LEVEL (AGL). POTENTIAL RISK FROM ANTI-AIRCRAFT WEAPONRY AND HEIGHTENED MILITARY ACTIVITY. THIS SUPERSEDES THE ADVICE IN THE CURRENT UK AIP ENR 1.1. AR-2026-3729/04."
+        },
+        {
           "source": "France",
           "reference": "Notam LFFF F1912/26",
           "issued": "16 Sep 2026",
@@ -995,14 +1003,6 @@
           "valid_until": "06 Nov 2026",
           "plain_english": "Canadian operators are recommended to remain at or above FL320 while in portions of the GOOO/Dakar and DRRR/Niamey FIRs overhead Mali due to risk of anti-aircraft fire and military activity.",
           "raw_text": "AIRSPACE SECURITY WARNING ISSUED BY THE DEPARTMENT OF TRANSPORT IN RESPONSE TO THE SECURITY SITUATION IN MALI. CANADIAN AIR OPERATORS AND OWNERS OF AIRCRAFT REGISTERED IN CANADA ARE RECOMMENDED TO MAINTAIN A FLIGHT LEVEL EQUAL TO OR ABOVE FL320 IN THE PORTIONS OF FIR DAKAR (GOOO) AND FIR NIAMEY (DRRR) LOCATED IN THE TERRITORY OF MALI DUE TO THE POTENTIAL RISK FROM MILITANT ACTIVITY AND ANTI-AIRCRAFT WEAPONRY."
-        },
-        {
-          "source": "United Kingdom",
-          "reference": "Notam EGTT V0026/26",
-          "issued": "04 Aug 2026",
-          "valid_until": "02 Nov 2026",
-          "plain_english": "Operators should not enter the portions of the GOOO/Dakar and DRRR/Niamey FIRs over Mali below 25,000 ft AGL due to risks posed by anti -aircraft fire and military activity.",
-          "raw_text": "SECURITY - HAZARDOUS SITUATION IN MALI. UK CIVIL AIR OPERATORS ARE RECOMMENDED NOT TO ENTER FIR NIAMEY (DRRR) AND FIR DAKAR (GOOO) WI THE TERRITORY AND AIRSPACE OF MALI BELOW 25000FT ABOVE GROUND LEVEL (AGL). POTENTIAL RISK FROM ANTI-AIRCRAFT WEAPONRY AND HEIGHTENED MILITARY ACTIVITY. THIS SUPERSEDES THE ADVICE IN THE CURRENT UK AIP ENR 1.1. AR-2026-3729/04."
         },
         {
           "source": "USA",
