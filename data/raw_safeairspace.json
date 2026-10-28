@@ -1,6 +1,6 @@
 {
   "source": "safeairspace.net",
-  "fetched_at": "2026-10-28T04:10:36.130252+00:00",
+  "fetched_at": "2026-10-28T12:10:42.094175+00:00",
   "countries": {
     "afghanistan": {
       "country": "Afghanistan",
@@ -1172,7 +1172,16 @@
       "risk_level_label": "Caution",
       "narrative": "Oct 2026: Niger remains under military rule following the 2023 coup. The security situation is still unsettled after mutinous soldiers attacked key sites in Niamey in August. Commercial flights continue at DRRN/Niamey. See OPSGROUP Briefing : Niger Military Coup: Airspace Reopens - 2023 The primary risk is armed activity and the chance of civil aircraft being caught in crossfire or mistaken for a military target. The coup has also left relations with neighboring states strained, adding to the risk of sudden regional escalation or airspace restrictions. EASA advises operators to assess the risk below FL260 in the DRRR/Niamey FIR. Major events: Aug 2026: Mutinous soldiers attacked the airport and presidency in Niamey. Government forces later regained control of the airbase. Jan 2026: Islamic State claimed an attack on the airbase at DRRN/Niamey. Several parked civilian aircraft were damaged. Jul-Sep 2023: A military coup led to temporary airspace and airport closures. Niger reopened its airspace in September.",
       "related_reading": [],
-      "warnings": [],
+      "warnings": [
+        {
+          "source": "EASA",
+          "reference": "Information Note",
+          "issued": "01 Oct 2026",
+          "valid_until": "30 Apr 2027",
+          "plain_english": "Operators should exercise caution in Niger below FL260.",
+          "raw_text": "Information Note on the threat and risk situation in the airspace of Niger. Airspace affected: Airspace of Niger located within FIR Niamey (DRRR) - below FL 260."
+        }
+      ],
       "slug": "niger",
       "url": "https://safeairspace.net/niger/"
     },
