@@ -1,6 +1,6 @@
 {
   "source": "safeairspace.net",
-  "fetched_at": "2026-11-03T00:33:43.559696+00:00",
+  "fetched_at": "2026-11-03T13:40:37.109385+00:00",
   "countries": {
     "afghanistan": {
       "country": "Afghanistan",
@@ -1757,6 +1757,14 @@
       "narrative": "Oct 2026: Yemen remains an active conflict zone, and the vast majority of Yemeni airspace (the OYSC/Sanaa FIR) should be avoided. Several countries prohibit aircraft from overflying any land portion of the FIR. US operators can still use offshore routes UT702 and M999, while other countries permit flights on overwater portions of Yemeni airspace. The security situation has deteriorated sharply since Sep 2026, with renewed fighting between Houthi and Saudi-backed government forces and an increase in missile and drone attacks. Saudi airspace to the north and Somali airspace to the south also carry risks. The primary risk is intentional targeting by Houthi forces and other groups with access to sophisticated missiles, drones and anti-aircraft weaponry. Civil aircraft are also exposed to the wider military activity, including Saudi-led airstrikes and Houthi missile and drone attacks. Major events: Oct 2026: Fighting has intensified between Houthi and Saudi-backed government forces, particularly around the Bab el-Mandeb area. Oct 2026: OYAA/Aden airport was targeted - a missile landed near the runway as a Cairo flight was approaching and the flight was diverted to Jeddah. Jul 2026: Yemeni government forces struck the runway at OYSN/Sanaa airport to prevent an Iranian aircraft from landing. Dec 2024 - ongoing: OYSN/Sanaa Airport remains closed following Israeli airstrikes. Jan 2024: US and UK airstrikes against Houthi targets began following missile and drone attacks in the Red Sea.",
       "related_reading": [],
       "warnings": [
+        {
+          "source": "France",
+          "reference": "Notam LFFF Notam F2263/26",
+          "issued": "30 Oct 2026",
+          "valid_until": "31 Jan 2027",
+          "plain_english": "French operators are asked not to enter the OYSC/Sanaa FIR except at or above FL320 in the oceanic airspace in the east of the OYSC/Sanaa FIR (airway B400 and east of).",
+          "raw_text": "F2263/26 NOTAMN Q) LFXX/QXXCH/I /BO /E /000/999/4443N00108E460 A) LFBB LFEE LFFF LFMM LFRR B) 2610301720 C) 2701312359 E) FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED NOT TO PENETRATE INTO THE AIRSPACE OF YEMEN (FIR SANAA (OYSC)), EXCEPT FOR ROUTES LOCATED IN THE MARITIME PART OF FIR SANAA (OYSC), EAST OF ROUTE B400 INCLUDED ON WHICH A FLIGHT LEVEL ABOVE OR EQUAL TO FL320 IS REQUESTED TO BE MAINTAINED AT ALL TIMES."
+        },
         {
           "source": "Italy",
           "reference": "Notam LIRR E2220/26",
