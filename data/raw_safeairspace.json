@@ -1,6 +1,6 @@
 {
   "source": "safeairspace.net",
-  "fetched_at": "2026-11-07T04:47:48.385781+00:00",
+  "fetched_at": "2026-11-07T12:30:49.875737+00:00",
   "countries": {
     "afghanistan": {
       "country": "Afghanistan",
@@ -1369,6 +1369,16 @@
       "warnings": [],
       "slug": "rwanda",
       "url": "https://safeairspace.net/rwanda/"
+    },
+    "safeairspace-net-access-change-opsgroup-closing-to-new-members": {
+      "country": "SafeAirspace is moving to member access",
+      "risk_level_number": null,
+      "risk_level_label": "None",
+      "narrative": "",
+      "related_reading": [],
+      "warnings": [],
+      "slug": "safeairspace-net-access-change-opsgroup-closing-to-new-members",
+      "url": "https://safeairspace.net/safeairspace-net-access-change-opsgroup-closing-to-new-members/"
     },
     "somalia": {
       "country": "Somalia",
