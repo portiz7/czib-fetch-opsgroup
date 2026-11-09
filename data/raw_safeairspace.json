@@ -1,6 +1,6 @@
 {
   "source": "safeairspace.net",
-  "fetched_at": "2026-11-08T21:42:45.471516+00:00",
+  "fetched_at": "2026-11-09T04:48:59.091362+00:00",
   "countries": {
     "afghanistan": {
       "country": "Afghanistan",
@@ -965,6 +965,14 @@
       "related_reading": [],
       "warnings": [
         {
+          "source": "Canada",
+          "reference": "Notam CZVR F6191/26",
+          "issued": "06 Nov 2026",
+          "valid_until": "12 Nov 2026",
+          "plain_english": "Canadian operators are recommended to remain at or above FL320 while in portions of the GOOO/Dakar and DRRR/Niamey FIRs overhead Mali due to risk of anti-aircraft fire and military activity.",
+          "raw_text": "AIRSPACE SECURITY WARNING ISSUED BY THE DEPARTMENT OF TRANSPORT IN RESPONSE TO THE SECURITY SITUATION IN MALI. CANADIAN AIR OPERATORS AND OWNERS OF AIRCRAFT REGISTERED IN CANADA ARE RECOMMENDED TO MAINTAIN A FLIGHT LEVEL EQUAL TO OR ABOVE FL320 IN THE PORTIONS OF FIR DAKAR (GOOO) AND FIR NIAMEY (DRRR) LOCATED IN THE TERRITORY OF MALI DUE TO THE POTENTIAL RISK FROM MILITANT ACTIVITY AND ANTI-AIRCRAFT WEAPONRY."
+        },
+        {
           "source": "France",
           "reference": "Notam LFFF F2246/26",
           "issued": "29 Oct 2026",
@@ -987,14 +995,6 @@
           "valid_until": "29 Nov 2026",
           "plain_english": "Italian operators should avoid the airspace of Mali below 25000 ft AGL.",
           "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY ARE RECOMMENDED TO AVOID PORTIONS OF DAKAR FIR (GOOO) AND NIAMEY FIR (DRRR) WITHIN TERRITORY AND AIRSPACE OF MALI BELOW HEIGHT 25000FT AGL AND ACCORDING TO EASA SAFETY DIRECTIVES."
-        },
-        {
-          "source": "Canada",
-          "reference": "Notam CZUL H5014/26",
-          "issued": "07 Aug 2026",
-          "valid_until": "06 Nov 2026",
-          "plain_english": "Canadian operators are recommended to remain at or above FL320 while in portions of the GOOO/Dakar and DRRR/Niamey FIRs overhead Mali due to risk of anti-aircraft fire and military activity.",
-          "raw_text": "AIRSPACE SECURITY WARNING ISSUED BY THE DEPARTMENT OF TRANSPORT IN RESPONSE TO THE SECURITY SITUATION IN MALI. CANADIAN AIR OPERATORS AND OWNERS OF AIRCRAFT REGISTERED IN CANADA ARE RECOMMENDED TO MAINTAIN A FLIGHT LEVEL EQUAL TO OR ABOVE FL320 IN THE PORTIONS OF FIR DAKAR (GOOO) AND FIR NIAMEY (DRRR) LOCATED IN THE TERRITORY OF MALI DUE TO THE POTENTIAL RISK FROM MILITANT ACTIVITY AND ANTI-AIRCRAFT WEAPONRY."
         },
         {
           "source": "USA",
@@ -1107,20 +1107,20 @@
       "related_reading": [],
       "warnings": [
         {
+          "source": "Canada",
+          "reference": "Notam CZVR F6190/26",
+          "issued": "06 Nov 2026",
+          "valid_until": "12 Nov 2026",
+          "plain_english": "It's recommended that Candian operators remain at or above FL260 in the VYYF/Yangon FIR due to risk of anti-aircraft weaponry.",
+          "raw_text": "AIRSPACE SECURITY WARNING ISSUED BY THE DEPARTMENT OF TRANSPORT IN RESPONSE TO THE SECURITY SITUATION IN MYANMAR. CANADIAN AIR OPERATORS AND OWNERS OF AIRCRAFT REGISTERED IN CANADA ARE RECOMMENDED TO MAINTAIN A FLIGHT LEVEL AT OR ABOVE FL260 IN FIR YANGON (VYYF) DUE TO THE RISK FROM ANTI-AIRCRAFT WEAPONRY."
+        },
+        {
           "source": "Italy",
           "reference": "Notam LIRR E2222/26",
           "issued": "01 Sep 2026",
           "valid_until": "29 Nov 2026",
           "plain_english": "Italian operators should avoid the VYYF/Yangon FIR below 25000 ft AGL.",
           "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY ARE RECOMMENDED TO AVOID HEIGHT BELOW 25000FT ABOVE GROUND LEVEL IN YANGON FIR (VYYF) ENSURING ROBUST RISK ASSESSMENT ACCORDING TO EASA SAFETY DIRECTIVES."
-        },
-        {
-          "source": "Canada",
-          "reference": "Notam CZUL H5013/26",
-          "issued": "07 Aug 2026",
-          "valid_until": "06 Nov 2026",
-          "plain_english": "It's recommended that Candian operators remain at or above FL260 in the VYYF/Yangon FIR due to risk of anti-aircraft weaponry.",
-          "raw_text": "AIRSPACE SECURITY WARNING ISSUED BY THE DEPARTMENT OF TRANSPORT IN RESPONSE TO THE SECURITY SITUATION IN MYANMAR. CANADIAN AIR OPERATORS AND OWNERS OF AIRCRAFT REGISTERED IN CANADA ARE RECOMMENDED TO MAINTAIN A FLIGHT LEVEL AT OR ABOVE FL260 IN FIR YANGON (VYYF) DUE TO THE RISK FROM ANTI-AIRCRAFT WEAPONRY."
         },
         {
           "source": "EASA",
