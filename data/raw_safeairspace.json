@@ -1,6 +1,6 @@
 {
   "source": "safeairspace.net",
-  "fetched_at": "2026-11-12T00:05:10.788733+00:00",
+  "fetched_at": "2026-11-12T14:40:49.419879+00:00",
   "countries": {
     "afghanistan": {
       "country": "Afghanistan",
@@ -51,7 +51,7 @@
         },
         {
           "source": "France",
-          "reference": "AIC 16/26",
+          "reference": "AIC 18/26",
           "issued": "28 Sep 2023",
           "valid_until": "Ongoing",
           "plain_english": "French operators should not overfly the OAKX/Kabul FIR below FL320.",
@@ -117,11 +117,11 @@
       "warnings": [
         {
           "source": "France",
-          "reference": "Notam LFFF F2229/26",
-          "issued": "28 Oct 2026",
-          "valid_until": "12 Nov 2026",
+          "reference": "Notam LFFF F2351/26",
+          "issued": "12 Nov 2026",
+          "valid_until": "25 Nov 2026",
           "plain_english": "French operators should exercise caution in the airspace of Bahrain.",
-          "raw_text": "F2229/26 NOTAMR F2116/26 Q) LFXX/QXXCH/I /BO /E /000/999/4412N00040E460 A) LFBB LFFF LFMM LFEE LFRR B) 2610281749 C) 2611122359 E) FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED TO EXERCISE GREAT CAUTION WHEN OPERATING INTO THE AIRSPACE OF BAHRAIN (FIR BAHRAIN (OBBB)). THE AIR OPERATOR MUST CARRY OUT A ROBUST RISK ASSESSMENT TO ENSURE THAT THE FLIGHT CAN BE CONDUCTED UNDER SATISFACTORY SAFETY AND SECURITY CONDITIONS BEFORE ENTERING THIS AIRSPACE OF BAHRAIN (FIR BAHRAIN (OBBB))"
+          "raw_text": "F2351/26 NOTAMR F2229/26 Q) LFXX/QXXCH/I /BO /E /000/999/4412N00040E460 A) LFBB LFFF LFMM LFEE LFRR B) 2611121251 C) 2611252359 E) FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED TO EXERCISE GREAT CAUTION WHEN OPERATING INTO THE AIRSPACE OF BAHRAIN (FIR BAHRAIN (OBBB)). THE AIR OPERATOR MUST CARRY OUT A ROBUST RISK ASSESSMENT TO ENSURE THAT THE FLIGHT CAN BE CONDUCTED UNDER SATISFACTORY SAFETY AND SECURITY CONDITIONS BEFORE ENTERING THIS AIRSPACE OF BAHRAIN (FIR BAHRAIN (OBBB))."
         },
         {
           "source": "EASA",
@@ -160,7 +160,7 @@
         },
         {
           "source": "France",
-          "reference": "AIC 16/26",
+          "reference": "AIC 18/26",
           "issued": "27 Jun 2024",
           "valid_until": "Ongoing",
           "plain_english": "French operators should not enter the airspace of Belarus due to the conflict in neighbouring Ukraine.",
@@ -362,7 +362,7 @@
         },
         {
           "source": "France",
-          "reference": "AIC 16/26",
+          "reference": "AIC 18/26",
           "issued": "14 Dec 2023",
           "valid_until": "Ongoing",
           "plain_english": "French operators should not fly in the northern section of the HAAA/Addis Ababa FIR below FL320 (previous advice advised against all flights in this area).",
@@ -421,7 +421,7 @@
         },
         {
           "source": "France",
-          "reference": "AIC 16/26",
+          "reference": "AIC 18/26",
           "issued": "28 Aug 2025",
           "valid_until": "Ongoing",
           "plain_english": "French operators should remain at or above FL100 in Haiti airspace, and not go to MTPP/Port Au Prince airport.",
@@ -468,11 +468,11 @@
       "warnings": [
         {
           "source": "France",
-          "reference": "Notam LFFF F2223/26",
-          "issued": "28 Oct 2026",
-          "valid_until": "12 Nov 2026",
+          "reference": "Notam LFFF F2356/26",
+          "issued": "12 Nov 2026",
+          "valid_until": "25 Nov 2026",
           "plain_english": "French operators should not enter the airspace of Iran.",
-          "raw_text": "F2223/26 NOTAMR F2110/26 Q) LFXX/QXXCH/I /BO /E /000/999/4412N00040E460 A) LFBB LFEE LFFF LFMM LFRR B) 2610281743 C) 2611122359 E) FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED NOT TO PENETRATE INTO THE ENTIRE AIRSPACE OF IRAN (FIR TEHRAN (OIIX)). THIS NOTAM SUPERSEDES THE RESTRICTIONS CONCERNING IRAN AIRSPACE (FIR TEHRAN (OIIX)) ISSUED IN PARAGRAPH 3.14 IRAN OF THE AIC NR A011/26 CURRENTLY IN EFFECT."
+          "raw_text": "F2356/26 NOTAMR F2223/26 Q) LFXX/QXXCH/I /BO /E /000/999/4412N00040E460 A) LFBB LFEE LFFF LFMM LFRR B) 2611121322 C) 2611252359 E) FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED NOT TO PENETRATE INTO THE ENTIRE AIRSPACE OF IRAN (FIR TEHRAN (OIIX)). THIS NOTAM SUPERSEDES THE RESTRICTIONS CONCERNING IRAN AIRSPACE (FIR TEHRAN (OIIX)) ISSUED IN PARAGRAPH 3.14 IRAN OF THE AIC NR A018/26 CURRENTLY IN EFFECT."
         },
         {
           "source": "Germany",
@@ -524,7 +524,7 @@
         },
         {
           "source": "France",
-          "reference": "AIC 16/26",
+          "reference": "AIC 18/26",
           "issued": "09 Apr 2020",
           "valid_until": "Ongoing",
           "plain_english": "French operators should not overfly the western half of the country (everywhere west of 54 Degrees East longitude); overflights of the eastern half should be at or above FL320.",
@@ -559,11 +559,11 @@
       "warnings": [
         {
           "source": "France",
-          "reference": "Notam LFFF F2245/26",
-          "issued": "29 Oct 2026",
-          "valid_until": "12 Nov 2026",
+          "reference": "Notam LFFF F2357/26",
+          "issued": "12 Nov 2026",
+          "valid_until": "25 Nov 2026",
           "plain_english": "French operators should not enter the airspace of Iraq.",
-          "raw_text": "F2245/26 NOTAMR F2224/26 Q) LFXX/QXXCH/I /BO /E /000/999/4412N00040E460 A) LFBB LFEE LFFF LFMM LFRR B) 2610291247 C) 2611122359 E) FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED NOT TO PENETRATE INTO THE ENTIRE AIRSPACE OF IRAQ (FIR BAGHDAD (ORBB)). THIS NOTAM SUPERSEDES THE RESTRICTIONS CONCERNING IRAQ AIRSPACE (FIR BAGHDAD (ORBB)) ISSUED IN PARAGRAPH 3.2 IRAQ OF THE AIC NR A016/26 CURRENTLY IN EFFECT."
+          "raw_text": "F2357/26 NOTAMR F2245/26 Q) LFXX/QXXCH/I /BO /E /000/999/4412N00040E460 A) LFBB LFEE LFFF LFMM LFRR B) 2611121324 C) 2611252359 E) FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED NOT TO PENETRATE INTO THE ENTIRE AIRSPACE OF IRAQ (FIR BAGHDAD (ORBB)). THIS NOTAM SUPERSEDES THE RESTRICTIONS CONCERNING IRAQ AIRSPACE (FIR BAGHDAD (ORBB)) ISSUED IN PARAGRAPH 3.2 IRAQ OF THE AIC NR A018/26 CURRENTLY IN EFFECT."
         },
         {
           "source": "Iraq",
@@ -591,7 +591,7 @@
         },
         {
           "source": "France",
-          "reference": "AIC 16/26",
+          "reference": "AIC 18/26",
           "issued": "28 Aug 2025",
           "valid_until": "Ongoing",
           "plain_english": "French operators overflying the ORBB/Baghdad FIR should only be on airways M860/L602/L718 northbound, or UM688 southbound, at or above FL320.",
@@ -752,11 +752,11 @@
       "warnings": [
         {
           "source": "France",
-          "reference": "Notam LFFF F2230/26",
-          "issued": "28 Oct 2026",
-          "valid_until": "12 Nov 2026",
+          "reference": "Notam LFFF F2352/26",
+          "issued": "12 Nov 2026",
+          "valid_until": "25 Nov 2026",
           "plain_english": "French operators should exercise caution in the airspace of Jordan.",
-          "raw_text": "F2230/26 NOTAMR F2117/26 Q) LFXX/QXXCH/I /BO /E /000/999/4412N00040E460 A) LFFF LFBB LFMM LFEE LFRR B) 2610281749 C) 2611122359 E) FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED TO EXERCISE GREAT CAUTION WHEN OPERATING INTO THE AIRSPACE OF JORDAN (FIR AMMAN (OJAC)). THE AIR OPERATOR MUST CARRY OUT A ROBUST RISK ASSESSMENT TO ENSURE THAT THE FLIGHT CAN BE CONDUCTED UNDER SATISFACTORY SAFETY AND SECURITY CONDITIONS BEFORE ENTERING THIS AIRSPACE OF JORDAN (FIR AMMAN (OJAC))."
+          "raw_text": "F2352/26 NOTAMR F2230/26 Q) LFXX/QXXCH/I /BO /E /000/999/4412N00040E460 A) LFFF LFBB LFMM LFEE LFRR B) 2611121253 C) 2611252359 E) FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED TO EXERCISE GREAT CAUTION WHEN OPERATING INTO THE AIRSPACE OF JORDAN (FIR AMMAN (OJAC)). THE AIR OPERATOR MUST CARRY OUT A ROBUST RISK ASSESSMENT TO ENSURE THAT THE FLIGHT CAN BE CONDUCTED UNDER SATISFACTORY SAFETY AND SECURITY CONDITIONS BEFORE ENTERING THIS AIRSPACE OF JORDAN (FIR AMMAN (OJAC))."
         },
         {
           "source": "Germany",
@@ -797,11 +797,11 @@
       "warnings": [
         {
           "source": "France",
-          "reference": "Notam LFFF F2228/26",
-          "issued": "28 Oct 2026",
-          "valid_until": "12 Nov 2026",
+          "reference": "Notam LFFF F2350/26",
+          "issued": "12 Nov 2026",
+          "valid_until": "25 Nov 2026",
           "plain_english": "French operators should exercise caution in the airspace of Kuwait.",
-          "raw_text": "F2228/26 NOTAMR F2115/26 Q) LFXX/QXXCH/I /BO /E /000/999/4412N00040E460 A) LFBB LFFF LFRR LFEE LFMM B) 2610281748 C) 2611122359 E) FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED TO EXERCISE GREAT CAUTION WHEN OPERATING INTO THE AIRSPACE OF KUWAIT (FIR KUWAIT (OKAC)). THE AIR OPERATOR MUST CARRY OUT A ROBUST RISK ASSESSMENT TO ENSURE THAT THE FLIGHT CAN BE CONDUCTED UNDER SATISFACTORY SAFETY AND SECURITY CONDITIONS BEFORE ENTERING THIS AIRSPACE OF KUWAIT (FIR KUWAIT (OKAC))"
+          "raw_text": "F2350/26 NOTAMR F2228/26 Q) LFXX/QXXCH/I /BO /E /000/999/4412N00040E460 A) LFBB LFFF LFRR LFEE LFMM B) 2611121250 C) 2611252359 E) FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED TO EXERCISE GREAT CAUTION WHEN OPERATING INTO THE AIRSPACE OF KUWAIT (FIR KUWAIT (OKAC)). THE AIR OPERATOR MUST CARRY OUT A ROBUST RISK ASSESSMENT TO ENSURE THAT THE FLIGHT CAN BE CONDUCTED UNDER SATISFACTORY SAFETY AND SECURITY CONDITIONS BEFORE ENTERING THIS AIRSPACE OF KUWAIT (FIR KUWAIT (OKAC))."
         },
         {
           "source": "EASA",
@@ -907,7 +907,7 @@
       "warnings": [
         {
           "source": "France",
-          "reference": "AIC 16/26",
+          "reference": "AIC 18/26",
           "issued": "29 Oct 2026",
           "valid_until": "Ongoing",
           "plain_english": "French operators should not enter the HLLL/Tripoli FIR apart from airway segments R778 (DITAR KUFRA TONBA), M999 (Zarzaitine SEBHA) and G655 (SEBHA GARIN) at FL320 and above.",
@@ -1038,7 +1038,7 @@
         },
         {
           "source": "France",
-          "reference": "AIC 16/26",
+          "reference": "AIC 18/26",
           "issued": "09 Apr 2020",
           "valid_until": "Ongoing",
           "plain_english": "French operators overflying the part of the DRRR/Niamey FIR located above the Malian territory should be at or above FL320.",
@@ -1073,7 +1073,7 @@
         },
         {
           "source": "France",
-          "reference": "AIC 16/26",
+          "reference": "AIC 18/26",
           "issued": "27 Jun 2024",
           "valid_until": "Ongoing",
           "plain_english": "French operators should not enter the airspace of Moldova in close proximity to the country’s border with Ukraine. LUKK/Chisinau is not in this area, so flights here are permitted.",
@@ -1132,7 +1132,7 @@
         },
         {
           "source": "France",
-          "reference": "AIC 16/26",
+          "reference": "AIC 18/26",
           "issued": "29 Jan 2026",
           "valid_until": "Ongoing",
           "plain_english": "French operators should remain at or above FL260 in the Yangon FIR. VYYY/Yangon airport is the only alternate available to be filed.",
@@ -1186,11 +1186,11 @@
       "warnings": [
         {
           "source": "France",
-          "reference": "Notam LFFF F2225/26",
-          "issued": "28 Oct 2026",
-          "valid_until": "12 Nov 2026",
+          "reference": "Notam LFFF F2347/26",
+          "issued": "12 Nov 2026",
+          "valid_until": "25 Nov 2026",
           "plain_english": "French operators are advised to exercise caution in the OOMM/Muscat FIR.",
-          "raw_text": "F2225/26 NOTAMR F2112/26 Q) LFXX/QXXCH/I /BO /E /000/999/4412N00040E460 A) LFBB LFFF LFRR LFEE LFMM B) 2610281745 C) 2611122359 E) FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED TO EXERCISE GREAT CAUTION WHEN OPERATING INTO THE AIRSPACE OF OMAN (FIR MUSCAT (OOMM)). THE AIR OPERATOR MUST CARRY OUT A ROBUST RISK ASSESSMENT TO ENSURE THAT THE FLIGHT CAN BE CONDUCTED UNDER SATISFACTORY SAFETY AND SECURITY CONDITIONS BEFORE ENTERING THIS AIRSPACE OF OMAN."
+          "raw_text": "F2347/26 NOTAMR F2225/26 Q) LFXX/QXXCH/I /BO /E /000/999/4412N00040E460 A) LFBB LFFF LFRR LFEE LFMM B) 2611121247 C) 2611252359 E) FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED TO EXERCISE GREAT CAUTION WHEN OPERATING INTO THE AIRSPACE OF OMAN (FIR MUSCAT (OOMM)). THE AIR OPERATOR MUST CARRY OUT A ROBUST RISK ASSESSMENT TO ENSURE THAT THE FLIGHT CAN BE CONDUCTED UNDER SATISFACTORY SAFETY AND SECURITY CONDITIONS BEFORE ENTERING THIS AIRSPACE OF OMAN."
         },
         {
           "source": "EASA",
@@ -1229,7 +1229,7 @@
         },
         {
           "source": "France",
-          "reference": "AIC 16/26",
+          "reference": "AIC 18/26",
           "issued": "09 Apr 2020",
           "valid_until": "Ongoing",
           "plain_english": "French operators overflying Pakistan airspace should be at FL260 or above.",
@@ -1275,11 +1275,11 @@
       "warnings": [
         {
           "source": "France",
-          "reference": "Notam LFFF F2227/26",
-          "issued": "28 Oct 2026",
-          "valid_until": "12 Nov 2026",
+          "reference": "Notam LFFF F2349/26",
+          "issued": "12 Nov 2026",
+          "valid_until": "25 Nov 2026",
           "plain_english": "French operators should exercise caution in the airspace of Qatar.",
-          "raw_text": "F2227/26 NOTAMR F2114/26 Q) LFXX/QXXCH/I /BO /E /000/999/4412N00040E460 A) LFBB LFEE LFMM LFFF LFRR B) 2610281747 C) 2611122359 E) FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED TO EXERCISE GREAT CAUTION WHEN OPERATING INTO THE AIRSPACE OF QATAR (FIR DOHA (ODTF)). THE AIR OPERATOR MUST CARRY OUT A ROBUST RISK ASSESSMENT TO ENSURE THAT THE FLIGHT CAN BE CONDUCTED UNDER SATISFACTORY SAFETY AND SECURITY CONDITIONS BEFORE ENTERING THIS AIRSPACE OF QATAR (FIR DOHA (OTDF))."
+          "raw_text": "F2349/26 NOTAMR F2227/26 Q) LFXX/QXXCH/I /BO /E /000/999/4412N00040E460 A) LFBB LFEE LFMM LFFF LFRR B) 2611121249 C) 2611252359 E) FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED TO EXERCISE GREAT CAUTION WHEN OPERATING INTO THE AIRSPACE OF QATAR (FIR DOHA (ODTF)). THE AIR OPERATOR MUST CARRY OUT A ROBUST RISK ASSESSMENT TO ENSURE THAT THE FLIGHT CAN BE CONDUCTED UNDER SATISFACTORY SAFETY AND SECURITY CONDITIONS BEFORE ENTERING THIS AIRSPACE OF QATAR (FIR DOHA (OTDF))."
         },
         {
           "source": "EASA",
@@ -1326,7 +1326,7 @@
         },
         {
           "source": "France",
-          "reference": "AIC 16/26",
+          "reference": "AIC 18/26",
           "issued": "27 Jun 2024",
           "valid_until": "Ongoing",
           "plain_english": "French operators should not enter the airspace of Russia within 200NM of the FIR boundaries with Ukraine, and exercise caution in the rest of the UUWV/Moscow and URRV/Rostov FIRs.",
@@ -1397,7 +1397,7 @@
         },
         {
           "source": "France",
-          "reference": "AIC 16/26",
+          "reference": "AIC 18/26",
           "issued": "14 Dec 2023",
           "valid_until": "Ongoing",
           "plain_english": "French operators should stay at or above FL260 in the HCSM/Mogadishu FIR, except in the overwater portion.",
@@ -1480,7 +1480,7 @@
         },
         {
           "source": "France",
-          "reference": "AIC 16/26",
+          "reference": "AIC 18/26",
           "issued": "14 Dec 2023",
           "valid_until": "Ongoing",
           "plain_english": "French operators should not enter the airspace of Sudan.",
@@ -1563,7 +1563,7 @@
         },
         {
           "source": "France",
-          "reference": "AIC 16/26",
+          "reference": "AIC 18/26",
           "issued": "09 Apr 2020",
           "valid_until": "Ongoing",
           "plain_english": "French operators should avoid Syrian airspace.",
@@ -1675,7 +1675,7 @@
         },
         {
           "source": "France",
-          "reference": "AIC 16/26",
+          "reference": "AIC 18/26",
           "issued": "27 Jun 2024",
           "valid_until": "Ongoing",
           "plain_english": "French operators should not enter the airspace of Ukraine, including the contested UKFV/Simferopol FIR over Crimea (claimed by Russia as the URFV FIR).",
@@ -1809,7 +1809,7 @@
         },
         {
           "source": "France",
-          "reference": "AIC 16/26",
+          "reference": "AIC 18/26",
           "issued": "04 Nov 2021",
           "valid_until": "Ongoing",
           "plain_english": "French operators should avoid Yemeni airspace, except at or above FL320 in the oceanic airspace in the east of the OYSC/Sanaa FIR (airway B400 and east of).",
