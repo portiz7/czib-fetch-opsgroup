@@ -1,6 +1,6 @@
 {
   "source": "safeairspace.net",
-  "fetched_at": "2026-11-12T14:40:49.419879+00:00",
+  "fetched_at": "2026-11-12T23:14:36.820926+00:00",
   "countries": {
     "afghanistan": {
       "country": "Afghanistan",
@@ -16,14 +16,6 @@
           "valid_until": "29 Nov 2026",
           "plain_english": "Italian operators should not enter the OAKX/Kabul FIR below 25000 ft AGL. Airways P500/G500 not affected.",
           "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY WHEN PLANNING FLIGHT OPERATIONS SHALL AVOID OPERATIONS IN AFGHANISTAN FIR (OAKX) BELOW HEIGHT 25000 FEET AGL AND ACCORDING TO EASA SAFETY DIRECTIVES. RMK: AIRWAY P500 G500 NOT AFFECTED."
-        },
-        {
-          "source": "UK",
-          "reference": "Notam EGTT V0028/26",
-          "issued": "25 Aug 2026",
-          "valid_until": "29 Oct 2026",
-          "plain_english": "UK Notam extended, no change to warning: caution to UK operators in OAKX/Kabul FIR due to potential risk from heightened military activity.",
-          "raw_text": "V0028/26 NOTAMR V0020/26 Q) EGXX/QROXX/IV/NBO/W /000/999/5218N01451W999 A) EGTT EGPX EGGX B) 2608250905 C) 2610290000 E) SECURITY - HAZARDOUS SITUATION IN AFGHANISTAN. UK REGISTERED AIR OPERATORS ARE ADVISED TO TAKE POTENTIAL RISK INTO ACCOUNT WITHIN FIR KABUL (OAKX). POTENTIAL RISK FROM HEIGHTENED MILITARY ACTIVITY. ON EXPIRY OF THIS NOTAM DETAILS WILL BE INCLUDED IN THE UK AIP ENR 1.1. AR-2026-1616/03. F) SFC G) UNL"
         },
         {
           "source": "USA",
@@ -43,7 +35,7 @@
         },
         {
           "source": "Canada",
-          "reference": "AIC 17/26",
+          "reference": "AIC 27/26",
           "issued": "23 Aug 2024",
           "valid_until": "Ongoing",
           "plain_english": "Canadian operators should not enter the airspace of Afghanistan except for overflights at or above FL320.",
@@ -176,7 +168,7 @@
         },
         {
           "source": "Canada",
-          "reference": "AIC 17/26",
+          "reference": "AIC 27/26",
           "issued": "24 Feb 2022",
           "valid_until": "Ongoing",
           "plain_english": "Canadian operators are prohibited from the UMMV/Minsk FIR.",
@@ -249,17 +241,17 @@
       "warnings": [
         {
           "source": "Cyprus",
-          "reference": "Notam LCCC A0818/26",
-          "issued": "04 Aug 2026",
-          "valid_until": "03 Nov 2026",
+          "reference": "Notam LCCC A1225/26",
+          "issued": "02 Nov 2026",
+          "valid_until": "02 Jan 2027",
           "plain_english": "Caution in Cyprus airspace due to military aircraft flying with no transponders.",
           "raw_text": "PILOTS TO EXERCISE CAUTION DUE TO MILITARY AIRCRAFT OPERATING UNDER DUE REGARD AND NO TRANSPONDER WITHIN NICOSIA FIR."
         },
         {
           "source": "Cyprus",
-          "reference": "Notam LCCC A0799/26",
-          "issued": "28 Jul 2026",
-          "valid_until": "27 Oct 2026",
+          "reference": "Notam LCCC A1194/26",
+          "issued": "27 Oct 2026",
+          "valid_until": "26 Jan 2027",
           "plain_english": "Expect GPS interference in Cyprus airspace.",
           "raw_text": "GPS SPOOFING/JAMMING MAY BE ENCOUNTERED IN NICOSIA FIR. CREWS ARE ADVISED TO REMAIN VIGILANT AND REPORT TO ATC. CONVENTIONAL NAVIGATION PROCEDURES ARE AVAILABLE."
         },
@@ -330,11 +322,11 @@
       "warnings": [
         {
           "source": "UK",
-          "reference": "Notam EGTT V0030/26",
+          "reference": "Notam EGTT V0032/26",
           "issued": "02 Oct 2026",
           "valid_until": "21 Dec 2026",
           "plain_english": "Caution to UK operators overflying the Tigray, Afar and Amhara regions.",
-          "raw_text": "V0032/26 NOTAMR V0030/26 Q) EGXX/QROXX/IV/NBO/W /000/999/5218N01451W999 A) EGTT B) 2610021028 C) 2612211200 E) SECURITY - HAZARDOUS SITUATION IN ETHIOPIA. UK REGISTERED AIR OPERATORS ARE ADVISED TO TAKE POTENTIAL RISK INTO ACCOUNT WHEN OPERATING IN FIR ADDIS ABABA (HAAA) WHEN OVERFLYING TIGRAY, AFAR AND AMHARA REGIONS WITHIN THE AREA BOUNDED BY STRAIGHT LINES JOINING: 145300N 0362700E - 143000N 0390000E - 141200N 0404800E - 132400N 0414200E - 111200N 0415100E - 090000N 0400600E - 084500N 0380600E - 091200N 0361200E - 111200N 0355400E - 132400N 0360600E - 145300N 0362700E. DUE TO HEIGHTENED MILITARY ACTIVITY. AR-2026-8985/02. F) SFC G) UNL"
+          "raw_text": "SECURITY - HAZARDOUS SITUATION IN ETHIOPIA. UK REGISTERED AIR OPERATORS ARE ADVISED TO TAKE POTENTIAL RISK INTO ACCOUNT WHEN OPERATING IN FIR ADDIS ABABA (HAAA) WHEN OVERFLYING TIGRAY, AFAR AND AMHARA REGIONS WITHIN THE AREA BOUNDED BY STRAIGHT LINES JOINING: 145300N 0362700E - 143000N 0390000E - 141200N 0404800E - 132400N 0414200E - 111200N 0415100E - 090000N 0400600E - 084500N 0380600E - 091200N 0361200E - 111200N 0355400E - 132400N 0360600E - 145300N 0362700E. DUE TO HEIGHTENED MILITARY ACTIVITY. AR-2026-8985/02."
         },
         {
           "source": "Italy",
@@ -413,7 +405,7 @@
         },
         {
           "source": "Canada",
-          "reference": "AIC 17/26",
+          "reference": "AIC 27/26",
           "issued": "11 Jun 2026",
           "valid_until": "Ongoing",
           "plain_english": "Canadian operators are recommended not to fly below FL100 within the specified area of MTEG/Port-au-Prince FIR due to risks to aviation from gang activity.",
@@ -540,7 +532,7 @@
         },
         {
           "source": "Canada",
-          "reference": "AIC 17/26",
+          "reference": "AIC 27/26",
           "issued": "10 Jan 2020",
           "valid_until": "Ongoing",
           "plain_english": "Canadian operators should not enter the OIIX/Tehran FIR, due to the potential risk from anti-aviation weaponry and military operations.",
@@ -631,7 +623,7 @@
         },
         {
           "source": "Canada",
-          "reference": "AIC 17/26",
+          "reference": "AIC 27/26",
           "issued": "18 Nov 2021",
           "valid_until": "Ongoing",
           "plain_english": "Canadian operators should not overfly the ORBB/Baghdad FIR below FL320, due to the potential risk from anti- aviation weaponry and military operations.",
@@ -681,20 +673,20 @@
       "related_reading": [],
       "warnings": [
         {
+          "source": "Russia",
+          "reference": "Notam UUUU U1412/26",
+          "issued": "16 Oct 2026",
+          "valid_until": "16 Nov 2026",
+          "plain_english": "Russian operators are not permitted to depart for Israel between 2200-0400Z. Daytime flights are still allowed, but only if the airline has completed its own risk assessment.",
+          "raw_text": "ATTENTION AIR OPERATORS OF THE RUSSIAN FEDERATION. RESTRICTIONS BY THE FEDERAL AIR TRANSPORT AGENCY OF THE RUSSIAN FEDERATION IMPOSED ON OVERNIGHT FLIGHTS BTN 2200 AND 0400 UTC FROM AIRPORTS OF THE RUSSIAN FEDERATION TO THE AIRPORTS OF THE STATE OF ISRAEL DUE TO FLIGHT SAFETY REASONS. DECISIONS TO CARRY OUT DAY-TIME FLIGHTS TO THE STATE OF ISRAEL TAKEN BY AIRLINES MUST BE BASED ON RISK ASSESSMENT CONCERNING RECOMMENDATIONS OF ICAO DOC 10084, 2ND EDITION, 2018."
+        },
+        {
           "source": "EASA",
           "reference": "Information Note",
           "issued": "30 Sep 2026",
           "valid_until": "16 Nov 2026",
           "plain_english": "Exercise caution in Israel.",
           "raw_text": "Information Note on the threat and risk situation in the airspace of Israel (FIR Tel Aviv - LLLL) Airspace affected: All altitudes/flight levels in the airspace of Israel (Tel Aviv FIR – LLLL). Civil air operators are advised to take potential risk into account in their risk assessment and routing decisions."
-        },
-        {
-          "source": "Russia",
-          "reference": "Notam UUUU U1257/26",
-          "issued": "16 Sep 2026",
-          "valid_until": "16 Oct 2026",
-          "plain_english": "Russian operators are not permitted to depart for Israel between 2200-0400 UTC. Daytime flights are still allowed, but only if the airline has completed its own risk assessment.",
-          "raw_text": ""
         },
         {
           "source": "Italy",
@@ -706,7 +698,7 @@
         },
         {
           "source": "Canada",
-          "reference": "AIC 17/26",
+          "reference": "AIC 27/26",
           "issued": "10 Oct 2023",
           "valid_until": "Ongoing",
           "plain_english": "Caution to Canadian operators in the LLLL/Tel Aviv FIR due to potential risk from military activity.",
@@ -760,11 +752,11 @@
         },
         {
           "source": "Germany",
-          "reference": "Notam EDWW B0678/26",
-          "issued": "17 Aug 2026",
-          "valid_until": "22 Oct 2026",
+          "reference": "Notam EDWW B0820/26",
+          "issued": "22 Oct 2026",
+          "valid_until": "22 Jan 2027",
           "plain_english": "German operators should not enter the airspace of Jordan.",
-          "raw_text": "SECURITY - HAZARDOUS SITUATION IN JORDAN CIVIL GERMAN AIR OPERATORS ARE RECOMMENDED NOT TO ENTER FIR AMMAN (OJAC). POTENTIAL RISK FROM ANTI-AVIATION WEAPONRY, MILITARY OPERATIONS AND ARMED. CONFLICTS."
+          "raw_text": "SECURITY - HAZARDOUS SITUATION IN JORDAN CIVIL GERMAN AIR OPERATORS ARE RECOMMENDED NOT TO ENTER FIR AMMAN (OJAC). POTENTIAL RISK FROM ANTI-AVIATION WEAPONRY, MILITARY OPERATIONS AND ARMED CONFLICTS."
         },
         {
           "source": "EASA",
@@ -826,9 +818,9 @@
           "source": "UK",
           "reference": "Notam EGTT V0034/26",
           "issued": "23 Oct 2026",
-          "valid_until": "23 Oct 2027",
+          "valid_until": "Ongoing",
           "plain_english": "UK operators should avoid Lebanon airspace, except for flights to/from OLBA/Beirut airport over the sea.",
-          "raw_text": "V0034/26 NOTAMR V0033/26 Q) EGXX/QROXX/IV/NBO/W /000/999/5218N01451W999 A) EGTT EGGX EGPX B) 2610231431 C) PERM E) SECURITY - HAZARDOUS SITUATION IN LEBANON. UK REGISTERED AIR OPERATORS ARE RECOMMENDED NOT TO ENTER FIR BEIRUT (OLBB), EXCEPT FOR OPERATIONS TO/FROM OLBA WHICH COMMENCE ARRIVAL AND COMPLETE DEPARTURE OVER THE MEDITERRANEAN SEA. POTENTIAL RISK FROM HEIGHTENED MILITARY ACTIVITY. THIS SUPERCEDES THE INFORMATION CONTAINED IN THE UK CIVIL AIP ENR 1.1. AR-2026-3194/03. F) SFC G) UNL"
+          "raw_text": "SECURITY - HAZARDOUS SITUATION IN LEBANON. UK REGISTERED AIR OPERATORS ARE RECOMMENDED NOT TO ENTER FIR BEIRUT (OLBB), EXCEPT FOR OPERATIONS TO/FROM OLBA WHICH COMMENCE ARRIVAL AND COMPLETE DEPARTURE OVER THE MEDITERRANEAN SEA. POTENTIAL RISK FROM HEIGHTENED MILITARY ACTIVITY. THIS SUPERCEDES THE INFORMATION CONTAINED IN THE UK CIVIL AIP ENR 1.1. AR-2026-3194/03"
         },
         {
           "source": "Germany",
@@ -872,7 +864,7 @@
         },
         {
           "source": "Canada",
-          "reference": "AIC 17/26",
+          "reference": "AIC 27/26",
           "issued": "01 Aug 2024",
           "valid_until": "Ongoing",
           "plain_english": "Canadian operators should not enter the OLBB/Beirut FIR due to potential risk from military activity.",
@@ -931,7 +923,7 @@
         },
         {
           "source": "Canada",
-          "reference": "AIC 17/26",
+          "reference": "AIC 27/26",
           "issued": "18 Feb 2020",
           "valid_until": "Ongoing",
           "plain_english": "Canadian operators should not enter the HLLL/Tripoli FIR, due to the potential risk from anti- aviation weaponry and military operations.",
@@ -966,10 +958,10 @@
       "warnings": [
         {
           "source": "Canada",
-          "reference": "Notam CZVR F6191/26",
+          "reference": "Notam CZUL H7350/26",
           "issued": "06 Nov 2026",
           "valid_until": "12 Nov 2026",
-          "plain_english": "Canadian operators are recommended to remain at or above FL320 while in portions of the GOOO/Dakar and DRRR/Niamey FIRs overhead Mali due to risk of anti-aircraft fire and military activity.",
+          "plain_english": "Canadian operators should remain at or above FL320 in portions of the GOOO/Dakar and DRRR/Niamey FIRs overhead Malian territory due to risk of anti-aircraft fire and military activity.",
           "raw_text": "AIRSPACE SECURITY WARNING ISSUED BY THE DEPARTMENT OF TRANSPORT IN RESPONSE TO THE SECURITY SITUATION IN MALI. CANADIAN AIR OPERATORS AND OWNERS OF AIRCRAFT REGISTERED IN CANADA ARE RECOMMENDED TO MAINTAIN A FLIGHT LEVEL EQUAL TO OR ABOVE FL320 IN THE PORTIONS OF FIR DAKAR (GOOO) AND FIR NIAMEY (DRRR) LOCATED IN THE TERRITORY OF MALI DUE TO THE POTENTIAL RISK FROM MILITANT ACTIVITY AND ANTI-AIRCRAFT WEAPONRY."
         },
         {
@@ -981,7 +973,7 @@
           "raw_text": "F2246/26 NOTAMR F1912/26 Q) LFXX/QXXCH/I /BO /E /000/999/4412N00040E460 A) LFBB LFFF LFRR LFEE LFMM B) 2610291248 C) 2611252359 E) DUE TO SECURITY SITUATION IN MALI, FRENCH AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY FRANCE, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN FRANCE ARE REQUESTED TO MAINTAIN AT ALL TIMES A FLIGHT LEVEL ABOVE OR EQUAL TO FL320 IN THE PART OF FIR DAKAR (GOOO) AND IN THE PART OF FIR NIAMEY (DRRR) LOCATED ABOVE THE MALIAN TERRITORY AND NOT TO SERVE OR IDENTIFY AS ALTERNATE BAMAKO MODIBO - KEITA AERODROME (GABS). THIS NOTAM SUPERSEDES THE RESTRICTIONS CONCERNING MALI ISSUED IN PARAGRAPH 3.11 MALI OF THE AIC NR A16/26 CURRENTLY IN EFFECT."
         },
         {
-          "source": "United Kingdom",
+          "source": "UK",
           "reference": "Notam EGTT V0035/26",
           "issued": "26 Oct 2026",
           "valid_until": "24 Jan 2027",
@@ -995,6 +987,14 @@
           "valid_until": "29 Nov 2026",
           "plain_english": "Italian operators should avoid the airspace of Mali below 25000 ft AGL.",
           "raw_text": "ITALIAN AIR CARRIERS AND CAPTAINS OF AIRCRAFT IN CHARGE OF AIR SERVICES OPERATED BY CARRIERS HOLDING AN OPERATING LICENSE ISSUED BY ITALY, WHETHER THEY ARE CONTRACTUAL CARRIERS AND/OR OPERATING CARRIERS, OR PERFORMING AIR SERVICES THROUGH A WET LEASE OR A CODESHARE AGREEMENT AS WELL AS FOR ANY FLIGHT MADE WITH AN AIRCRAFT REGISTERED IN ITALY ARE RECOMMENDED TO AVOID PORTIONS OF DAKAR FIR (GOOO) AND NIAMEY FIR (DRRR) WITHIN TERRITORY AND AIRSPACE OF MALI BELOW HEIGHT 25000FT AGL AND ACCORDING TO EASA SAFETY DIRECTIVES."
+        },
+        {
+          "source": "Canada",
+          "reference": "AIC 27/26",
+          "issued": "12 May 2026",
+          "valid_until": "Ongoing",
+          "plain_english": "Canadian operators should remain at or above FL320 in portions of the GOOO/Dakar and DRRR/Niamey FIRs overhead Malian territory due to risk of anti-aircraft fire and military activity.",
+          "raw_text": "Level 2 (Recommendation) SECURITY – HAZARDOUS SITUATION IN MALI. Canadian Air Operators and owners of aircraft registered in Canada are recommended to maintain a flight level equal to or above FL320 in the portions of FIR Dakar (GOOO) and FIR Niamey (DRRR) located in the territory of Mali. Potential risk from militant activity and anti-aviation weaponry."
         },
         {
           "source": "USA",
@@ -1089,7 +1089,7 @@
         },
         {
           "source": "Canada",
-          "reference": "AIC 17/26",
+          "reference": "AIC 27/26",
           "issued": "24 Feb 2022",
           "valid_until": "Ongoing",
           "plain_english": "Canadian operators are prohibited from the LUUU/Chisinau FIR.",
@@ -1108,10 +1108,10 @@
       "warnings": [
         {
           "source": "Canada",
-          "reference": "Notam CZVR F6190/26",
+          "reference": "Notam CZUL H7349/26",
           "issued": "06 Nov 2026",
           "valid_until": "12 Nov 2026",
-          "plain_english": "It's recommended that Candian operators remain at or above FL260 in the VYYF/Yangon FIR due to risk of anti-aircraft weaponry.",
+          "plain_english": "Canadian operators should remain at or above FL260 in the VYYF/Yangon FIR due to risk of anti-aircraft weaponry.",
           "raw_text": "AIRSPACE SECURITY WARNING ISSUED BY THE DEPARTMENT OF TRANSPORT IN RESPONSE TO THE SECURITY SITUATION IN MYANMAR. CANADIAN AIR OPERATORS AND OWNERS OF AIRCRAFT REGISTERED IN CANADA ARE RECOMMENDED TO MAINTAIN A FLIGHT LEVEL AT OR ABOVE FL260 IN FIR YANGON (VYYF) DUE TO THE RISK FROM ANTI-AIRCRAFT WEAPONRY."
         },
         {
@@ -1129,6 +1129,14 @@
           "valid_until": "31 Jan 2027",
           "plain_english": "Operators should take potential risk into account below FL260 in the airspace of Myanmar.",
           "raw_text": "Information Note on threat and risk situation in the airspace of Myanmar (FIR Yangon - VYYF) Airspace affected: Airspace above the territory of Myanmar (FIR Yangon – VYYF), below FL 260 Civil air operators are advised to take potential risk into account in their risk assessment and routing decisions."
+        },
+        {
+          "source": "Canada",
+          "reference": "AIC 27/26",
+          "issued": "12 May 2026",
+          "valid_until": "Ongoing",
+          "plain_english": "Canadian operators should remain at or above FL260 in the VYYF/Yangon FIR due to risk of anti-aircraft weaponry.",
+          "raw_text": "Level 2 (Recommendation) SECURITY – HAZARDOUS SECURITY SITUATION IN MYANMAR. Canadian Air Operators and owners of aircraft registered in Canada are recommended to maintain a flight level equal to or above FL260 in FIR Yangon (VYYF). Potential risk from anti-aviation weaponry and military operations."
         },
         {
           "source": "France",
@@ -1172,6 +1180,14 @@
           "valid_until": "30 Apr 2027",
           "plain_english": "Operators should exercise caution in Niger below FL260.",
           "raw_text": "Information Note on the threat and risk situation in the airspace of Niger. Airspace affected: Airspace of Niger located within FIR Niamey (DRRR) - below FL 260."
+        },
+        {
+          "source": "Germany",
+          "reference": "Notam B0764/26",
+          "issued": "21 Sep 2026",
+          "valid_until": "21 Dec 2026",
+          "plain_english": "Caution to German operators in the DRRR/Niamey FIR due to the risk of terrorist attacks.",
+          "raw_text": "SECURITY - HAZARDOUS SITUATION IN NIGER CIVIL GERMAN AIR OPERATORS ARE ADVISED TO TAKE POTENTIAL RISK INTO ACCOUNT IN THEIR RISK ASSESSMENT AND ROUTING DECISIONS WITHIN THE PARTS OF FIR NIAMEY (DRRR) WITHIN THE TERRITORY AND AIRSPACE OF NIGER FOR LANDING, TAXIING, PARKING AND TAKE OFF. POTENTIAL RISK FROM TERRORIST ATTACKS."
         }
       ],
       "slug": "niger",
@@ -1350,7 +1366,7 @@
         },
         {
           "source": "Canada",
-          "reference": "AIC 17/26",
+          "reference": "AIC 27/26",
           "issued": "24 Feb 2022",
           "valid_until": "Ongoing",
           "plain_english": "Canadian operators are prohibited from the URRV/Rostov FIR, and the airspace of Russia within 200nm of the FIR boundaries with Ukraine in the UUWV/Moscow FIR.",
@@ -1413,7 +1429,7 @@
         },
         {
           "source": "Canada",
-          "reference": "AIC 17/26",
+          "reference": "AIC 27/26",
           "issued": "09 Feb 2021",
           "valid_until": "Ongoing",
           "plain_english": "Canadian operators overflying the HCSM/FIR Mogadishu FIR should be at FL260 or above, due to the potential risk from anti- aviation weaponry and military operations.",
@@ -1488,7 +1504,7 @@
         },
         {
           "source": "Canada",
-          "reference": "AIC 17/26",
+          "reference": "AIC 27/26",
           "issued": "18 May 2023",
           "valid_until": "Ongoing",
           "plain_english": "Canadian operators should avoid the HSSS/Khartoum FIR due to risks from anti-aircraft weaponry and military activity.",
@@ -1539,7 +1555,7 @@
         },
         {
           "source": "Canada",
-          "reference": "AIC 17/26",
+          "reference": "AIC 27/26",
           "issued": "26 Dec 2024",
           "valid_until": "Ongoing",
           "plain_english": "Canadian operators are prohibited from entering the airspace of Syria due to the potential risk from anti- aviation weaponry and military operations. Also caution for flights near the OSTT/Damascus FIR.",
@@ -1707,7 +1723,7 @@
         },
         {
           "source": "Canada",
-          "reference": "AIC 17/26",
+          "reference": "AIC 27/26",
           "issued": "24 Feb 2022",
           "valid_until": "Ongoing",
           "plain_english": "Canadian operators are prohibited from the airspace of Ukraine, including the contested UKFV/Simferopol FIR over Crimea (claimed by Russia as the URFV FIR).",
@@ -1817,7 +1833,7 @@
         },
         {
           "source": "Canada",
-          "reference": "AIC 17/26",
+          "reference": "AIC 27/26",
           "issued": "09 Feb 2021",
           "valid_until": "Ongoing",
           "plain_english": "Canadian operators should not enter the OYSC/Sanaa FIR, including the oceanic part up to airway UT702, due to the potential risks from anti-aviation weaponry and military operations",
